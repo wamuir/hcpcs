@@ -1,0 +1,29 @@
+# Site settings
+title: HCPCS Selection Tool
+#subtitle: A Tool to Assist Government Acquisition Professionals with the Identification of HCPCS Codes
+email: william.muir@nps.edu
+description: Health Care Procedure Coding System (HCPCS) Selection Tool for Government Acquisition Professionals
+baseurl: "/editorial-jekyll-theme" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+author: William Muir
+street_address:
+city: 
+state:
+zip_code:
+country:
+phone:
+
+# Social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: 
+pinterest_url:
+slack_url:
+twitter_url:
+
+# Build settings
+markdown: kramdown

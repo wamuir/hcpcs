@@ -1,0 +1,109 @@
+<!-- Sidebar -->
+  <div id="sidebar">
+    <div class="inner">
+
+      <!-- Search -->
+        <section id="search" class="alt">
+          <form method="post" action="#">
+            <input type="text" name="query" id="query" placeholder="Search" />
+          </form>
+        </section>
+
+      <!-- Menu -->
+        <nav id="menu">
+          <header class="major">
+            <h2>Menu</h2>
+          </header>
+          <ul>
+            <li><a href="{{ 'index.html' | absolute_url }}">Homepage</a></li>
+            <li><a href="{{ 'about.html' | absolute_url }}">About HPCPS</a></li>
+            <li><a href="{{ 'how-to-use.html' | absolute_url }}">How to Use</a></li>
+            <li>
+              <span class="opener">Codes by Group</span>
+              <ul>
+		<li><a href="{{ 'groups/a.html' | absolute_url }}">A0000–A9999: Transportation Services, Including Ambulance Medical and Surgical Supplies</a></li>
+                <li><a href="{{ 'groups/b.html' | absolute_url }}">B4000–B9999: Enteral and Perenteral Therapy</a></li>
+                <li><a href="{{ 'groups/c.html' | absolute_url }}">C1000–C9999: Outpatient Prospective Payment System</a></li>
+                <li><a href="{{ 'groups/d.html' | absolute_url }}">D0000–D9999: Dental Procedures</a></li>
+                <li><a href="{{ 'groups/e.html' | absolute_url }}">E0100–E9999: Durable Medical Equipment</a></li>
+                <li><a href="{{ 'groups/g.html' | absolute_url }}">G0000–G9999: Procedures/Professional Services</a></li>
+                <li><a href="{{ 'groups/h.html' | absolute_url }}">H0001–H2037: Alcohol and Drug Abuse Treatment/Rehabilitative Services</a></li>
+                <li><a href="{{ 'groups/j.html' | absolute_url }}">J0000–J9999: Drugs Administered Other Than Oral Method</a></li>
+                <li><a href="{{ 'groups/k.html' | absolute_url }}">K0000–K9999: Durable Medical Equipment for Medicare Administrative Contractors</a></li>
+                <li><a href="{{ 'groups/l.html' | absolute_url }}">L0000–L9999: Orthotic and Prosthetic Procedures, Devices</a></li>
+                <li><a href="{{ 'groups/m.html' | absolute_url }}">M0000–M9999: Medical Services</a></li>
+                <li><a href="{{ 'groups/p.html' | absolute_url }}">P0000–P9999: Pathology and Laboratory Services</a></li>
+                <li><a href="{{ 'groups/q.html' | absolute_url }}">Q0000–Q9999: Miscellaneous Services</a></li>
+                <li><a href="{{ 'groups/r.html' | absolute_url }}">R0000–R9999: Diagnostic Radiology Services</a></li>
+                <li><a href="{{ 'groups/s.html' | absolute_url }}">S0000-S9999: Commercial Payers</a></li>
+                <li><a href="{{ 'groups/t.html' | absolute_url }}">T0000–T9999: Established for State Medical Agencies</a></li>
+                <li><a href="{{ 'groups/v.html' | absolute_url }}">V0000–V9999: Vision, Hearing and Speech-Language Pathology Services</a></li>
+              </ul>
+            </li>
+	    <li><a href="{{ 'keyword-index.html' | absolute_url }}">Keyword Index</a></li>
+	    <li><a href="{{ 'book.html' | absolute_url }}" target="_blank">Master Reference</a></li>
+	    <!--
+            <li><a href="#">Adipiscing</a></li>
+            <li>
+              <span class="opener">Another Submenu</span>
+              <ul>
+                <li><a href="#">Lorem Dolor</a></li>
+                <li><a href="#">Ipsum Adipiscing</a></li>
+                <li><a href="#">Tempus Magna</a></li>
+                <li><a href="#">Feugiat Veroeros</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Maximus Erat</a></li>
+            <li><a href="#">Sapien Mauris</a></li>
+	    -->
+          </ul>
+        </nav>
+
+      <!-- Section -->
+        <section>
+          <header class="major">
+            <h2>COVID-19 Resources for Acquisition Professionals</h2>
+          </header>
+          <div class="mini-posts">
+            <article>
+		    <a href="https://www.whitehouse.gov/wp-content/uploads/2020/03/M-20-18.pdf" class="image"><img src="{{ 'assets/images/joshua-sukoff-5DDYHjk_KMU-unsplash.jpg' | absolute_url }}" alt="" /></a>
+	      <p>OMB Memorandum: <i>Managing Federal Contract Performance Issues Associated with the Novel Coronavirus</i> (March 20th, 2020)</p>
+            </article>
+	    <article>
+		    <a href="https://www.acq.osd.mil/dpap/pacc/cc/COVID-19.html" class="image"><img src="{{ 'assets/images/michael-afonso-BQgAYwERXhs-unsplash.jpg' | absolute_url }}" alt="" /></a>
+	      <p>Defense Pricing and Contracting (DPC) COVID-19 Policy, Announcements and Resources</p>
+	    </article>
+            <article>
+		    <a href="https://www.defense.gov/Explore/Spotlight/Coronavirus/" class="image"><img src="{{ 'assets/images/200324-N-PH222-1011Y.JPG' | absolute_url }}" alt="" /></a>
+              <p>News, Updates and Guidance on the Coronavirus from the Department of Defense</p>
+            </article>
+          </div>
+          <ul class="actions">
+            <li><a href="#" class="button">More</a></li>
+          </ul>
+        </section>
+
+      <!-- Section -->
+        <section>
+          <header class="major">
+            <h2>Get in touch</h2>
+          </header>
+          <p>Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+          <ul class="contact">
+            <li class="fa-envelope-o"><a href="#">{{ site.email }}</a></li>
+	    <!--
+            <li class="fa-phone">{{ site.phone }}</li>
+            <li class="fa-home">{{ site.street_address }}<br />
+            {{ site.city }}, {{ site.state }} {{ site.zip_code }}<br />
+            {{ site.country }}</li>
+	    -->
+          </ul>
+        </section>
+
+      <!-- Footer -->
+        <footer id="footer">
+          <p class="copyright">&copy; {{ site.title }}. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>. Design: <a href="https://html5up.net">HTML5 UP</a>. Jekyll integration: <a href="https://andrewbanchi.ch">Andrew Banchich</a>.</p>
+        </footer>
+
+    </div>
+  </div>
