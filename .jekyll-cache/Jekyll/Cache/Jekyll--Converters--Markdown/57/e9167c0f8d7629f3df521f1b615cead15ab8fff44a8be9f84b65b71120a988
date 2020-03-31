@@ -1,0 +1,3696 @@
+I"�<table>
+  <thead>
+    <tr>
+      <th>HCPC</th>
+      <th>SEQNUM</th>
+      <th>RECID</th>
+      <th>LONG DESCRIPTION</th>
+      <th>SHORT DESCRIPTION</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>S0012</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Butorphanol tartrate, nasal spray, 25 mg</td>
+      <td>Butorphanol tartrate, nasal</td>
+    </tr>
+    <tr>
+      <td>S0014</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tacrine hydrochloride, 10 mg</td>
+      <td>Tacrine hydrochloride, 10 mg</td>
+    </tr>
+    <tr>
+      <td>S0017</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, aminocaproic acid, 5 grams</td>
+      <td>Injection, aminocaproic acid</td>
+    </tr>
+    <tr>
+      <td>S0020</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, bupivicaine hydrochloride, 30 ml</td>
+      <td>Injection, bupivicaine hydro</td>
+    </tr>
+    <tr>
+      <td>S0021</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, cefoperazone sodium, 1 gram</td>
+      <td>Injection, cefoperazone sod</td>
+    </tr>
+    <tr>
+      <td>S0023</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, cimetidine hydrochloride, 300 mg</td>
+      <td>Injection, cimetidine hydroc</td>
+    </tr>
+    <tr>
+      <td>S0028</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, famotidine, 20 mg</td>
+      <td>Injection, famotidine, 20 mg</td>
+    </tr>
+    <tr>
+      <td>S0030</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, metronidazole, 500 mg</td>
+      <td>Injection, metronidazole</td>
+    </tr>
+    <tr>
+      <td>S0032</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, nafcillin sodium, 2 grams</td>
+      <td>Injection, nafcillin sodium</td>
+    </tr>
+    <tr>
+      <td>S0034</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ofloxacin, 400 mg</td>
+      <td>Injection, ofloxacin, 400 mg</td>
+    </tr>
+    <tr>
+      <td>S0039</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, sulfamethoxazole and trimethoprim, 10 ml</td>
+      <td>Injection, sulfamethoxazole</td>
+    </tr>
+    <tr>
+      <td>S0040</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ticarcillin disodium and clavulanate potassium, 3.1 grams</td>
+      <td>Injection, ticarcillin disod</td>
+    </tr>
+    <tr>
+      <td>S0073</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, aztreonam, 500 mg</td>
+      <td>Injection, aztreonam, 500 mg</td>
+    </tr>
+    <tr>
+      <td>S0074</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, cefotetan disodium, 500 mg</td>
+      <td>Injection, cefotetan disodiu</td>
+    </tr>
+    <tr>
+      <td>S0077</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, clindamycin phosphate, 300 mg</td>
+      <td>Injection, clindamycin phosp</td>
+    </tr>
+    <tr>
+      <td>S0078</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, fosphenytoin sodium, 750 mg</td>
+      <td>Injection, fosphenytoin sodi</td>
+    </tr>
+    <tr>
+      <td>S0080</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, pentamidine isethionate, 300 mg</td>
+      <td>Injection, pentamidine iseth</td>
+    </tr>
+    <tr>
+      <td>S0081</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, piperacillin sodium, 500 mg</td>
+      <td>Injection, piperacillin sodi</td>
+    </tr>
+    <tr>
+      <td>S0088</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Imatinib, 100 mg</td>
+      <td>Imatinib 100 mg</td>
+    </tr>
+    <tr>
+      <td>S0090</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Sildenafil citrate, 25 mg</td>
+      <td>Sildenafil citrate, 25 mg</td>
+    </tr>
+    <tr>
+      <td>S0091</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Granisetron hydrochloride, 1 mg (for circumstances falling under the medicare statute, use q0166)</td>
+      <td>Granisetron 1mg</td>
+    </tr>
+    <tr>
+      <td>S0092</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, hydromorphone hydrochloride, 250 mg (loading dose for infusion pump)</td>
+      <td>Hydromorphone 250 mg</td>
+    </tr>
+    <tr>
+      <td>S0093</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, morphine sulfate, 500 mg (loading dose for infusion pump)</td>
+      <td>Morphine 500 mg</td>
+    </tr>
+    <tr>
+      <td>S0104</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Zidovudine, oral, 100 mg</td>
+      <td>Zidovudine, oral, 100 mg</td>
+    </tr>
+    <tr>
+      <td>S0106</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Bupropion hcl sustained release tablet, 150 mg, per bottle of 60 tablets</td>
+      <td>Bupropion hcl sr 60 tablets</td>
+    </tr>
+    <tr>
+      <td>S0108</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Mercaptopurine, oral, 50 mg</td>
+      <td>Mercaptopurine 50 mg</td>
+    </tr>
+    <tr>
+      <td>S0109</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Methadone, oral, 5 mg</td>
+      <td>Methadone oral 5mg</td>
+    </tr>
+    <tr>
+      <td>S0117</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tretinoin, topical, 5 grams</td>
+      <td>Tretinoin topical 5 g</td>
+    </tr>
+    <tr>
+      <td>S0119</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ondansetron, oral, 4 mg (for circumstances falling under the medicare statute, use hcpcs q code)</td>
+      <td>Ondansetron 4 mg</td>
+    </tr>
+    <tr>
+      <td>S0122</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, menotropins, 75 iu</td>
+      <td>Inj menotropins 75 iu</td>
+    </tr>
+    <tr>
+      <td>S0126</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, follitropin alfa, 75 iu</td>
+      <td>Inj follitropin alfa 75 iu</td>
+    </tr>
+    <tr>
+      <td>S0128</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, follitropin beta, 75 iu</td>
+      <td>Inj follitropin beta 75 iu</td>
+    </tr>
+    <tr>
+      <td>S0132</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ganirelix acetate, 250 mcg</td>
+      <td>Inj ganirelix acetat 250 mcg</td>
+    </tr>
+    <tr>
+      <td>S0136</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Clozapine, 25 mg</td>
+      <td>Clozapine, 25 mg</td>
+    </tr>
+    <tr>
+      <td>S0137</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Didanosine (ddi), 25 mg</td>
+      <td>Didanosine, 25 mg</td>
+    </tr>
+    <tr>
+      <td>S0138</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Finasteride, 5 mg</td>
+      <td>Finasteride, 5 mg</td>
+    </tr>
+    <tr>
+      <td>S0139</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Minoxidil, 10 mg</td>
+      <td>Minoxidil, 10 mg</td>
+    </tr>
+    <tr>
+      <td>S0140</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Saquinavir, 200 mg</td>
+      <td>Saquinavir, 200 mg</td>
+    </tr>
+    <tr>
+      <td>S0142</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Colistimethate sodium, inhalation solution administered through dme, concentrated form, per mg</td>
+      <td>Colistimethate inh sol mg</td>
+    </tr>
+    <tr>
+      <td>S0144</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, propofol, 10 mg</td>
+      <td>Inj, propofol, 10 mg</td>
+    </tr>
+    <tr>
+      <td>S0145</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, pegylated interferon alfa-2a, 180 mcg per ml</td>
+      <td>Peg interferon alfa-2a/180</td>
+    </tr>
+    <tr>
+      <td>S0148</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, pegylated interferon alfa-2b, 10 mcg</td>
+      <td>Peg interferon alfa-2b/10</td>
+    </tr>
+    <tr>
+      <td>S0155</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Sterile dilutant for epoprostenol, 50 ml</td>
+      <td>Epoprostenol dilutant</td>
+    </tr>
+    <tr>
+      <td>S0156</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Exemestane, 25 mg</td>
+      <td>Exemestane, 25 mg</td>
+    </tr>
+    <tr>
+      <td>S0157</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Becaplermin gel 0.01%, 0.5 gm</td>
+      <td>Becaplermin gel 1%, 0.5 gm</td>
+    </tr>
+    <tr>
+      <td>S0160</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Dextroamphetamine sulfate, 5 mg</td>
+      <td>Dextroamphetamine</td>
+    </tr>
+    <tr>
+      <td>S0164</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, pantoprazole sodium, 40 mg</td>
+      <td>Injection pantroprazole</td>
+    </tr>
+    <tr>
+      <td>S0166</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, olanzapine, 2.5 mg</td>
+      <td>Inj olanzapine 2.5mg</td>
+    </tr>
+    <tr>
+      <td>S0169</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Calcitrol, 0.25 microgram</td>
+      <td>Calcitrol</td>
+    </tr>
+    <tr>
+      <td>S0170</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Anastrozole, oral, 1 mg</td>
+      <td>Anastrozole 1 mg</td>
+    </tr>
+    <tr>
+      <td>S0171</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, bumetanide, 0.5 mg</td>
+      <td>Bumetanide 0.5 mg</td>
+    </tr>
+    <tr>
+      <td>S0172</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Chlorambucil, oral, 2 mg</td>
+      <td>Chlorambucil 2 mg</td>
+    </tr>
+    <tr>
+      <td>S0174</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Dolasetron mesylate, oral 50 mg (for circumstances falling under the medicare statute, use q0180)</td>
+      <td>Dolasetron 50 mg</td>
+    </tr>
+    <tr>
+      <td>S0175</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Flutamide, oral, 125 mg</td>
+      <td>Flutamide 125 mg</td>
+    </tr>
+    <tr>
+      <td>S0176</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hydroxyurea, oral, 500 mg</td>
+      <td>Hydroxyurea 500 mg</td>
+    </tr>
+    <tr>
+      <td>S0177</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Levamisole hydrochloride, oral, 50 mg</td>
+      <td>Levamisole 50 mg</td>
+    </tr>
+    <tr>
+      <td>S0178</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Lomustine, oral, 10 mg</td>
+      <td>Lomustine 10 mg</td>
+    </tr>
+    <tr>
+      <td>S0179</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Megestrol acetate, oral, 20 mg</td>
+      <td>Megestrol 20 mg</td>
+    </tr>
+    <tr>
+      <td>S0182</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Procarbazine hydrochloride, oral, 50 mg</td>
+      <td>Procarbazine, oral</td>
+    </tr>
+    <tr>
+      <td>S0183</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Prochlorperazine maleate, oral, 5 mg (for circumstances falling under the medicare statute, use q0164)</td>
+      <td>Prochlorperazine 5 mg</td>
+    </tr>
+    <tr>
+      <td>S0187</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tamoxifen citrate, oral, 10 mg</td>
+      <td>Tamoxifen 10 mg</td>
+    </tr>
+    <tr>
+      <td>S0189</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Testosterone pellet, 75 mg</td>
+      <td>Testosterone pellet 75 mg</td>
+    </tr>
+    <tr>
+      <td>S0190</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Mifepristone, oral, 200 mg</td>
+      <td>Mifepristone, oral, 200 mg</td>
+    </tr>
+    <tr>
+      <td>S0191</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Misoprostol, oral, 200 mcg</td>
+      <td>Misoprostol, oral, 200 mcg</td>
+    </tr>
+    <tr>
+      <td>S0194</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Dialysis/stress vitamin supplement, oral, 100 capsules</td>
+      <td>Vitamin suppl 100 caps</td>
+    </tr>
+    <tr>
+      <td>S0195</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Pneumococcal conjugate vaccine, polyvalent, intramuscular, for children from five years to nine years of age who have not previously received the vaccine</td>
+      <td>Pneumo vaccine 5-9 yrs</td>
+    </tr>
+    <tr>
+      <td>S0197</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Prenatal vitamins, 30-day supply</td>
+      <td>Prenatal vitamins 30 day</td>
+    </tr>
+    <tr>
+      <td>S0199</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Medically induced abortion by oral ingestion of medication including all associated services and supplies (e.g., patient counseling, office visits, confirmation of pregnancy by hcg, ultrasound to confirm duration of pregnancy, ultrasound to confirm completion of abortion) except drugs</td>
+      <td>Med abortion inc all ex drug</td>
+    </tr>
+    <tr>
+      <td>S0201</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Partial hospitalization services, less than 24 hours, per diem</td>
+      <td>Partial hospitalization serv</td>
+    </tr>
+    <tr>
+      <td>S0207</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Paramedic intercept, non-hospital-based als service (non-voluntary), non-transport</td>
+      <td>Paramedicintercep nonhospals</td>
+    </tr>
+    <tr>
+      <td>S0208</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Paramedic intercept, hospital-based als service (non-voluntary), non-transport</td>
+      <td>Paramed intrcept nonvol</td>
+    </tr>
+    <tr>
+      <td>S0209</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Wheelchair van, mileage, per mile</td>
+      <td>Wc van mileage per mi</td>
+    </tr>
+    <tr>
+      <td>S0215</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Non-emergency transportation; mileage, per mile</td>
+      <td>Nonemerg transp mileage</td>
+    </tr>
+    <tr>
+      <td>S0220</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Medical conference by a physician with interdisciplinary team of health professionals or representatives of community agencies to coordinate activities of patient care (patient is present); approximately 30 minutes</td>
+      <td>Medical conference by physic</td>
+    </tr>
+    <tr>
+      <td>S0221</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Medical conference by a physician with interdisciplinary team of health professionals or representatives of community agencies to coordinate activities of patient care (patient is present); approximately 60 minutes</td>
+      <td>Medical conference, 60 min</td>
+    </tr>
+    <tr>
+      <td>S0250</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Comprehensive geriatric assessment and treatment planning performed by assessment team</td>
+      <td>Comp geriatr assmt team</td>
+    </tr>
+    <tr>
+      <td>S0255</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hospice referral visit (advising patient and family of care options) performed by nurse, social worker, or other designated staff</td>
+      <td>Hospice refer visit nonmd</td>
+    </tr>
+    <tr>
+      <td>S0257</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Counseling and discussion regarding advance directives or end of life care planning and decisions, with patient and/or surrogate (list separately in addition to code for appropriate evaluation and management service)</td>
+      <td>End of life counseling</td>
+    </tr>
+    <tr>
+      <td>S0260</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>History and physical (outpatient or office) related to surgical procedure (list separately in addition to code for appropriate evaluation and management service)</td>
+      <td>H&amp;p for surgery</td>
+    </tr>
+    <tr>
+      <td>S0265</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Genetic counseling, under physician supervision, each 15 minutes</td>
+      <td>Genetic counsel 15 mins</td>
+    </tr>
+    <tr>
+      <td>S0270</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Physician management of patient home care, standard monthly case rate (per 30 days)</td>
+      <td>Home std case rate 30 days</td>
+    </tr>
+    <tr>
+      <td>S0271</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Physician management of patient home care, hospice monthly case rate (per 30 days)</td>
+      <td>Home hospice case 30 days</td>
+    </tr>
+    <tr>
+      <td>S0272</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Physician management of patient home care, episodic care monthly case rate (per 30 days)</td>
+      <td>Home episodic case 30 days</td>
+    </tr>
+    <tr>
+      <td>S0273</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Physician visit at member’s home, outside of a capitation arrangement</td>
+      <td>Md home visit outside cap</td>
+    </tr>
+    <tr>
+      <td>S0274</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Nurse practitioner visit at member’s home, outside of a capitation arrangement</td>
+      <td>Nurse practr visit outs cap</td>
+    </tr>
+    <tr>
+      <td>S0280</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Medical home program, comprehensive care coordination and planning, initial plan</td>
+      <td>Medical home, initial plan</td>
+    </tr>
+    <tr>
+      <td>S0281</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Medical home program, comprehensive care coordination and planning, maintenance of plan</td>
+      <td>Medical home, maintenance</td>
+    </tr>
+    <tr>
+      <td>S0285</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Colonoscopy consultation performed prior to a screening colonoscopy procedure</td>
+      <td>Cnslt before screen colonosc</td>
+    </tr>
+    <tr>
+      <td>S0302</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Completed early periodic screening diagnosis and treatment (epsdt) service (list in addition to code for appropriate evaluation and management service)</td>
+      <td>Completed epsdt</td>
+    </tr>
+    <tr>
+      <td>S0310</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hospitalist services (list separately in addition to code for appropriate evaluation and management service)</td>
+      <td>Hospitalist visit</td>
+    </tr>
+    <tr>
+      <td>S0311</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Comprehensive management and care coordination for advanced illness, per calendar month</td>
+      <td>Comp mgmt care coord adv ill</td>
+    </tr>
+    <tr>
+      <td>S0315</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Disease management program; initial assessment and initiation of the program</td>
+      <td>Disease management program</td>
+    </tr>
+    <tr>
+      <td>S0316</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Disease management program, follow-up/reassessment</td>
+      <td>Follow-up/reassessment</td>
+    </tr>
+    <tr>
+      <td>S0317</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Disease management program; per diem</td>
+      <td>Disease mgmt per diem</td>
+    </tr>
+    <tr>
+      <td>S0320</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Telephone calls by a registered nurse to a disease management program member for monitoring purposes; per month</td>
+      <td>Rn telephone calls to dmp</td>
+    </tr>
+    <tr>
+      <td>S0340</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Lifestyle modification program for management of coronary artery disease, including all supportive services; first quarter / stage</td>
+      <td>Lifestyle mod 1st stage</td>
+    </tr>
+    <tr>
+      <td>S0341</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Lifestyle modification program for management of coronary artery disease, including all supportive services; second or third quarter / stage</td>
+      <td>Lifestyle mod 2 or 3 stage</td>
+    </tr>
+    <tr>
+      <td>S0342</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Lifestyle modification program for management of coronary artery disease, including all supportive services; fourth quarter / stage</td>
+      <td>Lifestyle mod 4th stage</td>
+    </tr>
+    <tr>
+      <td>S0353</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Treatment planning and care coordination management for cancer, initial treatment</td>
+      <td>Cancer treatmentplan initial</td>
+    </tr>
+    <tr>
+      <td>S0354</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Treatment planning and care coordination management for cancer, established patient with a change of regimen</td>
+      <td>Cancer treatment plan change</td>
+    </tr>
+    <tr>
+      <td>S0390</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Routine foot care; removal and/or trimming of corns, calluses and/or nails and preventive maintenance in specific medical conditions (e.g., diabetes), per visit</td>
+      <td>Rout foot care per visit</td>
+    </tr>
+    <tr>
+      <td>S0395</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Impression casting of a foot performed by a practitioner other than the manufacturer of the orthotic</td>
+      <td>Impression casting ft</td>
+    </tr>
+    <tr>
+      <td>S0400</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Global fee for extracorporeal shock wave lithotripsy treatment of kidney stone(s)</td>
+      <td>Global eswl kidney</td>
+    </tr>
+    <tr>
+      <td>S0500</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Disposable contact lens, per lens</td>
+      <td>Dispos cont lens</td>
+    </tr>
+    <tr>
+      <td>S0504</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Single vision prescription lens (safety, athletic, or sunglass), per lens</td>
+      <td>Singl prscrp lens</td>
+    </tr>
+    <tr>
+      <td>S0506</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Bifocal vision prescription lens (safety, athletic, or sunglass), per lens</td>
+      <td>Bifoc prscp lens</td>
+    </tr>
+    <tr>
+      <td>S0508</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Trifocal vision prescription lens (safety, athletic, or sunglass), per lens</td>
+      <td>Trifoc prscrp lens</td>
+    </tr>
+    <tr>
+      <td>S0510</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Non-prescription lens (safety, athletic, or sunglass), per lens</td>
+      <td>Non-prscrp lens</td>
+    </tr>
+    <tr>
+      <td>S0512</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Daily wear specialty contact lens, per lens</td>
+      <td>Daily cont lens</td>
+    </tr>
+    <tr>
+      <td>S0514</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Color contact lens, per lens</td>
+      <td>Color cont lens</td>
+    </tr>
+    <tr>
+      <td>S0515</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Scleral lens, liquid bandage device, per lens</td>
+      <td>Scleral lens liquid bandage</td>
+    </tr>
+    <tr>
+      <td>S0516</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Safety eyeglass frames</td>
+      <td>Safety frames</td>
+    </tr>
+    <tr>
+      <td>S0518</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Sunglasses frames</td>
+      <td>Sunglass frames</td>
+    </tr>
+    <tr>
+      <td>S0580</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Polycarbonate lens (list this code in addition to the basic code for the lens)</td>
+      <td>Polycarb lens</td>
+    </tr>
+    <tr>
+      <td>S0581</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Nonstandard lens (list this code in addition to the basic code for the lens)</td>
+      <td>Nonstnd lens</td>
+    </tr>
+    <tr>
+      <td>S0590</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Integral lens service, miscellaneous services reported separately</td>
+      <td>Misc integral lens serv</td>
+    </tr>
+    <tr>
+      <td>S0592</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Comprehensive contact lens evaluation</td>
+      <td>Comp cont lens eval</td>
+    </tr>
+    <tr>
+      <td>S0595</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Dispensing new spectacle lenses for patient supplied frame</td>
+      <td>New lenses in pts old frame</td>
+    </tr>
+    <tr>
+      <td>S0596</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Phakic intraocular lens for correction of refractive error</td>
+      <td>Phakic iol refractive error</td>
+    </tr>
+    <tr>
+      <td>S0601</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Screening proctoscopy</td>
+      <td>Screening proctoscopy</td>
+    </tr>
+    <tr>
+      <td>S0610</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Annual gynecological examination, new patient</td>
+      <td>Annual gynecological examina</td>
+    </tr>
+    <tr>
+      <td>S0612</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Annual gynecological examination, established patient</td>
+      <td>Annual gynecological examina</td>
+    </tr>
+    <tr>
+      <td>S0613</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Annual gynecological examination; clinical breast examination without pelvic evaluation</td>
+      <td>Ann breast exam</td>
+    </tr>
+    <tr>
+      <td>S0618</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Audiometry for hearing aid evaluation to determine the level and degree of hearing loss</td>
+      <td>Audiometry for hearing aid</td>
+    </tr>
+    <tr>
+      <td>S0620</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Routine ophthalmological examination including refraction; new patient</td>
+      <td>Routine ophthalmological exa</td>
+    </tr>
+    <tr>
+      <td>S0621</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Routine ophthalmological examination including refraction; established patient</td>
+      <td>Routine ophthalmological exa</td>
+    </tr>
+    <tr>
+      <td>S0622</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Physical exam for college, new or established patient (list separately in addition to appropriate evaluation and management code)</td>
+      <td>Phys exam for college</td>
+    </tr>
+    <tr>
+      <td>S0630</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Removal of sutures; by a physician other than the physician who originally closed the wound</td>
+      <td>Removal of sutures</td>
+    </tr>
+    <tr>
+      <td>S0800</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Laser in situ keratomileusis (lasik)</td>
+      <td>Laser in situ keratomileusis</td>
+    </tr>
+    <tr>
+      <td>S0810</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Photorefractive keratectomy (prk)</td>
+      <td>Photorefractive keratectomy</td>
+    </tr>
+    <tr>
+      <td>S0812</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Phototherapeutic keratectomy (ptk)</td>
+      <td>Phototherap keratect</td>
+    </tr>
+    <tr>
+      <td>S1001</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Deluxe item, patient aware (list in addition to code for basic item)</td>
+      <td>Deluxe item</td>
+    </tr>
+    <tr>
+      <td>S1002</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Customized item (list in addition to code for basic item)</td>
+      <td>Custom item</td>
+    </tr>
+    <tr>
+      <td>S1015</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Iv tubing extension set</td>
+      <td>Iv tubing extension set</td>
+    </tr>
+    <tr>
+      <td>S1016</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Non-pvc (polyvinyl chloride) intravenous administration set, for use with drugs that are not stable in pvc e.g., paclitaxel</td>
+      <td>Non-pvc intravenous administ</td>
+    </tr>
+    <tr>
+      <td>S1030</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Continuous noninvasive glucose monitoring device, purchase (for physician interpretation of data, use cpt code)</td>
+      <td>Gluc monitor purchase</td>
+    </tr>
+    <tr>
+      <td>S1031</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Continuous noninvasive glucose monitoring device, rental, including sensor, sensor replacement, and download to monitor (for physician interpretation of data, use cpt code)</td>
+      <td>Gluc monitor rental</td>
+    </tr>
+    <tr>
+      <td>S1034</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Artificial pancreas device system (e.g., low glucose suspend (lgs) feature) including continuous glucose monitor, blood glucose device, insulin pump and computer algorithm that communicates with all of the devices</td>
+      <td>Art pancreas system</td>
+    </tr>
+    <tr>
+      <td>S1035</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Sensor; invasive (e.g., subcutaneous), disposable, for use with artificial pancreas device system</td>
+      <td>Art pancreas inv disp sensor</td>
+    </tr>
+    <tr>
+      <td>S1036</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Transmitter; external, for use with artificial pancreas device system</td>
+      <td>Art pancreas ext transmitter</td>
+    </tr>
+    <tr>
+      <td>S1037</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Receiver (monitor); external, for use with artificial pancreas device system</td>
+      <td>Art pancreas ext receiver</td>
+    </tr>
+    <tr>
+      <td>S1040</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Cranial remolding orthosis, pediatric, rigid, with soft interface material, custom fabricated, includes fitting and adjustment(s)</td>
+      <td>Cranial remolding orthosis</td>
+    </tr>
+    <tr>
+      <td>S1090</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Mometasone furoate sinus implant, 370 micrograms</td>
+      <td>Mometasone sinus implant</td>
+    </tr>
+    <tr>
+      <td>S2053</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Transplantation of small intestine and liver allografts</td>
+      <td>Transplantation of small int</td>
+    </tr>
+    <tr>
+      <td>S2054</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Transplantation of multivisceral organs</td>
+      <td>Transplantation of multivisc</td>
+    </tr>
+    <tr>
+      <td>S2055</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Harvesting of donor multivisceral organs, with preparation and maintenance of allografts; from cadaver donor</td>
+      <td>Harvesting of donor multivis</td>
+    </tr>
+    <tr>
+      <td>S2060</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Lobar lung transplantation</td>
+      <td>Lobar lung transplantation</td>
+    </tr>
+    <tr>
+      <td>S2061</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Donor lobectomy (lung) for transplantation, living donor</td>
+      <td>Donor lobectomy (lung)</td>
+    </tr>
+    <tr>
+      <td>S2065</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Simultaneous pancreas kidney transplantation</td>
+      <td>Simult panc kidn trans</td>
+    </tr>
+    <tr>
+      <td>S2066</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Breast reconstruction with gluteal artery perforator (gap) flap, including harvesting of the flap, microvascular transfer, closure of donor site and shaping the flap into a breast, unilateral</td>
+      <td>Breast gap flap reconst</td>
+    </tr>
+    <tr>
+      <td>S2067</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Breast reconstruction of a single breast with “stacked” deep inferior epigastric perforator (diep) flap(s) and/or gluteal artery perforator (gap) flap(s), including harvesting of the flap(s), microvascular transfer, closure of donor site(s) and shaping the flap into a breast, unilateral</td>
+      <td>Breast “stacked” diep/gap</td>
+    </tr>
+    <tr>
+      <td>S2068</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Breast reconstruction with deep inferior epigastric perforator (diep) flap or superficial inferior epigastric artery (siea) flap, including harvesting of the flap, microvascular transfer, closure of donor site and shaping the flap into a breast, unilateral</td>
+      <td>Breast diep or siea flap</td>
+    </tr>
+    <tr>
+      <td>S2070</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Cystourethroscopy, with ureteroscopy and/or pyeloscopy; with endoscopic laser treatment of ureteral calculi (includes ureteral catheterization)</td>
+      <td>Cysto laser tx ureteral calc</td>
+    </tr>
+    <tr>
+      <td>S2079</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Laparoscopic esophagomyotomy (heller type)</td>
+      <td>Lap esophagomyotomy</td>
+    </tr>
+    <tr>
+      <td>S2080</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Laser-assisted uvulopalatoplasty (laup)</td>
+      <td>Laup</td>
+    </tr>
+    <tr>
+      <td>S2083</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Adjustment of gastric band diameter via subcutaneous port by injection or aspiration of saline</td>
+      <td>Adjustment gastric band</td>
+    </tr>
+    <tr>
+      <td>S2095</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Transcatheter occlusion or embolization for tumor destruction, percutaneous, any method, using yttrium-90 microspheres</td>
+      <td>Transcath emboliz microspher</td>
+    </tr>
+    <tr>
+      <td>S2102</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Islet cell tissue transplant from pancreas; allogeneic</td>
+      <td>Islet cell tissue transplant</td>
+    </tr>
+    <tr>
+      <td>S2103</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Adrenal tissue transplant to brain</td>
+      <td>Adrenal tissue transplant</td>
+    </tr>
+    <tr>
+      <td>S2107</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Adoptive immunotherapy i.e. development of specific anti-tumor reactivity (e.g., tumor-infiltrating lymphocyte therapy) per course of treatment</td>
+      <td>Adoptive immunotherapy</td>
+    </tr>
+    <tr>
+      <td>S2112</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Arthroscopy, knee, surgical for harvesting of cartilage (chondrocyte cells)</td>
+      <td>Knee arthroscp harv</td>
+    </tr>
+    <tr>
+      <td>S2115</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Osteotomy, periacetabular, with internal fixation</td>
+      <td>Periacetabular osteotomy</td>
+    </tr>
+    <tr>
+      <td>S2117</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Arthroereisis, subtalar</td>
+      <td>Arthroereisis, subtalar</td>
+    </tr>
+    <tr>
+      <td>S2118</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Metal-on-metal total hip resurfacing, including acetabular and femoral components</td>
+      <td>Total hip resurfacing</td>
+    </tr>
+    <tr>
+      <td>S2120</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Low density lipoprotein (ldl) apheresis using heparin-induced extracorporeal ldl precipitation</td>
+      <td>Low density lipoprotein(ldl)</td>
+    </tr>
+    <tr>
+      <td>S2140</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Cord blood harvesting for transplantation, allogeneic</td>
+      <td>Cord blood harvesting</td>
+    </tr>
+    <tr>
+      <td>S2142</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Cord blood-derived stem-cell transplantation, allogeneic</td>
+      <td>Cord blood-derived stem-cell</td>
+    </tr>
+    <tr>
+      <td>S2150</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Bone marrow or blood-derived stem cells (peripheral or umbilical), allogeneic or autologous, harvesting, transplantation, and related complications; including: pheresis and cell preparation/storage; marrow ablative therapy; drugs, supplies, hospitalization with outpatient follow-up; medical/surgical, diagnostic, emergency, and rehabilitative services; and the number of days of pre-and post-transplant care in the global definition</td>
+      <td>Bmt harv/transpl 28d pkg</td>
+    </tr>
+    <tr>
+      <td>S2152</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Solid organ(s), complete or segmental, single organ or combination of organs; deceased or living donor(s), procurement, transplantation, and related complications; including: drugs; supplies; hospitalization with outpatient follow-up; medical/surgical, diagnostic, emergency, and rehabilitative services, and the number of days of pre- and post-transplant care in the global definition</td>
+      <td>Solid organ transpl pkg</td>
+    </tr>
+    <tr>
+      <td>S2202</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Echosclerotherapy</td>
+      <td>Echosclerotherapy</td>
+    </tr>
+    <tr>
+      <td>S2205</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Minimally invasive direct coronary artery bypass surgery involving mini-thoracotomy or mini-sternotomy surgery, performed under direct vision; using arterial graft(s), single coronary arterial graft</td>
+      <td>Minimally invasive direct co</td>
+    </tr>
+    <tr>
+      <td>S2206</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Minimally invasive direct coronary artery bypass surgery involving mini-thoracotomy or mini-sternotomy surgery, performed under direct vision; using arterial graft(s), two coronary arterial grafts</td>
+      <td>Minimally invasive direct co</td>
+    </tr>
+    <tr>
+      <td>S2207</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Minimally invasive direct coronary artery bypass surgery involving mini-thoracotomy or mini-sternotomy surgery, performed under direct vision; using venous graft only, single coronary venous graft</td>
+      <td>Minimally invasive direct co</td>
+    </tr>
+    <tr>
+      <td>S2208</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Minimally invasive direct coronary artery bypass surgery involving mini-thoracotomy or mini-sternotomy surgery, performed under direct vision; using single arterial and venous graft(s), single venous graft</td>
+      <td>Minimally invasive direct co</td>
+    </tr>
+    <tr>
+      <td>S2209</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Minimally invasive direct coronary artery bypass surgery involving mini-thoracotomy or mini-sternotomy surgery, performed under direct vision; using two arterial grafts and single venous graft</td>
+      <td>Minimally invasive direct co</td>
+    </tr>
+    <tr>
+      <td>S2225</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Myringotomy, laser-assisted</td>
+      <td>Myringotomy laser-assist</td>
+    </tr>
+    <tr>
+      <td>S2230</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Implantation of magnetic component of semi-implantable hearing device on ossicles in middle ear</td>
+      <td>Implant semi-imp hear</td>
+    </tr>
+    <tr>
+      <td>S2235</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Implantation of auditory brain stem implant</td>
+      <td>Implant auditory brain imp</td>
+    </tr>
+    <tr>
+      <td>S2260</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Induced abortion, 17 to 24 weeks</td>
+      <td>Induced abortion 17-24 weeks</td>
+    </tr>
+    <tr>
+      <td>S2265</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Induced abortion, 25 to 28 weeks</td>
+      <td>Induced abortion 25-28 wks</td>
+    </tr>
+    <tr>
+      <td>S2266</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Induced abortion, 29 to 31 weeks</td>
+      <td>Induced abortion 29-31 wks</td>
+    </tr>
+    <tr>
+      <td>S2267</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Induced abortion, 32 weeks or greater</td>
+      <td>Induced abortion 32 or more</td>
+    </tr>
+    <tr>
+      <td>S2300</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Arthroscopy, shoulder, surgical; with thermally-induced capsulorrhaphy</td>
+      <td>Arthroscopy, shoulder, surgi</td>
+    </tr>
+    <tr>
+      <td>S2325</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hip core decompression</td>
+      <td>Hip core decompression</td>
+    </tr>
+    <tr>
+      <td>S2340</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Chemodenervation of abductor muscle(s) of vocal cord</td>
+      <td>Chemodenervation of abductor</td>
+    </tr>
+    <tr>
+      <td>S2341</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Chemodenervation of adductor muscle(s) of vocal cord</td>
+      <td>Chemodenerv adduct vocal</td>
+    </tr>
+    <tr>
+      <td>S2342</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Nasal endoscopy for post-operative debridement following functional endoscopic sinus surgery, nasal and/or sinus cavity(s), unilateral or bilateral</td>
+      <td>Nasal endoscop po debrid</td>
+    </tr>
+    <tr>
+      <td>S2348</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Decompression procedure, percutaneous, of nucleus pulposus of intervertebral disc, using radiofrequency energy, single or multiple levels, lumbar</td>
+      <td>Decompress disc rf lumbar</td>
+    </tr>
+    <tr>
+      <td>S2350</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Diskectomy, anterior, with decompression of spinal cord and/or nerve root(s), including osteophytectomy; lumbar, single interspace</td>
+      <td>Diskectomy, anterior, with d</td>
+    </tr>
+    <tr>
+      <td>S2351</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Diskectomy, anterior, with decompression of spinal cord and/or nerve root(s), including osteophytectomy; lumbar, each additional interspace (list separately in addition to code for primary procedure)</td>
+      <td>Diskectomy, anterior, with d</td>
+    </tr>
+    <tr>
+      <td>S2360</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Percutaneous vertebroplasty, one vertebral body, unilateral or bilateral injection; cervical</td>
+      <td>Vertebroplast cerv 1st</td>
+    </tr>
+    <tr>
+      <td>S2361</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Each additional cervical vertebral body (list separately in addition to code for primary procedure)</td>
+      <td>Vertebroplast cerv addl</td>
+    </tr>
+    <tr>
+      <td>S2400</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Repair, congenital diaphragmatic hernia in the fetus using temporary tracheal occlusion, procedure performed in utero</td>
+      <td>Fetal surg congen hernia</td>
+    </tr>
+    <tr>
+      <td>S2401</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Repair, urinary tract obstruction in the fetus, procedure performed in utero</td>
+      <td>Fetal surg urin trac obstr</td>
+    </tr>
+    <tr>
+      <td>S2402</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Repair, congenital cystic adenomatoid malformation in the fetus, procedure performed in utero</td>
+      <td>Fetal surg cong cyst malf</td>
+    </tr>
+    <tr>
+      <td>S2403</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Repair, extralobar pulmonary sequestration in the fetus, procedure performed in utero</td>
+      <td>Fetal surg pulmon sequest</td>
+    </tr>
+    <tr>
+      <td>S2404</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Repair, myelomeningocele in the fetus, procedure performed in utero</td>
+      <td>Fetal surg myelomeningo</td>
+    </tr>
+    <tr>
+      <td>S2405</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Repair of sacrococcygeal teratoma in the fetus, procedure performed in utero</td>
+      <td>Fetal surg sacrococ teratoma</td>
+    </tr>
+    <tr>
+      <td>S2409</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Repair, congenital malformation of fetus, procedure performed in utero, not otherwise classified</td>
+      <td>Fetal surg noc</td>
+    </tr>
+    <tr>
+      <td>S2411</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Fetoscopic laser therapy for treatment of twin-to-twin transfusion syndrome</td>
+      <td>Fetoscop laser ther ttts</td>
+    </tr>
+    <tr>
+      <td>S2900</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Surgical techniques requiring use of robotic surgical system (list separately in addition to code for primary procedure)</td>
+      <td>Robotic surgical system</td>
+    </tr>
+    <tr>
+      <td>S3000</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Diabetic indicator; retinal eye exam, dilated, bilateral</td>
+      <td>Bilat dil retinal exam</td>
+    </tr>
+    <tr>
+      <td>S3005</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Performance measurement, evaluation of patient self assessment, depression</td>
+      <td>Eval self-assess depression</td>
+    </tr>
+    <tr>
+      <td>S3600</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Stat laboratory request (situations other than s3601)</td>
+      <td>Stat lab</td>
+    </tr>
+    <tr>
+      <td>S3601</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Emergency stat laboratory charge for patient who is homebound or residing in a nursing facility</td>
+      <td>Stat lab home/nf</td>
+    </tr>
+    <tr>
+      <td>S3620</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Newborn metabolic screening panel, includes test kit, postage and the laboratory tests specified by the state for inclusion in this panel (e.g., galactose; hemoglobin, electrophoresis;  hydroxyprogesterone, 17-d; phenylalanine (pku); and thyroxine, total)</td>
+      <td>Newborn metabolic screening</td>
+    </tr>
+    <tr>
+      <td>S3630</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Eosinophil count, blood, direct</td>
+      <td>Eosinophil blood count</td>
+    </tr>
+    <tr>
+      <td>S3645</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hiv-1 antibody testing of oral mucosal transudate</td>
+      <td>Hiv-1 antibody testing of or</td>
+    </tr>
+    <tr>
+      <td>S3650</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Saliva test, hormone level; during menopause</td>
+      <td>Saliva test, hormone level;</td>
+    </tr>
+    <tr>
+      <td>S3652</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Saliva test, hormone level; to assess preterm labor risk</td>
+      <td>Saliva test, hormone level;</td>
+    </tr>
+    <tr>
+      <td>S3655</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Antisperm antibodies test (immunobead)</td>
+      <td>Antisperm antibodies test</td>
+    </tr>
+    <tr>
+      <td>S3708</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gastrointestinal fat absorption study</td>
+      <td>Gastrointestinal fat absorpt</td>
+    </tr>
+    <tr>
+      <td>S3721</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Prostate cancer antigen 3 (pca3) testing</td>
+      <td>Pca3 testing</td>
+    </tr>
+    <tr>
+      <td>S3722</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Dose optimization by area under the curve (auc) analysis, for infusional 5-fluorouracil</td>
+      <td>Dose optimization auc - 5fu</td>
+    </tr>
+    <tr>
+      <td>S3800</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Genetic testing for amyotrophic lateral sclerosis (als)</td>
+      <td>Genetic testing als</td>
+    </tr>
+    <tr>
+      <td>S3840</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Dna analysis for germline mutations of the ret proto-oncogene for susceptibility to multiple endocrine neoplasia type 2</td>
+      <td>Dna analysis ret-oncogene</td>
+    </tr>
+    <tr>
+      <td>S3841</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Genetic testing for retinoblastoma</td>
+      <td>Gene test retinoblastoma</td>
+    </tr>
+    <tr>
+      <td>S3842</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Genetic testing for von hippel-lindau disease</td>
+      <td>Gene test hippel-lindau</td>
+    </tr>
+    <tr>
+      <td>S3844</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Dna analysis of the connexin 26 gene (gjb2) for susceptibility to congenital, profound deafness</td>
+      <td>Dna analysis deafness</td>
+    </tr>
+    <tr>
+      <td>S3845</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Genetic testing for alpha-thalassemia</td>
+      <td>Gene test alpha-thalassemia</td>
+    </tr>
+    <tr>
+      <td>S3846</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Genetic testing for hemoglobin e beta-thalassemia</td>
+      <td>Gene test beta-thalassemia</td>
+    </tr>
+    <tr>
+      <td>S3849</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Genetic testing for niemann-pick disease</td>
+      <td>Gene test niemann-pick</td>
+    </tr>
+    <tr>
+      <td>S3850</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Genetic testing for sickle cell anemia</td>
+      <td>Gene test sickle cell</td>
+    </tr>
+    <tr>
+      <td>S3852</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Dna analysis for apoe epsilon 4 allele for susceptibility to alzheimer’s disease</td>
+      <td>Dna analysis apoe alzheimer</td>
+    </tr>
+    <tr>
+      <td>S3853</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Genetic testing for myotonic muscular dystrophy</td>
+      <td>Gene test myo musclr dyst</td>
+    </tr>
+    <tr>
+      <td>S3854</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gene expression profiling panel for use in the management of breast cancer treatment</td>
+      <td>Gene profile panel breast</td>
+    </tr>
+    <tr>
+      <td>S3855</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Genetic testing for detection of mutations in the presenilin - 1 gene</td>
+      <td>Gene test presenilin-1 gene</td>
+    </tr>
+    <tr>
+      <td>S3861</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Genetic testing, sodium channel, voltage-gated, type v, alpha subunit (scn5a) and variants for suspected brugada syndrome</td>
+      <td>Genetic test brugada</td>
+    </tr>
+    <tr>
+      <td>S3865</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Comprehensive gene sequence analysis for hypertrophic cardiomyopathy</td>
+      <td>Comp genet test hyp cardiomy</td>
+    </tr>
+    <tr>
+      <td>S3866</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Genetic analysis for a specific gene mutation for hypertrophic cardiomyopathy (hcm) in an individual with a known hcm mutation in the family</td>
+      <td>Spec gene test hyp cardiomy</td>
+    </tr>
+    <tr>
+      <td>S3870</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Comparative genomic hybridization (cgh) microarray testing for developmental delay, autism spectrum disorder and/or intellectual disability</td>
+      <td>Cgh test developmental delay</td>
+    </tr>
+    <tr>
+      <td>S3890</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Dna analysis, fecal, for colorectal cancer screening</td>
+      <td>Fecal dna analysis</td>
+    </tr>
+    <tr>
+      <td>S3900</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Surface electromyography (emg)</td>
+      <td>Surface emg</td>
+    </tr>
+    <tr>
+      <td>S3902</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ballistocardiogram</td>
+      <td>Ballistocardiogram</td>
+    </tr>
+    <tr>
+      <td>S3904</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Masters two step</td>
+      <td>Masters two step</td>
+    </tr>
+    <tr>
+      <td>S4005</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Interim labor facility global (labor occurring but not resulting in delivery)</td>
+      <td>Interim labor facility globa</td>
+    </tr>
+    <tr>
+      <td>S4011</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>In vitro fertilization; including but not limited to identification and incubation of mature oocytes, fertilization with sperm, incubation of embryo(s), and subsequent visualization for determination of development</td>
+      <td>Ivf package</td>
+    </tr>
+    <tr>
+      <td>S4013</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Complete cycle, gamete intrafallopian transfer (gift), case rate</td>
+      <td>Compl gift case rate</td>
+    </tr>
+    <tr>
+      <td>S4014</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Complete cycle, zygote intrafallopian transfer (zift), case rate</td>
+      <td>Compl zift case rate</td>
+    </tr>
+    <tr>
+      <td>S4015</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Complete in vitro fertilization cycle, not otherwise specified, case rate</td>
+      <td>Complete ivf nos case rate</td>
+    </tr>
+    <tr>
+      <td>S4016</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Frozen in vitro fertilization cycle, case rate</td>
+      <td>Frozen ivf case rate</td>
+    </tr>
+    <tr>
+      <td>S4017</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Incomplete cycle, treatment cancelled prior to stimulation, case rate</td>
+      <td>Ivf canc a stim case rate</td>
+    </tr>
+    <tr>
+      <td>S4018</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Frozen embryo transfer procedure cancelled before transfer, case rate</td>
+      <td>F emb trns canc case rate</td>
+    </tr>
+    <tr>
+      <td>S4020</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>In vitro fertilization procedure cancelled before aspiration, case rate</td>
+      <td>Ivf canc a aspir case rate</td>
+    </tr>
+    <tr>
+      <td>S4021</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>In vitro fertilization procedure cancelled after aspiration, case rate</td>
+      <td>Ivf canc p aspir case rate</td>
+    </tr>
+    <tr>
+      <td>S4022</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Assisted oocyte fertilization, case rate</td>
+      <td>Asst oocyte fert case rate</td>
+    </tr>
+    <tr>
+      <td>S4023</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Donor egg cycle, incomplete, case rate</td>
+      <td>Incompl donor egg case rate</td>
+    </tr>
+    <tr>
+      <td>S4025</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Donor services for in vitro fertilization (sperm or embryo), case rate</td>
+      <td>Donor serv ivf case rate</td>
+    </tr>
+    <tr>
+      <td>S4026</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Procurement of donor sperm from sperm bank</td>
+      <td>Procure donor sperm</td>
+    </tr>
+    <tr>
+      <td>S4027</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Storage of previously frozen embryos</td>
+      <td>Store prev froz embryos</td>
+    </tr>
+    <tr>
+      <td>S4028</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Microsurgical epididymal sperm aspiration (mesa)</td>
+      <td>Microsurg epi sperm asp</td>
+    </tr>
+    <tr>
+      <td>S4030</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Sperm procurement and cryopreservation services; initial visit</td>
+      <td>Sperm procure init visit</td>
+    </tr>
+    <tr>
+      <td>S4031</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Sperm procurement and cryopreservation services; subsequent visit</td>
+      <td>Sperm procure subs visit</td>
+    </tr>
+    <tr>
+      <td>S4035</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Stimulated intrauterine insemination (iui), case rate</td>
+      <td>Stimulated iui case rate</td>
+    </tr>
+    <tr>
+      <td>S4037</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Cryopreserved embryo transfer, case rate</td>
+      <td>Cryo embryo transf case rate</td>
+    </tr>
+    <tr>
+      <td>S4040</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Monitoring and storage of cryopreserved embryos, per 30 days</td>
+      <td>Monit store cryo embryo 30 d</td>
+    </tr>
+    <tr>
+      <td>S4042</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Management of ovulation induction (interpretation of diagnostic tests and studies, non-face-to-face medical management of the patient), per cycle</td>
+      <td>Ovulation mgmt per cycle</td>
+    </tr>
+    <tr>
+      <td>S4981</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Insertion of levonorgestrel-releasing intrauterine system</td>
+      <td>Insert levonorgestrel ius</td>
+    </tr>
+    <tr>
+      <td>S4989</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Contraceptive intrauterine device (e.g., progestacert iud), including implants and supplies</td>
+      <td>Contracept iud</td>
+    </tr>
+    <tr>
+      <td>S4990</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Nicotine patches, legend</td>
+      <td>Nicotine patch legend</td>
+    </tr>
+    <tr>
+      <td>S4991</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Nicotine patches, non-legend</td>
+      <td>Nicotine patch nonlegend</td>
+    </tr>
+    <tr>
+      <td>S4993</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Contraceptive pills for birth control</td>
+      <td>Contraceptive pills for bc</td>
+    </tr>
+    <tr>
+      <td>S4995</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Smoking cessation gum</td>
+      <td>Smoking cessation gum</td>
+    </tr>
+    <tr>
+      <td>S5000</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Prescription drug, generic</td>
+      <td>Prescription drug, generic</td>
+    </tr>
+    <tr>
+      <td>S5001</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Prescription drug, brand name</td>
+      <td>Prescription drug,brand name</td>
+    </tr>
+    <tr>
+      <td>S5010</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>5% dextrose and 0.45% normal saline, 1000 ml</td>
+      <td>5% dextrose and 0.45% saline</td>
+    </tr>
+    <tr>
+      <td>S5011</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>5% dextrose in lactated ringer’s, 1000 ml</td>
+      <td>5% dextrose in lactated ring</td>
+    </tr>
+    <tr>
+      <td>S5012</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>5% dextrose with potassium chloride, 1000 ml</td>
+      <td>5% dextrose with potassium</td>
+    </tr>
+    <tr>
+      <td>S5013</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>5% dextrose/0.45% normal saline with potassium chloride and magnesium sulfate, 1000 ml</td>
+      <td>5%dextrose/0.45%saline1000ml</td>
+    </tr>
+    <tr>
+      <td>S5014</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>5% dextrose/0.45% normal saline with potassium chloride and magnesium sulfate, 1500 ml</td>
+      <td>D5w/0.45ns w kcl and mgs04</td>
+    </tr>
+    <tr>
+      <td>S5035</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, routine service of infusion device (e.g., pump maintenance)</td>
+      <td>Hit routine device maint</td>
+    </tr>
+    <tr>
+      <td>S5036</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, repair of infusion device (e.g., pump repair)</td>
+      <td>Hit device repair</td>
+    </tr>
+    <tr>
+      <td>S5100</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Day care services, adult; per 15 minutes</td>
+      <td>Adult daycare services 15min</td>
+    </tr>
+    <tr>
+      <td>S5101</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Day care services, adult; per half day</td>
+      <td>Adult day care per half day</td>
+    </tr>
+    <tr>
+      <td>S5102</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Day care services, adult; per diem</td>
+      <td>Adult day care per diem</td>
+    </tr>
+    <tr>
+      <td>S5105</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Day care services, center-based; services not included in program fee, per diem</td>
+      <td>Centerbased day care perdiem</td>
+    </tr>
+    <tr>
+      <td>S5108</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home care training to home care client, per 15 minutes</td>
+      <td>Homecare train pt 15 min</td>
+    </tr>
+    <tr>
+      <td>S5109</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home care training to home care client, per session</td>
+      <td>Homecare train pt session</td>
+    </tr>
+    <tr>
+      <td>S5110</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home care training, family; per 15 minutes</td>
+      <td>Family homecare training 15m</td>
+    </tr>
+    <tr>
+      <td>S5111</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home care training, family; per session</td>
+      <td>Family homecare train/sessio</td>
+    </tr>
+    <tr>
+      <td>S5115</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home care training, non-family; per 15 minutes</td>
+      <td>Nonfamily homecare train/15m</td>
+    </tr>
+    <tr>
+      <td>S5116</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home care training, non-family; per session</td>
+      <td>Nonfamily hc train/session</td>
+    </tr>
+    <tr>
+      <td>S5120</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Chore services; per 15 minutes</td>
+      <td>Chore services per 15 min</td>
+    </tr>
+    <tr>
+      <td>S5121</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Chore services; per diem</td>
+      <td>Chore services per diem</td>
+    </tr>
+    <tr>
+      <td>S5125</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Attendant care services; per 15 minutes</td>
+      <td>Attendant care service /15m</td>
+    </tr>
+    <tr>
+      <td>S5126</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Attendant care services; per diem</td>
+      <td>Attendant care service /diem</td>
+    </tr>
+    <tr>
+      <td>S5130</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Homemaker service, nos; per 15 minutes</td>
+      <td>Homaker service nos per 15m</td>
+    </tr>
+    <tr>
+      <td>S5131</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Homemaker service, nos; per diem</td>
+      <td>Homemaker service nos /diem</td>
+    </tr>
+    <tr>
+      <td>S5135</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Companion care, adult (e.g., iadl/adl); per 15 minutes</td>
+      <td>Adult companioncare per 15m</td>
+    </tr>
+    <tr>
+      <td>S5136</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Companion care, adult (e.g., iadl/adl); per diem</td>
+      <td>Adult companioncare per diem</td>
+    </tr>
+    <tr>
+      <td>S5140</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Foster care, adult; per diem</td>
+      <td>Adult foster care per diem</td>
+    </tr>
+    <tr>
+      <td>S5141</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Foster care, adult; per month</td>
+      <td>Adult foster care per month</td>
+    </tr>
+    <tr>
+      <td>S5145</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Foster care, therapeutic, child; per diem</td>
+      <td>Child fostercare th per diem</td>
+    </tr>
+    <tr>
+      <td>S5146</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Foster care, therapeutic, child; per month</td>
+      <td>Ther fostercare child /month</td>
+    </tr>
+    <tr>
+      <td>S5150</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Unskilled respite care, not hospice; per 15 minutes</td>
+      <td>Unskilled respite care /15m</td>
+    </tr>
+    <tr>
+      <td>S5151</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Unskilled respite care, not hospice; per diem</td>
+      <td>Unskilled respitecare /diem</td>
+    </tr>
+    <tr>
+      <td>S5160</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Emergency response system; installation and testing</td>
+      <td>Emer response sys instal&amp;tst</td>
+    </tr>
+    <tr>
+      <td>S5161</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Emergency response system; service fee, per month (excludes installation and testing)</td>
+      <td>Emer rspns sys serv permonth</td>
+    </tr>
+    <tr>
+      <td>S5162</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Emergency response system; purchase only</td>
+      <td>Emer rspns system purchase</td>
+    </tr>
+    <tr>
+      <td>S5165</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home modifications; per service</td>
+      <td>Home modifications per serv</td>
+    </tr>
+    <tr>
+      <td>S5170</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home delivered meals, including preparation; per meal</td>
+      <td>Homedelivered prepared meal</td>
+    </tr>
+    <tr>
+      <td>S5175</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Laundry service, external, professional; per order</td>
+      <td>Laundry serv,ext,prof,/order</td>
+    </tr>
+    <tr>
+      <td>S5180</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home health respiratory therapy, initial evaluation</td>
+      <td>Hh respiratory thrpy in eval</td>
+    </tr>
+    <tr>
+      <td>S5181</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home health respiratory therapy, nos, per diem</td>
+      <td>Hh respiratory thrpy nos/day</td>
+    </tr>
+    <tr>
+      <td>S5185</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Medication reminder service, non-face-to-face; per month</td>
+      <td>Med reminder serv per month</td>
+    </tr>
+    <tr>
+      <td>S5190</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Wellness assessment, performed by non-physician</td>
+      <td>Wellness assessment by nonph</td>
+    </tr>
+    <tr>
+      <td>S5199</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Personal care item, nos, each</td>
+      <td>Personal care item nos each</td>
+    </tr>
+    <tr>
+      <td>S5497</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, catheter care / maintenance, not otherwise classified; includes administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit cath care noc</td>
+    </tr>
+    <tr>
+      <td>S5498</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, catheter care / maintenance, simple (single lumen), includes administrative services, professional pharmacy services, care coordination and all necessary supplies and equipment, (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit simple cath care</td>
+    </tr>
+    <tr>
+      <td>S5501</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, catheter care / maintenance, complex (more than one lumen), includes administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit complex cath care</td>
+    </tr>
+    <tr>
+      <td>S5502</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, catheter care / maintenance, implanted access device, includes administrative services, professional pharmacy services, care coordination and all necessary supplies and equipment, (drugs and nursing visits coded separately), per diem (use this code for interim maintenance of vascular access not currently in use)</td>
+      <td>Hit interim cath care</td>
+    </tr>
+    <tr>
+      <td>S5517</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, all supplies necessary for restoration of catheter patency or declotting</td>
+      <td>Hit declotting kit</td>
+    </tr>
+    <tr>
+      <td>S5518</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, all supplies necessary for catheter repair</td>
+      <td>Hit cath repair kit</td>
+    </tr>
+    <tr>
+      <td>S5520</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, all supplies (including catheter) necessary for a peripherally inserted central venous catheter (picc) line insertion</td>
+      <td>Hit picc insert kit</td>
+    </tr>
+    <tr>
+      <td>S5521</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, all supplies (including catheter) necessary for a midline catheter insertion</td>
+      <td>Hit midline cath insert kit</td>
+    </tr>
+    <tr>
+      <td>S5522</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, insertion of peripherally inserted central venous catheter (picc), nursing services only (no supplies or catheter included)</td>
+      <td>Hit picc insert no supp</td>
+    </tr>
+    <tr>
+      <td>S5523</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, insertion of midline venous catheter, nursing services only (no supplies or catheter included)</td>
+      <td>Hip midline cath insert kit</td>
+    </tr>
+    <tr>
+      <td>S5550</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Insulin, rapid onset, 5 units</td>
+      <td>Insulin rapid 5 u</td>
+    </tr>
+    <tr>
+      <td>S5551</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Insulin, most rapid onset (lispro or aspart); 5 units</td>
+      <td>Insulin most rapid 5 u</td>
+    </tr>
+    <tr>
+      <td>S5552</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Insulin, intermediate acting (nph or lente); 5 units</td>
+      <td>Insulin intermed 5 u</td>
+    </tr>
+    <tr>
+      <td>S5553</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Insulin, long acting; 5 units</td>
+      <td>Insulin long acting 5 u</td>
+    </tr>
+    <tr>
+      <td>S5560</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Insulin delivery device, reusable pen; 1.5 ml size</td>
+      <td>Insulin reuse pen 1.5 ml</td>
+    </tr>
+    <tr>
+      <td>S5561</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Insulin delivery device, reusable pen; 3 ml size</td>
+      <td>Insulin reuse pen 3 ml</td>
+    </tr>
+    <tr>
+      <td>S5565</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Insulin cartridge for use in insulin delivery device other than pump; 150 units</td>
+      <td>Insulin cartridge 150 u</td>
+    </tr>
+    <tr>
+      <td>S5566</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Insulin cartridge for use in insulin delivery device other than pump; 300 units</td>
+      <td>Insulin cartridge 300 u</td>
+    </tr>
+    <tr>
+      <td>S5570</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Insulin delivery device, disposable pen (including insulin); 1.5 ml size</td>
+      <td>Insulin dispos pen 1.5 ml</td>
+    </tr>
+    <tr>
+      <td>S5571</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Insulin delivery device, disposable pen (including insulin); 3 ml size</td>
+      <td>Insulin dispos pen 3 ml</td>
+    </tr>
+    <tr>
+      <td>S8030</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Scleral application of tantalum ring(s) for localization of lesions for proton beam therapy</td>
+      <td>Tantalum ring application</td>
+    </tr>
+    <tr>
+      <td>S8032</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Low-dose computed tomography for lung cancer screening</td>
+      <td>Low dose ct lung screening</td>
+    </tr>
+    <tr>
+      <td>S8035</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Magnetic source imaging</td>
+      <td>Magnetic source imaging</td>
+    </tr>
+    <tr>
+      <td>S8037</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Magnetic resonance cholangiopancreatography (mrcp)</td>
+      <td>Mrcp</td>
+    </tr>
+    <tr>
+      <td>S8040</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Topographic brain mapping</td>
+      <td>Topographic brain mapping</td>
+    </tr>
+    <tr>
+      <td>S8042</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Magnetic resonance imaging (mri), low-field</td>
+      <td>Mri low field</td>
+    </tr>
+    <tr>
+      <td>S8055</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ultrasound guidance for multifetal pregnancy reduction(s), technical component (only to be used when the physician doing the reduction procedure does not perform the ultrasound, guidance is included in the cpt code for multifetal pregnancy reduction - 59866)</td>
+      <td>Us guidance fetal reduct</td>
+    </tr>
+    <tr>
+      <td>S8080</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Scintimammography (radioimmunoscintigraphy of the breast), unilateral, including supply of radiopharmaceutical</td>
+      <td>Scintimammography</td>
+    </tr>
+    <tr>
+      <td>S8085</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Fluorine-18 fluorodeoxyglucose (f-18 fdg) imaging using dual-head coincidence detection system (non-dedicated pet scan)</td>
+      <td>Fluorine-18 fluorodeoxygluco</td>
+    </tr>
+    <tr>
+      <td>S8092</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Electron beam computed tomography (also known as ultrafast ct, cine ct)</td>
+      <td>Electron beam computed tomog</td>
+    </tr>
+    <tr>
+      <td>S8096</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Portable peak flow meter</td>
+      <td>Portable peak flow meter</td>
+    </tr>
+    <tr>
+      <td>S8097</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Asthma kit (including but not limited to portable peak expiratory flow meter, instructional video, brochure, and/or spacer)</td>
+      <td>Asthma kit</td>
+    </tr>
+    <tr>
+      <td>S8100</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Holding chamber or spacer for use with an inhaler or nebulizer; without mask</td>
+      <td>Spacer without mask</td>
+    </tr>
+    <tr>
+      <td>S8101</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Holding chamber or spacer for use with an inhaler or nebulizer; with mask</td>
+      <td>Spacer with mask</td>
+    </tr>
+    <tr>
+      <td>S8110</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Peak expiratory flow rate (physician services)</td>
+      <td>Peak expiratory flow rate (p</td>
+    </tr>
+    <tr>
+      <td>S8120</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Oxygen contents, gaseous, 1 unit equals 1 cubic foot</td>
+      <td>O2 contents gas cubic ft</td>
+    </tr>
+    <tr>
+      <td>S8121</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Oxygen contents, liquid, 1 unit equals 1 pound</td>
+      <td>O2 contents liquid lb</td>
+    </tr>
+    <tr>
+      <td>S8130</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Interferential current stimulator, 2 channel</td>
+      <td>Interferential stim 2 chan</td>
+    </tr>
+    <tr>
+      <td>S8131</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Interferential current stimulator, 4 channel</td>
+      <td>Interferential stim 4 chan</td>
+    </tr>
+    <tr>
+      <td>S8185</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Flutter device</td>
+      <td>Flutter device</td>
+    </tr>
+    <tr>
+      <td>S8186</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Swivel adapter</td>
+      <td>Swivel adaptor</td>
+    </tr>
+    <tr>
+      <td>S8189</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tracheostomy supply, not otherwise classified</td>
+      <td>Trach supply noc</td>
+    </tr>
+    <tr>
+      <td>S8210</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Mucus trap</td>
+      <td>Mucus trap</td>
+    </tr>
+    <tr>
+      <td>S8262</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Mandibular orthopedic repositioning device, each</td>
+      <td>Mandib ortho repos device</td>
+    </tr>
+    <tr>
+      <td>S8265</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Haberman feeder for cleft lip/palate</td>
+      <td>Haberman feeder</td>
+    </tr>
+    <tr>
+      <td>S8270</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Enuresis alarm, using auditory buzzer and/or vibration device</td>
+      <td>Enuresis alarm</td>
+    </tr>
+    <tr>
+      <td>S8301</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Infection control supplies, not otherwise specified</td>
+      <td>Infect control supplies nos</td>
+    </tr>
+    <tr>
+      <td>S8415</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Supplies for home delivery of infant</td>
+      <td>Supplies for home delivery</td>
+    </tr>
+    <tr>
+      <td>S8420</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gradient pressure aid (sleeve and glove combination), custom made</td>
+      <td>Custom gradient sleev/glov</td>
+    </tr>
+    <tr>
+      <td>S8421</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gradient pressure aid (sleeve and glove combination), ready made</td>
+      <td>Ready gradient sleev/glov</td>
+    </tr>
+    <tr>
+      <td>S8422</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gradient pressure aid (sleeve), custom made, medium weight</td>
+      <td>Custom grad sleeve med</td>
+    </tr>
+    <tr>
+      <td>S8423</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gradient pressure aid (sleeve), custom made, heavy weight</td>
+      <td>Custom grad sleeve heavy</td>
+    </tr>
+    <tr>
+      <td>S8424</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gradient pressure aid (sleeve), ready made</td>
+      <td>Ready gradient sleeve</td>
+    </tr>
+    <tr>
+      <td>S8425</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gradient pressure aid (glove), custom made, medium weight</td>
+      <td>Custom grad glove med</td>
+    </tr>
+    <tr>
+      <td>S8426</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gradient pressure aid (glove), custom made, heavy weight</td>
+      <td>Custom grad glove heavy</td>
+    </tr>
+    <tr>
+      <td>S8427</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gradient pressure aid (glove), ready made</td>
+      <td>Ready gradient glove</td>
+    </tr>
+    <tr>
+      <td>S8428</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gradient pressure aid (gauntlet), ready made</td>
+      <td>Ready gradient gauntlet</td>
+    </tr>
+    <tr>
+      <td>S8429</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gradient pressure exterior wrap</td>
+      <td>Gradient pressure wrap</td>
+    </tr>
+    <tr>
+      <td>S8430</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Padding for compression bandage, roll</td>
+      <td>Padding for comprssn bdg</td>
+    </tr>
+    <tr>
+      <td>S8431</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Compression bandage, roll</td>
+      <td>Compression bandage</td>
+    </tr>
+    <tr>
+      <td>S8450</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Splint, prefabricated, digit (specify digit by use of modifier)</td>
+      <td>Splint digit</td>
+    </tr>
+    <tr>
+      <td>S8451</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Splint, prefabricated, wrist or ankle</td>
+      <td>Splint wrist or ankle</td>
+    </tr>
+    <tr>
+      <td>S8452</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Splint, prefabricated, elbow</td>
+      <td>Splint elbow</td>
+    </tr>
+    <tr>
+      <td>S8460</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Camisole, post-mastectomy</td>
+      <td>Camisole post-mast</td>
+    </tr>
+    <tr>
+      <td>S8490</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Insulin syringes (100 syringes, any size)</td>
+      <td>100 insulin syringes</td>
+    </tr>
+    <tr>
+      <td>S8930</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Electrical stimulation of auricular acupuncture points; each 15 minutes of personal one-on-one contact with the patient</td>
+      <td>Auricular electrostimulation</td>
+    </tr>
+    <tr>
+      <td>S8940</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Equestrian/hippotherapy, per session</td>
+      <td>Hippotherapy per session</td>
+    </tr>
+    <tr>
+      <td>S8948</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Application of a modality (requiring constant provider attendance) to one or more areas; low-level laser; each 15 minutes</td>
+      <td>Low-level laser trmt 15 min</td>
+    </tr>
+    <tr>
+      <td>S8950</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Complex lymphedema therapy, each 15 minutes</td>
+      <td>Complex lymphedema therapy,</td>
+    </tr>
+    <tr>
+      <td>S8990</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Physical or manipulative therapy performed for maintenance rather than restoration</td>
+      <td>Pt or manip for maint</td>
+    </tr>
+    <tr>
+      <td>S8999</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Resuscitation bag (for use by patient on artificial respiration during power failure or other catastrophic event)</td>
+      <td>Resuscitation bag</td>
+    </tr>
+    <tr>
+      <td>S9001</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home uterine monitor with or without associated nursing services</td>
+      <td>Home uterine monitor with or</td>
+    </tr>
+    <tr>
+      <td>S9007</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ultrafiltration monitor</td>
+      <td>Ultrafiltration monitor</td>
+    </tr>
+    <tr>
+      <td>S9015</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Automated eeg monitoring</td>
+      <td>Automated eeg monitoring</td>
+    </tr>
+    <tr>
+      <td>S9024</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Paranasal sinus ultrasound</td>
+      <td>Paranasal sinus ultrasound</td>
+    </tr>
+    <tr>
+      <td>S9025</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Omnicardiogram/cardiointegram</td>
+      <td>Omnicardiogram/cardiointegra</td>
+    </tr>
+    <tr>
+      <td>S9034</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Extracorporeal shockwave lithotripsy for gall stones (if performed with ercp, use 43265)</td>
+      <td>Eswl for gallstones</td>
+    </tr>
+    <tr>
+      <td>S9055</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Procuren or other growth factor preparation to promote wound healing</td>
+      <td>Procuren or other growth fac</td>
+    </tr>
+    <tr>
+      <td>S9056</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Coma stimulation per diem</td>
+      <td>Coma stimulation per diem</td>
+    </tr>
+    <tr>
+      <td>S9061</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home administration of aerosolized drug therapy (e.g., pentamidine); administrative services, professional pharmacy services, care coordination, all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Medical supplies and equipme</td>
+    </tr>
+    <tr>
+      <td>S9083</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Global fee urgent care centers</td>
+      <td>Urgent care center global</td>
+    </tr>
+    <tr>
+      <td>S9088</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Services provided in an urgent care center (list in addition to code for service)</td>
+      <td>Services provided in urgent</td>
+    </tr>
+    <tr>
+      <td>S9090</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Vertebral axial decompression, per session</td>
+      <td>Vertebral axial decompressio</td>
+    </tr>
+    <tr>
+      <td>S9097</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home visit for wound care</td>
+      <td>Home visit wound care</td>
+    </tr>
+    <tr>
+      <td>S9098</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home visit, phototherapy services (e.g., bili-lite), including equipment rental, nursing services, blood draw, supplies, and other services, per diem</td>
+      <td>Home phototherapy visit</td>
+    </tr>
+    <tr>
+      <td>S9110</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Telemonitoring of patient in their home, including all necessary equipment; computer system, connections, and software; maintenance; patient education and support; per month</td>
+      <td>Telemonitoring/home per mnth</td>
+    </tr>
+    <tr>
+      <td>S9117</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Back school, per visit</td>
+      <td>Back school visit</td>
+    </tr>
+    <tr>
+      <td>S9122</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home health aide or certified nurse assistant, providing care in the home; per hour</td>
+      <td>Home health aide or certifie</td>
+    </tr>
+    <tr>
+      <td>S9123</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Nursing care, in the home; by registered nurse, per hour (use for general nursing care only, not to be used when cpt codes 99500-99602 can be used)</td>
+      <td>Nursing care in home rn</td>
+    </tr>
+    <tr>
+      <td>S9124</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Nursing care, in the home; by licensed practical nurse, per hour</td>
+      <td>Nursing care, in the home; b</td>
+    </tr>
+    <tr>
+      <td>S9125</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Respite care, in the home, per diem</td>
+      <td>Respite care, in the home, p</td>
+    </tr>
+    <tr>
+      <td>S9126</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hospice care, in the home, per diem</td>
+      <td>Hospice care, in the home, p</td>
+    </tr>
+    <tr>
+      <td>S9127</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Social work visit, in the home, per diem</td>
+      <td>Social work visit, in the ho</td>
+    </tr>
+    <tr>
+      <td>S9128</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Speech therapy, in the home, per diem</td>
+      <td>Speech therapy, in the home,</td>
+    </tr>
+    <tr>
+      <td>S9129</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Occupational therapy, in the home, per diem</td>
+      <td>Occupational therapy, in the</td>
+    </tr>
+    <tr>
+      <td>S9131</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Physical therapy; in the home, per diem</td>
+      <td>Pt in the home per diem</td>
+    </tr>
+    <tr>
+      <td>S9140</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Diabetic management program, follow-up visit to non-md provider</td>
+      <td>Diabetic management program,</td>
+    </tr>
+    <tr>
+      <td>S9141</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Diabetic management program, follow-up visit to md provider</td>
+      <td>Diabetic management program,</td>
+    </tr>
+    <tr>
+      <td>S9145</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Insulin pump initiation, instruction in initial use of pump (pump not included)</td>
+      <td>Insulin pump initiation</td>
+    </tr>
+    <tr>
+      <td>S9150</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Evaluation by ocularist</td>
+      <td>Evaluation by ocularist</td>
+    </tr>
+    <tr>
+      <td>S9152</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Speech therapy, re-evaluation</td>
+      <td>Speech therapy, re-eval</td>
+    </tr>
+    <tr>
+      <td>S9208</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home management of preterm labor, including administrative services, professional pharmacy services, care coordination, and all necessary supplies or equipment (drugs and nursing visits coded separately), per diem (do not use this code with any home infusion per diem code)</td>
+      <td>Home mgmt preterm labor</td>
+    </tr>
+    <tr>
+      <td>S9209</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home management of preterm premature rupture of membranes (pprom), including administrative services, professional pharmacy services, care coordination, and all necessary supplies or equipment (drugs and nursing visits coded separately), per diem (do not use this code with any home infusion per diem code)</td>
+      <td>Home mgmt pprom</td>
+    </tr>
+    <tr>
+      <td>S9211</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home management of gestational hypertension, includes administrative services, professional pharmacy services, care coordination and all necessary supplies and equipment (drugs and nursing visits coded separately); per diem (do not use this code with any home infusion per diem code)</td>
+      <td>Home mgmt gest hypertension</td>
+    </tr>
+    <tr>
+      <td>S9212</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home management of postpartum hypertension, includes administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem (do not use this code with any home infusion per diem code)</td>
+      <td>Hm postpar hyper per diem</td>
+    </tr>
+    <tr>
+      <td>S9213</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home management of preeclampsia, includes administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing services coded separately); per diem (do not use this code with any home infusion per diem code)</td>
+      <td>Hm preeclamp per diem</td>
+    </tr>
+    <tr>
+      <td>S9214</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home management of gestational diabetes, includes administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately); per diem (do not use this code with any home infusion per diem code)</td>
+      <td>Hm gest dm per diem</td>
+    </tr>
+    <tr>
+      <td>S9325</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, pain management infusion; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment, (drugs and nursing visits coded separately), per diem (do not use this code with s9326, s9327 or s9328)</td>
+      <td>Hit pain mgmt per diem</td>
+    </tr>
+    <tr>
+      <td>S9326</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, continuous (twenty-four hours or more) pain management infusion; administrative services, professional pharmacy services, care coordination and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit cont pain per diem</td>
+    </tr>
+    <tr>
+      <td>S9327</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, intermittent (less than twenty-four hours) pain management infusion; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit int pain per diem</td>
+    </tr>
+    <tr>
+      <td>S9328</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, implanted pump pain management infusion; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit pain imp pump diem</td>
+    </tr>
+    <tr>
+      <td>S9329</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, chemotherapy infusion; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem (do not use this code with s9330 or s9331)</td>
+      <td>Hit chemo per diem</td>
+    </tr>
+    <tr>
+      <td>S9330</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, continuous (twenty-four hours or more) chemotherapy infusion; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit cont chem diem</td>
+    </tr>
+    <tr>
+      <td>S9331</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, intermittent (less than twenty-four hours) chemotherapy infusion; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit intermit chemo diem</td>
+    </tr>
+    <tr>
+      <td>S9335</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home therapy, hemodialysis; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing services coded separately), per diem</td>
+      <td>Ht hemodialysis diem</td>
+    </tr>
+    <tr>
+      <td>S9336</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, continuous anticoagulant infusion therapy (e.g., heparin), administrative services, professional pharmacy services, care coordination and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit cont anticoag diem</td>
+    </tr>
+    <tr>
+      <td>S9338</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, immunotherapy, administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit immunotherapy diem</td>
+    </tr>
+    <tr>
+      <td>S9339</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home therapy; peritoneal dialysis, administrative services, professional pharmacy services, care coordination and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit periton dialysis diem</td>
+    </tr>
+    <tr>
+      <td>S9340</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home therapy; enteral nutrition; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (enteral formula and nursing visits coded separately), per diem</td>
+      <td>Hit enteral per diem</td>
+    </tr>
+    <tr>
+      <td>S9341</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home therapy; enteral nutrition via gravity; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (enteral formula and nursing visits coded separately), per diem</td>
+      <td>Hit enteral grav diem</td>
+    </tr>
+    <tr>
+      <td>S9342</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home therapy; enteral nutrition via pump; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (enteral formula and nursing visits coded separately), per diem</td>
+      <td>Hit enteral pump diem</td>
+    </tr>
+    <tr>
+      <td>S9343</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home therapy; enteral nutrition via bolus; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (enteral formula and nursing visits coded separately), per diem</td>
+      <td>Hit enteral bolus nurs</td>
+    </tr>
+    <tr>
+      <td>S9345</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, anti-hemophilic agent infusion therapy (e.g., factor viii); administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit anti-hemophil diem</td>
+    </tr>
+    <tr>
+      <td>S9346</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, alpha-1-proteinase inhibitor (e.g., prolastin); administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit alpha-1-proteinas diem</td>
+    </tr>
+    <tr>
+      <td>S9347</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, uninterrupted, long-term, controlled rate intravenous or subcutaneous infusion therapy (e.g., epoprostenol); administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit longterm infusion diem</td>
+    </tr>
+    <tr>
+      <td>S9348</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, sympathomimetic/inotropic agent infusion therapy (e.g., dobutamine); administrative services, professional pharmacy services, care coordination, all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit sympathomim diem</td>
+    </tr>
+    <tr>
+      <td>S9349</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, tocolytic infusion therapy; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit tocolysis diem</td>
+    </tr>
+    <tr>
+      <td>S9351</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, continuous or intermittent anti-emetic infusion therapy; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and visits coded separately), per diem</td>
+      <td>Hit cont antiemetic diem</td>
+    </tr>
+    <tr>
+      <td>S9353</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, continuous insulin infusion therapy; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit cont insulin diem</td>
+    </tr>
+    <tr>
+      <td>S9355</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, chelation therapy; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit chelation diem</td>
+    </tr>
+    <tr>
+      <td>S9357</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, enzyme replacement intravenous therapy; (e.g., imiglucerase); administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit enzyme replace diem</td>
+    </tr>
+    <tr>
+      <td>S9359</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, anti-tumor necrosis factor intravenous therapy; (e.g., infliximab); administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit anti-tnf per diem</td>
+    </tr>
+    <tr>
+      <td>S9361</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, diuretic intravenous therapy; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit diuretic infus diem</td>
+    </tr>
+    <tr>
+      <td>S9363</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, anti-spasmotic therapy; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit anti-spasmotic diem</td>
+    </tr>
+    <tr>
+      <td>S9364</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, total parenteral nutrition (tpn); administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment including standard tpn formula (lipids, specialty amino acid formulas, drugs other than in standard formula and nursing visits coded separately), per diem (do not use with home infusion codes s9365-s9368 using daily volume scales)</td>
+      <td>Hit tpn total diem</td>
+    </tr>
+    <tr>
+      <td>S9365</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, total parenteral nutrition (tpn); one liter per day, administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment including standard tpn formula (lipids, specialty amino acid formulas, drugs other than in standard formula and nursing visits coded separately), per diem</td>
+      <td>Hit tpn 1 liter diem</td>
+    </tr>
+    <tr>
+      <td>S9366</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, total parenteral nutrition (tpn); more than one liter but no more than two liters per day, administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment including standard tpn formula (lipids, specialty amino acid formulas, drugs other than in standard formula and nursing visits coded separately), per diem</td>
+      <td>Hit tpn 2 liter diem</td>
+    </tr>
+    <tr>
+      <td>S9367</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, total parenteral nutrition (tpn); more than two liters but no more than three liters per day, administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment including standard tpn formula (lipids, specialty amino acid formulas, drugs other than in standard formula and nursing visits coded separately), per diem</td>
+      <td>Hit tpn 3 liter diem</td>
+    </tr>
+    <tr>
+      <td>S9368</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, total parenteral nutrition (tpn); more than three liters per day, administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment including standard tpn formula (lipids, specialty amino acid formulas, drugs other than in standard formula and nursing visits coded separately), per diem</td>
+      <td>Hit tpn over 3l diem</td>
+    </tr>
+    <tr>
+      <td>S9370</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home therapy, intermittent anti-emetic injection therapy; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Ht inj antiemetic diem</td>
+    </tr>
+    <tr>
+      <td>S9372</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home therapy; intermittent anticoagulant injection therapy (e.g., heparin); administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem (do not use this code for flushing of infusion devices with heparin to maintain patency)</td>
+      <td>Ht inj anticoag diem</td>
+    </tr>
+    <tr>
+      <td>S9373</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, hydration therapy; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem (do not use with hydration therapy codes s9374-s9377 using daily volume scales)</td>
+      <td>Hit hydra total diem</td>
+    </tr>
+    <tr>
+      <td>S9374</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, hydration therapy; one liter per day, administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit hydra 1 liter diem</td>
+    </tr>
+    <tr>
+      <td>S9375</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, hydration therapy; more than one liter but no more than two liters per day, administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit hydra 2 liter diem</td>
+    </tr>
+    <tr>
+      <td>S9376</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, hydration therapy; more than two liters but no more than three liters per day, administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit hydra 3 liter diem</td>
+    </tr>
+    <tr>
+      <td>S9377</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, hydration therapy; more than three liters per day, administrative services, professional pharmacy services, care coordination, and all necessary supplies (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit hydra over 3l diem</td>
+    </tr>
+    <tr>
+      <td>S9379</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, infusion therapy, not otherwise classified; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit noc per diem</td>
+    </tr>
+    <tr>
+      <td>S9381</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Delivery or service to high risk areas requiring escort or extra protection, per visit</td>
+      <td>Hit high risk/escort</td>
+    </tr>
+    <tr>
+      <td>S9401</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Anticoagulation clinic, inclusive of all services except laboratory tests, per session</td>
+      <td>Anticoag clinic per session</td>
+    </tr>
+    <tr>
+      <td>S9430</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Pharmacy compounding and dispensing services</td>
+      <td>Pharmacy comp/disp serv</td>
+    </tr>
+    <tr>
+      <td>S9433</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Medical food nutritionally complete, administered orally, providing 100% of nutritional intake</td>
+      <td>Medical food oral 100% nutr</td>
+    </tr>
+    <tr>
+      <td>S9434</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Modified solid food supplements for inborn errors of metabolism</td>
+      <td>Mod solid food suppl</td>
+    </tr>
+    <tr>
+      <td>S9435</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Medical foods for inborn errors of metabolism</td>
+      <td>Medical foods for inborn err</td>
+    </tr>
+    <tr>
+      <td>S9436</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Childbirth preparation/lamaze classes, non-physician provider, per session</td>
+      <td>Lamaze class</td>
+    </tr>
+    <tr>
+      <td>S9437</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Childbirth refresher classes, non-physician provider, per session</td>
+      <td>Childbirth refresher class</td>
+    </tr>
+    <tr>
+      <td>S9438</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Cesarean birth classes, non-physician provider, per session</td>
+      <td>Cesarean birth class</td>
+    </tr>
+    <tr>
+      <td>S9439</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Vbac (vaginal birth after cesarean) classes, non-physician provider, per session</td>
+      <td>Vbac class</td>
+    </tr>
+    <tr>
+      <td>S9441</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Asthma education, non-physician provider, per session</td>
+      <td>Asthma education</td>
+    </tr>
+    <tr>
+      <td>S9442</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Birthing classes, non-physician provider, per session</td>
+      <td>Birthing class</td>
+    </tr>
+    <tr>
+      <td>S9443</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Lactation classes, non-physician provider, per session</td>
+      <td>Lactation class</td>
+    </tr>
+    <tr>
+      <td>S9444</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Parenting classes, non-physician provider, per session</td>
+      <td>Parenting class</td>
+    </tr>
+    <tr>
+      <td>S9445</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Patient education, not otherwise classified, non-physician provider, individual, per session</td>
+      <td>Pt education noc individ</td>
+    </tr>
+    <tr>
+      <td>S9446</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Patient education, not otherwise classified, non-physician provider, group, per session</td>
+      <td>Pt education noc group</td>
+    </tr>
+    <tr>
+      <td>S9447</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Infant safety (including cpr) classes, non-physician provider, per session</td>
+      <td>Infant safety class</td>
+    </tr>
+    <tr>
+      <td>S9449</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Weight management classes, non-physician provider, per session</td>
+      <td>Weight mgmt class</td>
+    </tr>
+    <tr>
+      <td>S9451</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Exercise classes, non-physician provider, per session</td>
+      <td>Exercise class</td>
+    </tr>
+    <tr>
+      <td>S9452</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Nutrition classes, non-physician provider, per session</td>
+      <td>Nutrition class</td>
+    </tr>
+    <tr>
+      <td>S9453</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Smoking cessation classes, non-physician provider, per session</td>
+      <td>Smoking cessation class</td>
+    </tr>
+    <tr>
+      <td>S9454</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Stress management classes, non-physician provider, per session</td>
+      <td>Stress mgmt class</td>
+    </tr>
+    <tr>
+      <td>S9455</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Diabetic management program, group session</td>
+      <td>Diabetic management program,</td>
+    </tr>
+    <tr>
+      <td>S9460</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Diabetic management program, nurse visit</td>
+      <td>Diabetic management program,</td>
+    </tr>
+    <tr>
+      <td>S9465</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Diabetic management program, dietitian visit</td>
+      <td>Diabetic management program,</td>
+    </tr>
+    <tr>
+      <td>S9470</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Nutritional counseling, dietitian visit</td>
+      <td>Nutritional counseling, diet</td>
+    </tr>
+    <tr>
+      <td>S9472</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Cardiac rehabilitation program, non-physician provider, per diem</td>
+      <td>Cardiac rehabilitation progr</td>
+    </tr>
+    <tr>
+      <td>S9473</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Pulmonary rehabilitation program, non-physician provider, per diem</td>
+      <td>Pulmonary rehabilitation pro</td>
+    </tr>
+    <tr>
+      <td>S9474</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Enterostomal therapy by a registered nurse certified in enterostomal therapy, per diem</td>
+      <td>Enterostomal therapy by a re</td>
+    </tr>
+    <tr>
+      <td>S9475</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ambulatory setting substance abuse treatment or detoxification services, per diem</td>
+      <td>Ambulatory setting substance</td>
+    </tr>
+    <tr>
+      <td>S9476</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Vestibular rehabilitation program, non-physician provider, per diem</td>
+      <td>Vestibular rehab per diem</td>
+    </tr>
+    <tr>
+      <td>S9480</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Intensive outpatient psychiatric services, per diem</td>
+      <td>Intensive outpatient psychia</td>
+    </tr>
+    <tr>
+      <td>S9482</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Family stabilization services, per 15 minutes</td>
+      <td>Family stabilization 15 min</td>
+    </tr>
+    <tr>
+      <td>S9484</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Crisis intervention mental health services, per hour</td>
+      <td>Crisis intervention per hour</td>
+    </tr>
+    <tr>
+      <td>S9485</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Crisis intervention mental health services, per diem</td>
+      <td>Crisis intervention mental h</td>
+    </tr>
+    <tr>
+      <td>S9490</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, corticosteroid infusion; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit corticosteroid/diem</td>
+    </tr>
+    <tr>
+      <td>S9494</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, antibiotic, antiviral, or antifungal therapy; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem (do not use this code with home infusion codes for hourly dosing schedules s9497-s9504)</td>
+      <td>Hit antibiotic total diem</td>
+    </tr>
+    <tr>
+      <td>S9497</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, antibiotic, antiviral, or antifungal therapy; once every 3 hours; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit antibiotic q3h diem</td>
+    </tr>
+    <tr>
+      <td>S9500</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, antibiotic, antiviral, or antifungal therapy; once every 24 hours; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit antibiotic q24h diem</td>
+    </tr>
+    <tr>
+      <td>S9501</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, antibiotic, antiviral, or antifungal therapy; once every 12 hours; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit antibiotic q12h diem</td>
+    </tr>
+    <tr>
+      <td>S9502</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, antibiotic, antiviral, or antifungal therapy; once every 8 hours, administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit antibiotic q8h diem</td>
+    </tr>
+    <tr>
+      <td>S9503</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, antibiotic, antiviral, or antifungal; once every 6 hours; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit antibiotic q6h diem</td>
+    </tr>
+    <tr>
+      <td>S9504</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home infusion therapy, antibiotic, antiviral, or antifungal; once every 4 hours; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit antibiotic q4h diem</td>
+    </tr>
+    <tr>
+      <td>S9529</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Routine venipuncture for collection of specimen(s), single home bound, nursing home, or skilled nursing facility patient</td>
+      <td>Venipuncture home/snf</td>
+    </tr>
+    <tr>
+      <td>S9537</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home therapy; hematopoietic hormone injection therapy (e.g., erythropoietin, g-csf, gm-csf); administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Ht hem horm inj diem</td>
+    </tr>
+    <tr>
+      <td>S9538</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home transfusion of blood product(s); administrative services, professional pharmacy services, care coordination and all necessary supplies and equipment (blood products, drugs, and nursing visits coded separately), per diem</td>
+      <td>Hit blood products diem</td>
+    </tr>
+    <tr>
+      <td>S9542</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home injectable therapy, not otherwise classified, including administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Ht inj noc per diem</td>
+    </tr>
+    <tr>
+      <td>S9558</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home injectable therapy; growth hormone, including administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Ht inj growth horm diem</td>
+    </tr>
+    <tr>
+      <td>S9559</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home injectable therapy, interferon, including administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Hit inj interferon diem</td>
+    </tr>
+    <tr>
+      <td>S9560</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home injectable therapy; hormonal therapy (e.g.; leuprolide, goserelin), including administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Ht inj hormone diem</td>
+    </tr>
+    <tr>
+      <td>S9562</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home injectable therapy, palivizumab, including administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Ht inj palivizumab diem</td>
+    </tr>
+    <tr>
+      <td>S9590</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home therapy, irrigation therapy (e.g., sterile irrigation of an organ or anatomical cavity); including administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td>
+      <td>Ht irrigation diem</td>
+    </tr>
+    <tr>
+      <td>S9810</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home therapy; professional pharmacy services for provision of infusion, specialty drug administration, and/or disease state management, not otherwise classified, per hour (do not use this code with any per diem code)</td>
+      <td>Ht pharm per hour</td>
+    </tr>
+    <tr>
+      <td>S9900</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Services by a journal-listed christian science practitioner for the purpose of healing, per diem</td>
+      <td>Christian sci pract visit</td>
+    </tr>
+    <tr>
+      <td>S9901</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Services by a journal-listed christian science nurse, per hour</td>
+      <td>Christian sci nurse visit</td>
+    </tr>
+    <tr>
+      <td>S9960</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ambulance service, conventional air service, nonemergency transport, one way (fixed wing)</td>
+      <td>Air ambulanc nonemerg fixed</td>
+    </tr>
+    <tr>
+      <td>S9961</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ambulance service, conventional air service, nonemergency transport, one way (rotary wing)</td>
+      <td>Air ambulan nonemerg rotary</td>
+    </tr>
+    <tr>
+      <td>S9970</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Health club membership, annual</td>
+      <td>Health club membership yr</td>
+    </tr>
+    <tr>
+      <td>S9975</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Transplant related lodging, meals and transportation, per diem</td>
+      <td>Transplant related per diem</td>
+    </tr>
+    <tr>
+      <td>S9976</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Lodging, per diem, not otherwise classified</td>
+      <td>Lodging per diem</td>
+    </tr>
+    <tr>
+      <td>S9977</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Meals, per diem, not otherwise specified</td>
+      <td>Meals per diem</td>
+    </tr>
+    <tr>
+      <td>S9981</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Medical records copying fee, administrative</td>
+      <td>Med record copy admin</td>
+    </tr>
+    <tr>
+      <td>S9982</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Medical records copying fee, per page</td>
+      <td>Med record copy per page</td>
+    </tr>
+    <tr>
+      <td>S9986</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Not medically necessary service (patient is aware that service not medically necessary)</td>
+      <td>Not medically necessary svc</td>
+    </tr>
+    <tr>
+      <td>S9988</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Services provided as part of a phase i clinical trial</td>
+      <td>Serv part of phase i trial</td>
+    </tr>
+    <tr>
+      <td>S9989</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Services provided outside of the united states of america (list in addition to code(s) for service(s))</td>
+      <td>Services outside us</td>
+    </tr>
+    <tr>
+      <td>S9990</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Services provided as part of a phase ii clinical trial</td>
+      <td>Services provided as part of</td>
+    </tr>
+    <tr>
+      <td>S9991</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Services provided as part of a phase iii clinical trial</td>
+      <td>Services provided as part of</td>
+    </tr>
+    <tr>
+      <td>S9992</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Transportation costs to and from trial location and local transportation costs (e.g., fares for taxicab or bus) for clinical trial participant and one caregiver/companion</td>
+      <td>Transportation costs to and</td>
+    </tr>
+    <tr>
+      <td>S9994</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Lodging costs (e.g., hotel charges) for clinical trial participant and one caregiver/companion</td>
+      <td>Lodging costs (e.g. hotel ch</td>
+    </tr>
+    <tr>
+      <td>S9996</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Meals for clinical trial participant and one caregiver/companion</td>
+      <td>Meals for clinical trial par</td>
+    </tr>
+    <tr>
+      <td>S9999</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Sales tax</td>
+      <td>Sales tax</td>
+    </tr>
+  </tbody>
+</table>
+:ET

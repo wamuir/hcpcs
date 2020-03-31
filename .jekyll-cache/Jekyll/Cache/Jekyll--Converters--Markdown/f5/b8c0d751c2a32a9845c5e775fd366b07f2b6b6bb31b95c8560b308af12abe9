@@ -1,0 +1,4761 @@
+I"�'<table>
+  <thead>
+    <tr>
+      <th>HCPC</th>
+      <th>SEQNUM</th>
+      <th>RECID</th>
+      <th>LONG DESCRIPTION</th>
+      <th>SHORT DESCRIPTION</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A0021</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ambulance service, outside state per mile, transport (medicaid only)</td>
+      <td>Outside state ambulance serv</td>
+    </tr>
+    <tr>
+      <td>A0080</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Non-emergency transportation, per mile - vehicle provided by volunteer (individual or organization), with no vested interest</td>
+      <td>Noninterest escort in non er</td>
+    </tr>
+    <tr>
+      <td>A0090</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Non-emergency transportation, per mile - vehicle provided by individual (family member, self, neighbor) with vested interest</td>
+      <td>Interest escort in non er</td>
+    </tr>
+    <tr>
+      <td>A0100</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Non-emergency transportation; taxi</td>
+      <td>Nonemergency transport taxi</td>
+    </tr>
+    <tr>
+      <td>A0110</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Non-emergency transportation and bus, intra or inter state carrier</td>
+      <td>Nonemergency transport bus</td>
+    </tr>
+    <tr>
+      <td>A0120</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Non-emergency transportation: mini-bus, mountain area transports, or other transportation systems</td>
+      <td>Noner transport mini-bus</td>
+    </tr>
+    <tr>
+      <td>A0130</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Non-emergency transportation: wheelchair van</td>
+      <td>Noner transport wheelch van</td>
+    </tr>
+    <tr>
+      <td>A0140</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Non-emergency transportation and air travel (private or commercial) intra or inter state</td>
+      <td>Nonemergency transport air</td>
+    </tr>
+    <tr>
+      <td>A0160</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Non-emergency transportation: per mile - case worker or social worker</td>
+      <td>Noner transport case worker</td>
+    </tr>
+    <tr>
+      <td>A0170</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Transportation ancillary: parking fees, tolls, other</td>
+      <td>Transport parking fees/tolls</td>
+    </tr>
+    <tr>
+      <td>A0180</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Non-emergency transportation: ancillary: lodging-recipient</td>
+      <td>Noner transport lodgng recip</td>
+    </tr>
+    <tr>
+      <td>A0190</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Non-emergency transportation: ancillary: meals-recipient</td>
+      <td>Noner transport meals recip</td>
+    </tr>
+    <tr>
+      <td>A0200</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Non-emergency transportation: ancillary: lodging escort</td>
+      <td>Noner transport lodgng escrt</td>
+    </tr>
+    <tr>
+      <td>A0210</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Non-emergency transportation: ancillary: meals-escort</td>
+      <td>Noner transport meals escort</td>
+    </tr>
+    <tr>
+      <td>A0225</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ambulance service, neonatal transport, base rate, emergency transport, one way</td>
+      <td>Neonatal emergency transport</td>
+    </tr>
+    <tr>
+      <td>A0380</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Bls mileage (per mile)</td>
+      <td>Basic life support mileage</td>
+    </tr>
+    <tr>
+      <td>A0382</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Bls routine disposable supplies</td>
+      <td>Basic support routine suppls</td>
+    </tr>
+    <tr>
+      <td>A0384</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Bls specialized service disposable supplies; defibrillation (used by als ambulances and bls ambulances in jurisdictions where defibrillation is permitted in bls ambulances)</td>
+      <td>Bls defibrillation supplies</td>
+    </tr>
+    <tr>
+      <td>A0390</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Als mileage (per mile)</td>
+      <td>Advanced life support mileag</td>
+    </tr>
+    <tr>
+      <td>A0392</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Als specialized service disposable supplies; defibrillation (to be used only in jurisdictions where defibrillation cannot be performed in bls ambulances)</td>
+      <td>Als defibrillation supplies</td>
+    </tr>
+    <tr>
+      <td>A0394</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Als specialized service disposable supplies; iv drug therapy</td>
+      <td>Als iv drug therapy supplies</td>
+    </tr>
+    <tr>
+      <td>A0396</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Als specialized service disposable supplies; esophageal intubation</td>
+      <td>Als esophageal intub suppls</td>
+    </tr>
+    <tr>
+      <td>A0398</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Als routine disposable supplies</td>
+      <td>Als routine disposble suppls</td>
+    </tr>
+    <tr>
+      <td>A0420</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ambulance waiting time (als or bls), one half (1/2) hour increments</td>
+      <td>Ambulance waiting 1/2 hr</td>
+    </tr>
+    <tr>
+      <td>A0422</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ambulance (als or bls) oxygen and oxygen supplies, life sustaining situation</td>
+      <td>Ambulance 02 life sustaining</td>
+    </tr>
+    <tr>
+      <td>A0424</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Extra ambulance attendant, ground (als or bls) or air (fixed or rotary winged); (requires medical review)</td>
+      <td>Extra ambulance attendant</td>
+    </tr>
+    <tr>
+      <td>A0425</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ground mileage, per statute mile</td>
+      <td>Ground mileage</td>
+    </tr>
+    <tr>
+      <td>A0426</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ambulance service, advanced life support, non-emergency transport, level 1 (als 1)</td>
+      <td>Als 1</td>
+    </tr>
+    <tr>
+      <td>A0427</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ambulance service, advanced life support, emergency transport, level 1 (als 1 - emergency)</td>
+      <td>Als1-emergency</td>
+    </tr>
+    <tr>
+      <td>A0428</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ambulance service, basic life support, non-emergency transport, (bls)</td>
+      <td>Bls</td>
+    </tr>
+    <tr>
+      <td>A0429</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ambulance service, basic life support, emergency transport (bls-emergency)</td>
+      <td>Bls-emergency</td>
+    </tr>
+    <tr>
+      <td>A0430</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ambulance service, conventional air services, transport, one way (fixed wing)</td>
+      <td>Fixed wing air transport</td>
+    </tr>
+    <tr>
+      <td>A0431</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ambulance service, conventional air services, transport, one way (rotary wing)</td>
+      <td>Rotary wing air transport</td>
+    </tr>
+    <tr>
+      <td>A0432</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Paramedic intercept (pi), rural area, transport furnished by a volunteer ambulance company which is prohibited by state law from billing third party payers</td>
+      <td>Pi volunteer ambulance co</td>
+    </tr>
+    <tr>
+      <td>A0433</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Advanced life support, level 2 (als 2)</td>
+      <td>Als 2</td>
+    </tr>
+    <tr>
+      <td>A0434</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Specialty care transport (sct)</td>
+      <td>Specialty care transport</td>
+    </tr>
+    <tr>
+      <td>A0435</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Fixed wing air mileage, per statute mile</td>
+      <td>Fixed wing air mileage</td>
+    </tr>
+    <tr>
+      <td>A0436</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Rotary wing air mileage, per statute mile</td>
+      <td>Rotary wing air mileage</td>
+    </tr>
+    <tr>
+      <td>A0888</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Noncovered ambulance mileage, per mile (e.g., for miles traveled beyond closest appropriate facility)</td>
+      <td>Noncovered ambulance mileage</td>
+    </tr>
+    <tr>
+      <td>A0998</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ambulance response and treatment, no transport</td>
+      <td>Ambulance response/treatment</td>
+    </tr>
+    <tr>
+      <td>A0999</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Unlisted ambulance service</td>
+      <td>Unlisted ambulance service</td>
+    </tr>
+    <tr>
+      <td>A4206</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Syringe with needle, sterile, 1 cc or less, each</td>
+      <td>1 cc sterile syringe&amp;needle</td>
+    </tr>
+    <tr>
+      <td>A4207</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Syringe with needle, sterile 2 cc, each</td>
+      <td>2 cc sterile syringe&amp;needle</td>
+    </tr>
+    <tr>
+      <td>A4208</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Syringe with needle, sterile 3 cc, each</td>
+      <td>3 cc sterile syringe&amp;needle</td>
+    </tr>
+    <tr>
+      <td>A4209</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Syringe with needle, sterile 5 cc or greater, each</td>
+      <td>5+ cc sterile syringe&amp;needle</td>
+    </tr>
+    <tr>
+      <td>A4210</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Needle-free injection device, each</td>
+      <td>Nonneedle injection device</td>
+    </tr>
+    <tr>
+      <td>A4211</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Supplies for self-administered injections</td>
+      <td>Supp for self-adm injections</td>
+    </tr>
+    <tr>
+      <td>A4212</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Non-coring needle or stylet with or without catheter</td>
+      <td>Non coring needle or stylet</td>
+    </tr>
+    <tr>
+      <td>A4213</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Syringe, sterile, 20 cc or greater, each</td>
+      <td>20+ cc syringe only</td>
+    </tr>
+    <tr>
+      <td>A4215</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Needle, sterile, any size, each</td>
+      <td>Sterile needle</td>
+    </tr>
+    <tr>
+      <td>A4216</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Sterile water, saline and/or dextrose, diluent/flush, 10 ml</td>
+      <td>Sterile water/saline, 10 ml</td>
+    </tr>
+    <tr>
+      <td>A4217</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Sterile water/saline, 500 ml</td>
+      <td>Sterile water/saline, 500 ml</td>
+    </tr>
+    <tr>
+      <td>A4218</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Sterile saline or water, metered dose dispenser, 10 ml</td>
+      <td>Sterile saline or water</td>
+    </tr>
+    <tr>
+      <td>A4220</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Refill kit for implantable infusion pump</td>
+      <td>Infusion pump refill kit</td>
+    </tr>
+    <tr>
+      <td>A4221</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Supplies for maintenance of non-insulin drug infusion catheter, per week (list drugs  separately)</td>
+      <td>Supp non-insulin inf cath/wk</td>
+    </tr>
+    <tr>
+      <td>A4222</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Infusion supplies for external drug infusion pump, per cassette or bag (list drugs separately)</td>
+      <td>Infusion supplies with pump</td>
+    </tr>
+    <tr>
+      <td>A4223</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Infusion supplies not used with external infusion pump, per cassette or bag (list drugs separately)</td>
+      <td>Infusion supplies w/o pump</td>
+    </tr>
+    <tr>
+      <td>A4224</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Supplies for maintenance of insulin infusion catheter, per week</td>
+      <td>Supply insulin inf cath/wk</td>
+    </tr>
+    <tr>
+      <td>A4225</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Supplies for external insulin infusion pump, syringe type cartridge, sterile, each</td>
+      <td>Sup/ext insulin inf pump syr</td>
+    </tr>
+    <tr>
+      <td>A4226</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Supplies for maintenance of insulin infusion pump with dosage rate adjustment using therapeutic continuous glucose sensing, per week</td>
+      <td>Weekly supply maint cgs pump</td>
+    </tr>
+    <tr>
+      <td>A4230</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Infusion set for external insulin pump, non needle cannula type</td>
+      <td>Infus insulin pump non needl</td>
+    </tr>
+    <tr>
+      <td>A4231</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Infusion set for external insulin pump, needle type</td>
+      <td>Infusion insulin pump needle</td>
+    </tr>
+    <tr>
+      <td>A4232</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Syringe with needle for external insulin pump, sterile, 3 cc</td>
+      <td>Syringe w/needle insulin 3cc</td>
+    </tr>
+    <tr>
+      <td>A4233</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Replacement battery, alkaline (other than j cell), for use with medically necessary home blood glucose monitor owned by patient, each</td>
+      <td>Alkalin batt for glucose mon</td>
+    </tr>
+    <tr>
+      <td>A4234</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Replacement battery, alkaline, j cell, for use with medically necessary home blood glucose monitor owned by patient, each</td>
+      <td>J-cell batt for glucose mon</td>
+    </tr>
+    <tr>
+      <td>A4235</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Replacement battery, lithium, for use with medically necessary home blood glucose monitor owned by patient, each</td>
+      <td>Lithium batt for glucose mon</td>
+    </tr>
+    <tr>
+      <td>A4236</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Replacement battery, silver oxide, for use with medically necessary home blood glucose monitor owned by patient, each</td>
+      <td>Silvr oxide batt glucose mon</td>
+    </tr>
+    <tr>
+      <td>A4244</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Alcohol or peroxide, per pint</td>
+      <td>Alcohol or peroxide per pint</td>
+    </tr>
+    <tr>
+      <td>A4245</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Alcohol wipes, per box</td>
+      <td>Alcohol wipes per box</td>
+    </tr>
+    <tr>
+      <td>A4246</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Betadine or phisohex solution, per pint</td>
+      <td>Betadine/phisohex solution</td>
+    </tr>
+    <tr>
+      <td>A4247</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Betadine or iodine swabs/wipes, per box</td>
+      <td>Betadine/iodine swabs/wipes</td>
+    </tr>
+    <tr>
+      <td>A4248</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Chlorhexidine containing antiseptic, 1 ml</td>
+      <td>Chlorhexidine antisept</td>
+    </tr>
+    <tr>
+      <td>A4250</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Urine test or reagent strips or tablets (100 tablets or strips)</td>
+      <td>Urine reagent strips/tablets</td>
+    </tr>
+    <tr>
+      <td>A4252</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Blood ketone test or reagent strip, each</td>
+      <td>Blood ketone test or strip</td>
+    </tr>
+    <tr>
+      <td>A4253</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Blood glucose test or reagent strips for home blood glucose monitor, per 50 strips</td>
+      <td>Blood glucose/reagent strips</td>
+    </tr>
+    <tr>
+      <td>A4255</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Platforms for home blood glucose monitor, 50 per box</td>
+      <td>Glucose monitor platforms</td>
+    </tr>
+    <tr>
+      <td>A4256</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Normal, low and high calibrator solution / chips</td>
+      <td>Calibrator solution/chips</td>
+    </tr>
+    <tr>
+      <td>A4257</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Replacement lens shield cartridge for use with laser skin piercing device, each</td>
+      <td>Replace lensshield cartridge</td>
+    </tr>
+    <tr>
+      <td>A4258</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Spring-powered device for lancet, each</td>
+      <td>Lancet device each</td>
+    </tr>
+    <tr>
+      <td>A4259</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Lancets, per box of 100</td>
+      <td>Lancets per box</td>
+    </tr>
+    <tr>
+      <td>A4261</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Cervical cap for contraceptive use</td>
+      <td>Cervical cap contraceptive</td>
+    </tr>
+    <tr>
+      <td>A4262</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Temporary, absorbable lacrimal duct implant, each</td>
+      <td>Temporary tear duct plug</td>
+    </tr>
+    <tr>
+      <td>A4263</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Permanent, long term, non-dissolvable lacrimal duct implant, each</td>
+      <td>Permanent tear duct plug</td>
+    </tr>
+    <tr>
+      <td>A4264</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Permanent implantable contraceptive intratubal occlusion device(s) and delivery system</td>
+      <td>Intratubal occlusion device</td>
+    </tr>
+    <tr>
+      <td>A4265</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Paraffin, per pound</td>
+      <td>Paraffin</td>
+    </tr>
+    <tr>
+      <td>A4266</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Diaphragm for contraceptive use</td>
+      <td>Diaphragm</td>
+    </tr>
+    <tr>
+      <td>A4267</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Contraceptive supply, condom, male, each</td>
+      <td>Male condom</td>
+    </tr>
+    <tr>
+      <td>A4268</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Contraceptive supply, condom, female, each</td>
+      <td>Female condom</td>
+    </tr>
+    <tr>
+      <td>A4269</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Contraceptive supply, spermicide (e.g., foam, gel), each</td>
+      <td>Spermicide</td>
+    </tr>
+    <tr>
+      <td>A4270</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Disposable endoscope sheath, each</td>
+      <td>Disposable endoscope sheath</td>
+    </tr>
+    <tr>
+      <td>A4280</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Adhesive skin support attachment for use with external breast prosthesis, each</td>
+      <td>Brst prsths adhsv attchmnt</td>
+    </tr>
+    <tr>
+      <td>A4281</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tubing for breast pump, replacement</td>
+      <td>Replacement breastpump tube</td>
+    </tr>
+    <tr>
+      <td>A4282</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Adapter for breast pump, replacement</td>
+      <td>Replacement breastpump adpt</td>
+    </tr>
+    <tr>
+      <td>A4283</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Cap for breast pump bottle, replacement</td>
+      <td>Replacement breastpump cap</td>
+    </tr>
+    <tr>
+      <td>A4284</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Breast shield and splash protector for use with breast pump, replacement</td>
+      <td>Replcmnt breast pump shield</td>
+    </tr>
+    <tr>
+      <td>A4285</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Polycarbonate bottle for use with breast pump, replacement</td>
+      <td>Replcmnt breast pump bottle</td>
+    </tr>
+    <tr>
+      <td>A4286</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Locking ring for breast pump, replacement</td>
+      <td>Replcmnt breastpump lok ring</td>
+    </tr>
+    <tr>
+      <td>A4290</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Sacral nerve stimulation test lead, each</td>
+      <td>Sacral nerve stim test lead</td>
+    </tr>
+    <tr>
+      <td>A4300</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Implantable access catheter, (e.g., venous, arterial, epidural subarachnoid, or peritoneal, etc.) external access</td>
+      <td>Cath impl vasc access portal</td>
+    </tr>
+    <tr>
+      <td>A4301</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Implantable access total catheter, port/reservoir (e.g., venous, arterial, epidural, subarachnoid, peritoneal, etc.)</td>
+      <td>Implantable access syst perc</td>
+    </tr>
+    <tr>
+      <td>A4305</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Disposable drug delivery system, flow rate of 50 ml or greater per hour</td>
+      <td>Drug delivery system &gt;=50 ml</td>
+    </tr>
+    <tr>
+      <td>A4306</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Disposable drug delivery system, flow rate of less than 50 ml per hour</td>
+      <td>Drug delivery system &lt;=50 ml</td>
+    </tr>
+    <tr>
+      <td>A4310</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Insertion tray without drainage bag and without catheter (accessories only)</td>
+      <td>Insert tray w/o bag/cath</td>
+    </tr>
+    <tr>
+      <td>A4311</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Insertion tray without drainage bag with indwelling catheter, foley type, two-way latex with coating (teflon, silicone, silicone elastomer or hydrophilic, etc.)</td>
+      <td>Catheter w/o bag 2-way latex</td>
+    </tr>
+    <tr>
+      <td>A4312</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Insertion tray without drainage bag with indwelling catheter, foley type, two-way, all silicone</td>
+      <td>Cath w/o bag 2-way silicone</td>
+    </tr>
+    <tr>
+      <td>A4313</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Insertion tray without drainage bag with indwelling catheter, foley type, three-way, for continuous irrigation</td>
+      <td>Catheter w/bag 3-way</td>
+    </tr>
+    <tr>
+      <td>A4314</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Insertion tray with drainage bag with indwelling catheter, foley type, two-way latex with coating (teflon, silicone, silicone elastomer or hydrophilic, etc.)</td>
+      <td>Cath w/drainage 2-way latex</td>
+    </tr>
+    <tr>
+      <td>A4315</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Insertion tray with drainage bag with indwelling catheter, foley type, two-way, all silicone</td>
+      <td>Cath w/drainage 2-way silcne</td>
+    </tr>
+    <tr>
+      <td>A4316</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Insertion tray with drainage bag with indwelling catheter, foley type, three-way, for continuous irrigation</td>
+      <td>Cath w/drainage 3-way</td>
+    </tr>
+    <tr>
+      <td>A4320</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Irrigation tray with bulb or piston syringe, any purpose</td>
+      <td>Irrigation tray</td>
+    </tr>
+    <tr>
+      <td>A4321</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Therapeutic agent for urinary catheter irrigation</td>
+      <td>Cath therapeutic irrig agent</td>
+    </tr>
+    <tr>
+      <td>A4322</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Irrigation syringe, bulb or piston, each</td>
+      <td>Irrigation syringe</td>
+    </tr>
+    <tr>
+      <td>A4326</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Male external catheter with integral collection chamber, any type, each</td>
+      <td>Male external catheter</td>
+    </tr>
+    <tr>
+      <td>A4327</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Female external urinary collection device; meatal cup, each</td>
+      <td>Fem urinary collect dev cup</td>
+    </tr>
+    <tr>
+      <td>A4328</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Female external urinary collection device; pouch, each</td>
+      <td>Fem urinary collect pouch</td>
+    </tr>
+    <tr>
+      <td>A4330</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Perianal fecal collection pouch with adhesive, each</td>
+      <td>Stool collection pouch</td>
+    </tr>
+    <tr>
+      <td>A4331</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Extension drainage tubing, any type, any length, with connector/adaptor, for use with urinary leg bag or urostomy pouch, each</td>
+      <td>Extension drainage tubing</td>
+    </tr>
+    <tr>
+      <td>A4332</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Lubricant, individual sterile packet, each</td>
+      <td>Lube sterile packet</td>
+    </tr>
+    <tr>
+      <td>A4333</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Urinary catheter anchoring device, adhesive skin attachment, each</td>
+      <td>Urinary cath anchor device</td>
+    </tr>
+    <tr>
+      <td>A4334</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Urinary catheter anchoring device, leg strap, each</td>
+      <td>Urinary cath leg strap</td>
+    </tr>
+    <tr>
+      <td>A4335</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Incontinence supply; miscellaneous</td>
+      <td>Incontinence supply</td>
+    </tr>
+    <tr>
+      <td>A4336</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Incontinence supply, urethral insert, any type, each</td>
+      <td>Urethral insert</td>
+    </tr>
+    <tr>
+      <td>A4337</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Incontinence supply, rectal insert, any type, each</td>
+      <td>Incontinent rectal insert</td>
+    </tr>
+    <tr>
+      <td>A4338</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Indwelling catheter; foley type, two-way latex with coating (teflon, silicone, silicone elastomer, or hydrophilic, etc.), each</td>
+      <td>Indwelling catheter latex</td>
+    </tr>
+    <tr>
+      <td>A4340</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Indwelling catheter; specialty type, (e.g., coude, mushroom, wing, etc.), each</td>
+      <td>Indwelling catheter special</td>
+    </tr>
+    <tr>
+      <td>A4344</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Indwelling catheter, foley type, two-way, all silicone, each</td>
+      <td>Cath indw foley 2 way silicn</td>
+    </tr>
+    <tr>
+      <td>A4346</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Indwelling catheter; foley type, three way for continuous irrigation, each</td>
+      <td>Cath indw foley 3 way</td>
+    </tr>
+    <tr>
+      <td>A4349</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Male external catheter, with or without adhesive, disposable, each</td>
+      <td>Disposable male external cat</td>
+    </tr>
+    <tr>
+      <td>A4351</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Intermittent urinary catheter; straight tip, with or without coating (teflon, silicone, silicone elastomer, or hydrophilic, etc.), each</td>
+      <td>Straight tip urine catheter</td>
+    </tr>
+    <tr>
+      <td>A4352</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Intermittent urinary catheter; coude (curved) tip, with or without coating (teflon, silicone, silicone elastomeric, or hydrophilic, etc.), each</td>
+      <td>Coude tip urinary catheter</td>
+    </tr>
+    <tr>
+      <td>A4353</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Intermittent urinary catheter, with insertion supplies</td>
+      <td>Intermittent urinary cath</td>
+    </tr>
+    <tr>
+      <td>A4354</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Insertion tray with drainage bag but without catheter</td>
+      <td>Cath insertion tray w/bag</td>
+    </tr>
+    <tr>
+      <td>A4355</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Irrigation tubing set for continuous bladder irrigation through a three-way indwelling foley catheter, each</td>
+      <td>Bladder irrigation tubing</td>
+    </tr>
+    <tr>
+      <td>A4356</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>External urethral clamp or compression device (not to be used for catheter clamp), each</td>
+      <td>Ext ureth clmp or compr dvc</td>
+    </tr>
+    <tr>
+      <td>A4357</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Bedside drainage bag, day or night, with or without anti-reflux device, with or without tube, each</td>
+      <td>Bedside drainage bag</td>
+    </tr>
+    <tr>
+      <td>A4358</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Urinary drainage bag, leg or abdomen, vinyl, with or without tube, with straps, each</td>
+      <td>Urinary leg or abdomen bag</td>
+    </tr>
+    <tr>
+      <td>A4360</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Disposable external urethral clamp or compression device, with pad and/or pouch, each</td>
+      <td>Disposable ext urethral dev</td>
+    </tr>
+    <tr>
+      <td>A4361</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy faceplate, each</td>
+      <td>Ostomy face plate</td>
+    </tr>
+    <tr>
+      <td>A4362</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Skin barrier; solid, 4 x 4 or equivalent; each</td>
+      <td>Solid skin barrier</td>
+    </tr>
+    <tr>
+      <td>A4363</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy clamp, any type, replacement only, each</td>
+      <td>Ostomy clamp, replacement</td>
+    </tr>
+    <tr>
+      <td>A4364</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Adhesive, liquid or equal, any type, per oz</td>
+      <td>Adhesive, liquid or equal</td>
+    </tr>
+    <tr>
+      <td>A4366</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy vent, any type, each</td>
+      <td>Ostomy vent</td>
+    </tr>
+    <tr>
+      <td>A4367</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy belt, each</td>
+      <td>Ostomy belt</td>
+    </tr>
+    <tr>
+      <td>A4368</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy filter, any type, each</td>
+      <td>Ostomy filter</td>
+    </tr>
+    <tr>
+      <td>A4369</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy skin barrier, liquid (spray, brush, etc.), per oz</td>
+      <td>Skin barrier liquid per oz</td>
+    </tr>
+    <tr>
+      <td>A4371</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy skin barrier, powder, per oz</td>
+      <td>Skin barrier powder per oz</td>
+    </tr>
+    <tr>
+      <td>A4372</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy skin barrier, solid 4 x 4 or equivalent, standard wear, with built-in convexity, each</td>
+      <td>Skin barrier solid 4x4 equiv</td>
+    </tr>
+    <tr>
+      <td>A4373</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy skin barrier, with flange (solid, flexible or accordion), with built-in convexity, any size, each</td>
+      <td>Skin barrier with flange</td>
+    </tr>
+    <tr>
+      <td>A4375</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, drainable, with faceplate attached, plastic, each</td>
+      <td>Drainable plastic pch w fcpl</td>
+    </tr>
+    <tr>
+      <td>A4376</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, drainable, with faceplate attached, rubber, each</td>
+      <td>Drainable rubber pch w fcplt</td>
+    </tr>
+    <tr>
+      <td>A4377</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, drainable, for use on faceplate, plastic, each</td>
+      <td>Drainable plstic pch w/o fp</td>
+    </tr>
+    <tr>
+      <td>A4378</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, drainable, for use on faceplate, rubber, each</td>
+      <td>Drainable rubber pch w/o fp</td>
+    </tr>
+    <tr>
+      <td>A4379</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, urinary, with faceplate attached, plastic, each</td>
+      <td>Urinary plastic pouch w fcpl</td>
+    </tr>
+    <tr>
+      <td>A4380</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, urinary, with faceplate attached, rubber, each</td>
+      <td>Urinary rubber pouch w fcplt</td>
+    </tr>
+    <tr>
+      <td>A4381</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, urinary, for use on faceplate, plastic, each</td>
+      <td>Urinary plastic pouch w/o fp</td>
+    </tr>
+    <tr>
+      <td>A4382</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, urinary, for use on faceplate, heavy plastic, each</td>
+      <td>Urinary hvy plstc pch w/o fp</td>
+    </tr>
+    <tr>
+      <td>A4383</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, urinary, for use on faceplate, rubber, each</td>
+      <td>Urinary rubber pouch w/o fp</td>
+    </tr>
+    <tr>
+      <td>A4384</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy faceplate equivalent, silicone ring, each</td>
+      <td>Ostomy faceplt/silicone ring</td>
+    </tr>
+    <tr>
+      <td>A4385</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy skin barrier, solid 4 x 4 or equivalent, extended wear, without built-in convexity, each</td>
+      <td>Ost skn barrier sld ext wear</td>
+    </tr>
+    <tr>
+      <td>A4387</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, closed, with barrier attached, with built-in convexity (1 piece), each</td>
+      <td>Ost clsd pouch w att st barr</td>
+    </tr>
+    <tr>
+      <td>A4388</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, drainable, with extended wear barrier attached, (1 piece), each</td>
+      <td>Drainable pch w ex wear barr</td>
+    </tr>
+    <tr>
+      <td>A4389</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, drainable, with barrier attached, with built-in convexity (1 piece), each</td>
+      <td>Drainable pch w st wear barr</td>
+    </tr>
+    <tr>
+      <td>A4390</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, drainable, with extended wear barrier attached, with built-in convexity (1 piece), each</td>
+      <td>Drainable pch ex wear convex</td>
+    </tr>
+    <tr>
+      <td>A4391</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, urinary, with extended wear barrier attached (1 piece), each</td>
+      <td>Urinary pouch w ex wear barr</td>
+    </tr>
+    <tr>
+      <td>A4392</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, urinary, with standard wear barrier attached, with built-in convexity (1 piece), each</td>
+      <td>Urinary pouch w st wear barr</td>
+    </tr>
+    <tr>
+      <td>A4393</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, urinary, with extended wear barrier attached, with built-in convexity (1 piece), each</td>
+      <td>Urine pch w ex wear bar conv</td>
+    </tr>
+    <tr>
+      <td>A4394</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy deodorant, with or without lubricant, for use in ostomy pouch, per fluid ounce</td>
+      <td>Ostomy pouch liq deodorant</td>
+    </tr>
+    <tr>
+      <td>A4395</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy deodorant for use in ostomy pouch, solid, per tablet</td>
+      <td>Ostomy pouch solid deodorant</td>
+    </tr>
+    <tr>
+      <td>A4396</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy belt with peristomal hernia support</td>
+      <td>Peristomal hernia supprt blt</td>
+    </tr>
+    <tr>
+      <td>A4397</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Irrigation supply; sleeve, each</td>
+      <td>Irrigation supply sleeve</td>
+    </tr>
+    <tr>
+      <td>A4398</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy irrigation supply; bag, each</td>
+      <td>Ostomy irrigation bag</td>
+    </tr>
+    <tr>
+      <td>A4399</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy irrigation supply; cone/catheter, with or without brush</td>
+      <td>Ostomy irrig cone/cath w brs</td>
+    </tr>
+    <tr>
+      <td>A4400</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy irrigation set</td>
+      <td>Ostomy irrigation set</td>
+    </tr>
+    <tr>
+      <td>A4402</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Lubricant, per ounce</td>
+      <td>Lubricant per ounce</td>
+    </tr>
+    <tr>
+      <td>A4404</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy ring, each</td>
+      <td>Ostomy ring each</td>
+    </tr>
+    <tr>
+      <td>A4405</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy skin barrier, non-pectin based, paste, per ounce</td>
+      <td>Nonpectin based ostomy paste</td>
+    </tr>
+    <tr>
+      <td>A4406</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy skin barrier, pectin-based, paste, per ounce</td>
+      <td>Pectin based ostomy paste</td>
+    </tr>
+    <tr>
+      <td>A4407</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy skin barrier, with flange (solid, flexible, or accordion), extended wear, with built-in convexity, 4 x 4 inches or smaller, each</td>
+      <td>Ext wear ost skn barr &lt;=4sq”</td>
+    </tr>
+    <tr>
+      <td>A4408</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy skin barrier, with flange (solid, flexible or accordion), extended wear, with built-in convexity, larger than 4 x 4 inches, each</td>
+      <td>Ext wear ost skn barr &gt;4sq”</td>
+    </tr>
+    <tr>
+      <td>A4409</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy skin barrier, with flange (solid, flexible or accordion), extended wear, without built-in convexity, 4 x 4 inches or smaller, each</td>
+      <td>Ost skn barr convex &lt;=4 sq i</td>
+    </tr>
+    <tr>
+      <td>A4410</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy skin barrier, with flange (solid, flexible or accordion), extended wear, without built-in convexity, larger than 4 x 4 inches, each</td>
+      <td>Ost skn barr extnd &gt;4 sq</td>
+    </tr>
+    <tr>
+      <td>A4411</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy skin barrier, solid 4 x 4 or equivalent, extended wear, with built-in convexity, each</td>
+      <td>Ost skn barr extnd =4sq</td>
+    </tr>
+    <tr>
+      <td>A4412</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, drainable, high output, for use on a barrier with flange (2 piece system), without filter, each</td>
+      <td>Ost pouch drain high output</td>
+    </tr>
+    <tr>
+      <td>A4413</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, drainable, high output, for use on a barrier with flange (2 piece system), with filter, each</td>
+      <td>2 pc drainable ost pouch</td>
+    </tr>
+    <tr>
+      <td>A4414</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy skin barrier, with flange (solid, flexible or accordion), without built-in convexity, 4 x 4 inches or smaller, each</td>
+      <td>Ost sknbar w/o conv&lt;=4 sq in</td>
+    </tr>
+    <tr>
+      <td>A4415</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy skin barrier, with flange (solid, flexible or accordion), without built-in convexity, larger than 4 x 4 inches, each</td>
+      <td>Ost skn barr w/o conv &gt;4 sqi</td>
+    </tr>
+    <tr>
+      <td>A4416</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, closed, with barrier attached, with filter (1 piece), each</td>
+      <td>Ost pch clsd w barrier/filtr</td>
+    </tr>
+    <tr>
+      <td>A4417</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, closed, with barrier attached, with built-in convexity, with filter (1 piece), each</td>
+      <td>Ost pch w bar/bltinconv/fltr</td>
+    </tr>
+    <tr>
+      <td>A4418</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, closed; without barrier attached, with filter (1 piece), each</td>
+      <td>Ost pch clsd w/o bar w filtr</td>
+    </tr>
+    <tr>
+      <td>A4419</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, closed; for use on barrier with non-locking flange, with filter (2 piece), each</td>
+      <td>Ost pch for bar w flange/flt</td>
+    </tr>
+    <tr>
+      <td>A4420</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, closed; for use on barrier with locking flange (2 piece), each</td>
+      <td>Ost pch clsd for bar w lk fl</td>
+    </tr>
+    <tr>
+      <td>A4421</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy supply; miscellaneous</td>
+      <td>Ostomy supply misc</td>
+    </tr>
+    <tr>
+      <td>A4422</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy absorbent material (sheet/pad/crystal packet) for use in ostomy pouch to thicken liquid stomal output, each</td>
+      <td>Ost pouch absorbent material</td>
+    </tr>
+    <tr>
+      <td>A4423</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, closed; for use on barrier with locking flange, with filter (2 piece), each</td>
+      <td>Ost pch for bar w lk fl/fltr</td>
+    </tr>
+    <tr>
+      <td>A4424</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, drainable, with barrier attached, with filter (1 piece), each</td>
+      <td>Ost pch drain w bar &amp; filter</td>
+    </tr>
+    <tr>
+      <td>A4425</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, drainable; for use on barrier with non-locking flange, with filter (2 piece system), each</td>
+      <td>Ost pch drain for barrier fl</td>
+    </tr>
+    <tr>
+      <td>A4426</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, drainable; for use on barrier with locking flange (2 piece system), each</td>
+      <td>Ost pch drain 2 piece system</td>
+    </tr>
+    <tr>
+      <td>A4427</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, drainable; for use on barrier with locking flange, with filter (2 piece system), each</td>
+      <td>Ost pch drain/barr lk flng/f</td>
+    </tr>
+    <tr>
+      <td>A4428</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, urinary, with extended wear barrier attached, with faucet-type tap with valve (1 piece), each</td>
+      <td>Urine ost pouch w faucet/tap</td>
+    </tr>
+    <tr>
+      <td>A4429</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, urinary, with barrier attached, with built-in convexity, with faucet-type tap with valve (1 piece), each</td>
+      <td>Urine ost pouch w bltinconv</td>
+    </tr>
+    <tr>
+      <td>A4430</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, urinary, with extended wear barrier attached, with built-in convexity, with faucet-type tap with valve (1 piece), each</td>
+      <td>Ost urine pch w b/bltin conv</td>
+    </tr>
+    <tr>
+      <td>A4431</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, urinary; with barrier attached, with faucet-type tap with valve (1 piece), each</td>
+      <td>Ost pch urine w barrier/tapv</td>
+    </tr>
+    <tr>
+      <td>A4432</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, urinary; for use on barrier with non-locking flange, with faucet-type tap with valve (2 piece), each</td>
+      <td>Os pch urine w bar/fange/tap</td>
+    </tr>
+    <tr>
+      <td>A4433</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, urinary; for use on barrier with locking flange (2 piece), each</td>
+      <td>Urine ost pch bar w lock fln</td>
+    </tr>
+    <tr>
+      <td>A4434</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, urinary; for use on barrier with locking flange, with faucet-type tap with valve (2 piece), each</td>
+      <td>Ost pch urine w lock flng/ft</td>
+    </tr>
+    <tr>
+      <td>A4435</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, drainable, high output, with extended wear barrier (one-piece system), with or without filter, each</td>
+      <td>1pc ost pch drain hgh output</td>
+    </tr>
+    <tr>
+      <td>A4450</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tape, non-waterproof, per 18 square inches</td>
+      <td>Non-waterproof tape</td>
+    </tr>
+    <tr>
+      <td>A4452</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tape, waterproof, per 18 square inches</td>
+      <td>Waterproof tape</td>
+    </tr>
+    <tr>
+      <td>A4455</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Adhesive remover or solvent (for tape, cement or other adhesive), per ounce</td>
+      <td>Adhesive remover per ounce</td>
+    </tr>
+    <tr>
+      <td>A4456</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Adhesive remover, wipes, any type, each</td>
+      <td>Adhesive remover, wipes</td>
+    </tr>
+    <tr>
+      <td>A4458</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Enema bag with tubing, reusable</td>
+      <td>Reusable enema bag</td>
+    </tr>
+    <tr>
+      <td>A4459</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Manual pump-operated enema system, includes balloon, catheter and all accessories, reusable, any type</td>
+      <td>Manual pump enema, reusable</td>
+    </tr>
+    <tr>
+      <td>A4461</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Surgical dressing holder, non-reusable, each</td>
+      <td>Surgicl dress hold non-reuse</td>
+    </tr>
+    <tr>
+      <td>A4463</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Surgical dressing holder, reusable, each</td>
+      <td>Surgical dress holder reuse</td>
+    </tr>
+    <tr>
+      <td>A4465</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Non-elastic binder for extremity</td>
+      <td>Non-elastic extremity binder</td>
+    </tr>
+    <tr>
+      <td>A4466</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Garment, belt, sleeve or other covering, elastic or similar stretchable material, any type, each</td>
+      <td>Elastic garment/covering</td>
+    </tr>
+    <tr>
+      <td>A4467</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Belt, strap, sleeve, garment, or covering, any type</td>
+      <td>Belt strap sleev grmnt cover</td>
+    </tr>
+    <tr>
+      <td>A4470</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gravlee jet washer</td>
+      <td>Gravlee jet washer</td>
+    </tr>
+    <tr>
+      <td>A4480</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Vabra aspirator</td>
+      <td>Vabra aspirator</td>
+    </tr>
+    <tr>
+      <td>A4481</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tracheostoma filter, any type, any size, each</td>
+      <td>Tracheostoma filter</td>
+    </tr>
+    <tr>
+      <td>A4483</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Moisture exchanger, disposable, for use with invasive mechanical ventilation</td>
+      <td>Moisture exchanger</td>
+    </tr>
+    <tr>
+      <td>A4490</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Surgical stockings above knee length, each</td>
+      <td>Above knee surgical stocking</td>
+    </tr>
+    <tr>
+      <td>A4495</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Surgical stockings thigh length, each</td>
+      <td>Thigh length surg stocking</td>
+    </tr>
+    <tr>
+      <td>A4500</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Surgical stockings below knee length, each</td>
+      <td>Below knee surgical stocking</td>
+    </tr>
+    <tr>
+      <td>A4510</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Surgical stockings full length, each</td>
+      <td>Full length surg stocking</td>
+    </tr>
+    <tr>
+      <td>A4520</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Incontinence garment, any type, (e.g., brief, diaper), each</td>
+      <td>Incontinence garment anytype</td>
+    </tr>
+    <tr>
+      <td>A4550</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Surgical trays</td>
+      <td>Surgical trays</td>
+    </tr>
+    <tr>
+      <td>A4553</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Non-disposable underpads, all sizes</td>
+      <td>Nondisp underpads, all sizes</td>
+    </tr>
+    <tr>
+      <td>A4554</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Disposable underpads, all sizes</td>
+      <td>Disposable underpads</td>
+    </tr>
+    <tr>
+      <td>A4555</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Electrode/transducer for use with electrical stimulation device used for cancer treatment, replacement only</td>
+      <td>Ca tx e-stim electr/transduc</td>
+    </tr>
+    <tr>
+      <td>A4556</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Electrodes, (e.g., apnea monitor), per pair</td>
+      <td>Electrodes, pair</td>
+    </tr>
+    <tr>
+      <td>A4557</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Lead wires, (e.g., apnea monitor), per pair</td>
+      <td>Lead wires, pair</td>
+    </tr>
+    <tr>
+      <td>A4558</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Conductive gel or paste, for use with electrical device (e.g., tens, nmes), per oz</td>
+      <td>Conductive gel or paste</td>
+    </tr>
+    <tr>
+      <td>A4559</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Coupling gel or paste, for use with ultrasound device, per oz</td>
+      <td>Coupling gel or paste</td>
+    </tr>
+    <tr>
+      <td>A4561</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Pessary, rubber, any type</td>
+      <td>Pessary rubber, any type</td>
+    </tr>
+    <tr>
+      <td>A4562</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Pessary, non rubber, any type</td>
+      <td>Pessary, non rubber,any type</td>
+    </tr>
+    <tr>
+      <td>A4563</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Rectal control system for vaginal insertion, for long term use, includes pump and all supplies and accessories, any type each</td>
+      <td>Vag inser rectal control sys</td>
+    </tr>
+    <tr>
+      <td>A4565</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Slings</td>
+      <td>Slings</td>
+    </tr>
+    <tr>
+      <td>A4566</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Shoulder sling or vest design, abduction restrainer, with or without swathe control, prefabricated, includes fitting and adjustment</td>
+      <td>Should sling/vest/abrestrain</td>
+    </tr>
+    <tr>
+      <td>A4570</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Splint</td>
+      <td>Splint</td>
+    </tr>
+    <tr>
+      <td>A4575</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Topical hyperbaric oxygen chamber, disposable</td>
+      <td>Hyperbaric o2 chamber disps</td>
+    </tr>
+    <tr>
+      <td>A4580</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Cast supplies (e.g., plaster)</td>
+      <td>Cast supplies (plaster)</td>
+    </tr>
+    <tr>
+      <td>A4590</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Special casting material (e.g., fiberglass)</td>
+      <td>Special casting material</td>
+    </tr>
+    <tr>
+      <td>A4595</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Electrical stimulator supplies, 2 lead, per month, (e.g., tens, nmes)</td>
+      <td>Tens suppl 2 lead per month</td>
+    </tr>
+    <tr>
+      <td>A4600</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Sleeve for intermittent limb compression device, replacement only, each</td>
+      <td>Sleeve, inter limb comp dev</td>
+    </tr>
+    <tr>
+      <td>A4601</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Lithium ion battery, rechargeable, for non-prosthetic use, replacement</td>
+      <td>Lith ion non prosth recharge</td>
+    </tr>
+    <tr>
+      <td>A4602</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Replacement battery for external infusion pump owned by patient, lithium, 1.5 volt, each</td>
+      <td>Replace lithium battery 1.5v</td>
+    </tr>
+    <tr>
+      <td>A4604</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tubing with integrated heating element for use with positive airway pressure device</td>
+      <td>Tubing with heating element</td>
+    </tr>
+    <tr>
+      <td>A4605</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tracheal suction catheter, closed system, each</td>
+      <td>Trach suction cath close sys</td>
+    </tr>
+    <tr>
+      <td>A4606</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Oxygen probe for use with oximeter device, replacement</td>
+      <td>Oxygen probe used w oximeter</td>
+    </tr>
+    <tr>
+      <td>A4608</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Transtracheal oxygen catheter, each</td>
+      <td>Transtracheal oxygen cath</td>
+    </tr>
+    <tr>
+      <td>A4611</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Battery, heavy duty; replacement for patient owned ventilator</td>
+      <td>Heavy duty battery</td>
+    </tr>
+    <tr>
+      <td>A4612</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Battery cables; replacement for patient-owned ventilator</td>
+      <td>Battery cables</td>
+    </tr>
+    <tr>
+      <td>A4613</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Battery charger; replacement for patient-owned ventilator</td>
+      <td>Battery charger</td>
+    </tr>
+    <tr>
+      <td>A4614</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Peak expiratory flow rate meter, hand held</td>
+      <td>Hand-held pefr meter</td>
+    </tr>
+    <tr>
+      <td>A4615</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Cannula, nasal</td>
+      <td>Cannula nasal</td>
+    </tr>
+    <tr>
+      <td>A4616</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tubing (oxygen), per foot</td>
+      <td>Tubing (oxygen) per foot</td>
+    </tr>
+    <tr>
+      <td>A4617</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Mouth piece</td>
+      <td>Mouth piece</td>
+    </tr>
+    <tr>
+      <td>A4618</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Breathing circuits</td>
+      <td>Breathing circuits</td>
+    </tr>
+    <tr>
+      <td>A4619</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Face tent</td>
+      <td>Face tent</td>
+    </tr>
+    <tr>
+      <td>A4620</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Variable concentration mask</td>
+      <td>Variable concentration mask</td>
+    </tr>
+    <tr>
+      <td>A4623</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tracheostomy, inner cannula</td>
+      <td>Tracheostomy inner cannula</td>
+    </tr>
+    <tr>
+      <td>A4624</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tracheal suction catheter, any type other than closed system, each</td>
+      <td>Tracheal suction tube</td>
+    </tr>
+    <tr>
+      <td>A4625</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tracheostomy care kit for new tracheostomy</td>
+      <td>Trach care kit for new trach</td>
+    </tr>
+    <tr>
+      <td>A4626</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tracheostomy cleaning brush, each</td>
+      <td>Tracheostomy cleaning brush</td>
+    </tr>
+    <tr>
+      <td>A4627</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Spacer, bag or reservoir, with or without mask, for use with metered dose inhaler</td>
+      <td>Spacer bag/reservoir</td>
+    </tr>
+    <tr>
+      <td>A4628</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Oropharyngeal suction catheter, each</td>
+      <td>Oropharyngeal suction cath</td>
+    </tr>
+    <tr>
+      <td>A4629</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tracheostomy care kit for established tracheostomy</td>
+      <td>Tracheostomy care kit</td>
+    </tr>
+    <tr>
+      <td>A4630</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Replacement batteries, medically necessary, transcutaneous electrical stimulator, owned by patient</td>
+      <td>Repl bat t.e.n.s. own by pt</td>
+    </tr>
+    <tr>
+      <td>A4633</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Replacement bulb/lamp for ultraviolet light therapy system, each</td>
+      <td>Uvl replacement bulb</td>
+    </tr>
+    <tr>
+      <td>A4634</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Replacement bulb for therapeutic light box, tabletop model</td>
+      <td>Replacement bulb th lightbox</td>
+    </tr>
+    <tr>
+      <td>A4635</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Underarm pad, crutch, replacement, each</td>
+      <td>Underarm crutch pad</td>
+    </tr>
+    <tr>
+      <td>A4636</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Replacement, handgrip, cane, crutch, or walker, each</td>
+      <td>Handgrip for cane etc</td>
+    </tr>
+    <tr>
+      <td>A4637</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Replacement, tip, cane, crutch, walker, each.</td>
+      <td>Repl tip cane/crutch/walker</td>
+    </tr>
+    <tr>
+      <td>A4638</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Replacement battery for patient-owned ear pulse generator, each</td>
+      <td>Repl batt pulse gen sys</td>
+    </tr>
+    <tr>
+      <td>A4639</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Replacement pad for infrared heating pad system, each</td>
+      <td>Infrared ht sys replcmnt pad</td>
+    </tr>
+    <tr>
+      <td>A4640</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Replacement pad for use with medically necessary alternating pressure pad owned by patient</td>
+      <td>Alternating pressure pad</td>
+    </tr>
+    <tr>
+      <td>A4641</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Radiopharmaceutical, diagnostic, not otherwise classified</td>
+      <td>Radiopharm dx agent noc</td>
+    </tr>
+    <tr>
+      <td>A4642</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Indium in-111 satumomab pendetide, diagnostic, per study dose, up to 6 millicuries</td>
+      <td>In111 satumomab</td>
+    </tr>
+    <tr>
+      <td>A4648</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tissue marker, implantable, any type, each</td>
+      <td>Implantable tissue marker</td>
+    </tr>
+    <tr>
+      <td>A4649</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Surgical supply; miscellaneous</td>
+      <td>Surgical supplies</td>
+    </tr>
+    <tr>
+      <td>A4650</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Implantable radiation dosimeter, each</td>
+      <td>Implant radiation dosimeter</td>
+    </tr>
+    <tr>
+      <td>A4651</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Calibrated microcapillary tube, each</td>
+      <td>Calibrated microcap tube</td>
+    </tr>
+    <tr>
+      <td>A4652</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Microcapillary tube sealant</td>
+      <td>Microcapillary tube sealant</td>
+    </tr>
+    <tr>
+      <td>A4653</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Peritoneal dialysis catheter anchoring device, belt, each</td>
+      <td>Pd catheter anchor belt</td>
+    </tr>
+    <tr>
+      <td>A4657</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Syringe, with or without needle, each</td>
+      <td>Syringe w/wo needle</td>
+    </tr>
+    <tr>
+      <td>A4660</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Sphygmomanometer/blood pressure apparatus with cuff and stethoscope</td>
+      <td>Sphyg/bp app w cuff and stet</td>
+    </tr>
+    <tr>
+      <td>A4663</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Blood pressure cuff only</td>
+      <td>Dialysis blood pressure cuff</td>
+    </tr>
+    <tr>
+      <td>A4670</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Automatic blood pressure monitor</td>
+      <td>Automatic bp monitor, dial</td>
+    </tr>
+    <tr>
+      <td>A4671</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Disposable cycler set used with cycler dialysis machine, each</td>
+      <td>Disposable cycler set</td>
+    </tr>
+    <tr>
+      <td>A4672</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Drainage extension line, sterile, for dialysis, each</td>
+      <td>Drainage ext line, dialysis</td>
+    </tr>
+    <tr>
+      <td>A4673</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Extension line with easy lock connectors, used with dialysis</td>
+      <td>Ext line w easy lock connect</td>
+    </tr>
+    <tr>
+      <td>A4674</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Chemicals/antiseptics solution used to clean/sterilize dialysis equipment, per 8 oz</td>
+      <td>Chem/antisept solution, 8oz</td>
+    </tr>
+    <tr>
+      <td>A4680</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Activated carbon filter for hemodialysis, each</td>
+      <td>Activated carbon filter, ea</td>
+    </tr>
+    <tr>
+      <td>A4690</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Dialyzer (artificial kidneys), all types, all sizes, for hemodialysis, each</td>
+      <td>Dialyzer, each</td>
+    </tr>
+    <tr>
+      <td>A4706</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Bicarbonate concentrate, solution, for hemodialysis, per gallon</td>
+      <td>Bicarbonate conc sol per gal</td>
+    </tr>
+    <tr>
+      <td>A4707</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Bicarbonate concentrate, powder, for hemodialysis, per packet</td>
+      <td>Bicarbonate conc pow per pac</td>
+    </tr>
+    <tr>
+      <td>A4708</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Acetate concentrate solution, for hemodialysis, per gallon</td>
+      <td>Acetate conc sol per gallon</td>
+    </tr>
+    <tr>
+      <td>A4709</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Acid concentrate, solution, for hemodialysis, per gallon</td>
+      <td>Acid conc sol per gallon</td>
+    </tr>
+    <tr>
+      <td>A4714</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Treated water (deionized, distilled, or reverse osmosis) for peritoneal dialysis, per gallon</td>
+      <td>Treated water per gallon</td>
+    </tr>
+    <tr>
+      <td>A4719</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>“y set” tubing for peritoneal dialysis</td>
+      <td>“y set” tubing</td>
+    </tr>
+    <tr>
+      <td>A4720</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Dialysate solution, any concentration of dextrose, fluid volume greater than 249 cc, but less than or equal to 999 cc, for peritoneal dialysis</td>
+      <td>Dialysat sol fld vol &gt; 249cc</td>
+    </tr>
+    <tr>
+      <td>A4721</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Dialysate solution, any concentration of dextrose, fluid volume greater than 999 cc but less than or equal to 1999 cc, for peritoneal dialysis</td>
+      <td>Dialysat sol fld vol &gt; 999cc</td>
+    </tr>
+    <tr>
+      <td>A4722</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Dialysate solution, any concentration of dextrose, fluid volume greater than 1999 cc but less than or equal to 2999 cc, for peritoneal dialysis</td>
+      <td>Dialys sol fld vol &gt; 1999cc</td>
+    </tr>
+    <tr>
+      <td>A4723</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Dialysate solution, any concentration of dextrose, fluid volume greater than 2999 cc but less than or equal to 3999 cc, for peritoneal dialysis</td>
+      <td>Dialys sol fld vol &gt; 2999cc</td>
+    </tr>
+    <tr>
+      <td>A4724</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Dialysate solution, any concentration of dextrose, fluid volume greater than 3999 cc but less than or equal to 4999 cc, for peritoneal dialysis</td>
+      <td>Dialys sol fld vol &gt; 3999cc</td>
+    </tr>
+    <tr>
+      <td>A4725</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Dialysate solution, any concentration of dextrose, fluid volume greater than 4999 cc but less than or equal to 5999 cc, for peritoneal dialysis</td>
+      <td>Dialys sol fld vol &gt; 4999cc</td>
+    </tr>
+    <tr>
+      <td>A4726</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Dialysate solution, any concentration of dextrose, fluid volume greater than 5999 cc, for peritoneal dialysis</td>
+      <td>Dialys sol fld vol &gt; 5999cc</td>
+    </tr>
+    <tr>
+      <td>A4728</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Dialysate solution, non-dextrose containing, 500 ml</td>
+      <td>Dialysate solution, non-dex</td>
+    </tr>
+    <tr>
+      <td>A4730</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Fistula cannulation set for hemodialysis, each</td>
+      <td>Fistula cannulation set, ea</td>
+    </tr>
+    <tr>
+      <td>A4736</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Topical anesthetic, for dialysis, per gram</td>
+      <td>Topical anesthetic, per gram</td>
+    </tr>
+    <tr>
+      <td>A4737</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injectable anesthetic, for dialysis, per 10 ml</td>
+      <td>Inj anesthetic per 10 ml</td>
+    </tr>
+    <tr>
+      <td>A4740</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Shunt accessory, for hemodialysis, any type, each</td>
+      <td>Shunt accessory</td>
+    </tr>
+    <tr>
+      <td>A4750</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Blood tubing, arterial or venous, for hemodialysis, each</td>
+      <td>Art or venous blood tubing</td>
+    </tr>
+    <tr>
+      <td>A4755</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Blood tubing, arterial and venous combined, for hemodialysis, each</td>
+      <td>Comb art/venous blood tubing</td>
+    </tr>
+    <tr>
+      <td>A4760</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Dialysate solution test kit, for peritoneal dialysis, any type, each</td>
+      <td>Dialysate sol test kit, each</td>
+    </tr>
+    <tr>
+      <td>A4765</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Dialysate concentrate, powder, additive for peritoneal dialysis, per packet</td>
+      <td>Dialysate conc pow per pack</td>
+    </tr>
+    <tr>
+      <td>A4766</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Dialysate concentrate, solution, additive for peritoneal dialysis, per 10 ml</td>
+      <td>Dialysate conc sol add 10 ml</td>
+    </tr>
+    <tr>
+      <td>A4770</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Blood collection tube, vacuum, for dialysis, per 50</td>
+      <td>Blood collection tube/vacuum</td>
+    </tr>
+    <tr>
+      <td>A4771</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Serum clotting time tube, for dialysis, per 50</td>
+      <td>Serum clotting time tube</td>
+    </tr>
+    <tr>
+      <td>A4772</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Blood glucose test strips, for dialysis, per 50</td>
+      <td>Blood glucose test strips</td>
+    </tr>
+    <tr>
+      <td>A4773</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Occult blood test strips, for dialysis, per 50</td>
+      <td>Occult blood test strips</td>
+    </tr>
+    <tr>
+      <td>A4774</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ammonia test strips, for dialysis, per 50</td>
+      <td>Ammonia test strips</td>
+    </tr>
+    <tr>
+      <td>A4802</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Protamine sulfate, for hemodialysis, per 50 mg</td>
+      <td>Protamine sulfate per 50 mg</td>
+    </tr>
+    <tr>
+      <td>A4860</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Disposable catheter tips for peritoneal dialysis, per 10</td>
+      <td>Disposable catheter tips</td>
+    </tr>
+    <tr>
+      <td>A4870</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Plumbing and/or electrical work for home hemodialysis equipment</td>
+      <td>Plumb/elec wk hm hemo equip</td>
+    </tr>
+    <tr>
+      <td>A4890</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Contracts, repair and maintenance, for hemodialysis equipment</td>
+      <td>Repair/maint cont hemo equip</td>
+    </tr>
+    <tr>
+      <td>A4911</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Drain bag/bottle, for dialysis, each</td>
+      <td>Drain bag/bottle</td>
+    </tr>
+    <tr>
+      <td>A4913</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Miscellaneous dialysis supplies, not otherwise specified</td>
+      <td>Misc dialysis supplies noc</td>
+    </tr>
+    <tr>
+      <td>A4918</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Venous pressure clamp, for hemodialysis, each</td>
+      <td>Venous pressure clamp</td>
+    </tr>
+    <tr>
+      <td>A4927</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gloves, non-sterile, per 100</td>
+      <td>Non-sterile gloves</td>
+    </tr>
+    <tr>
+      <td>A4928</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Surgical mask, per 20</td>
+      <td>Surgical mask</td>
+    </tr>
+    <tr>
+      <td>A4929</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tourniquet for dialysis, each</td>
+      <td>Tourniquet for dialysis, ea</td>
+    </tr>
+    <tr>
+      <td>A4930</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gloves, sterile, per pair</td>
+      <td>Sterile, gloves per pair</td>
+    </tr>
+    <tr>
+      <td>A4931</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Oral thermometer, reusable, any type, each</td>
+      <td>Reusable oral thermometer</td>
+    </tr>
+    <tr>
+      <td>A4932</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Rectal thermometer, reusable, any type, each</td>
+      <td>Reusable rectal thermometer</td>
+    </tr>
+    <tr>
+      <td>A5051</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, closed; with barrier attached (1 piece), each</td>
+      <td>Pouch clsd w barr attached</td>
+    </tr>
+    <tr>
+      <td>A5052</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, closed; without barrier attached (1 piece), each</td>
+      <td>Clsd ostomy pouch w/o barr</td>
+    </tr>
+    <tr>
+      <td>A5053</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, closed; for use on faceplate, each</td>
+      <td>Clsd ostomy pouch faceplate</td>
+    </tr>
+    <tr>
+      <td>A5054</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, closed; for use on barrier with flange (2 piece), each</td>
+      <td>Clsd ostomy pouch w/flange</td>
+    </tr>
+    <tr>
+      <td>A5055</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Stoma cap</td>
+      <td>Stoma cap</td>
+    </tr>
+    <tr>
+      <td>A5056</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, drainable, with extended wear barrier attached, with filter, (1 piece), each</td>
+      <td>1 pc ost pouch w filter</td>
+    </tr>
+    <tr>
+      <td>A5057</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, drainable, with extended wear barrier attached, with built in convexity, with filter, (1 piece), each</td>
+      <td>1 pc ost pou w built-in conv</td>
+    </tr>
+    <tr>
+      <td>A5061</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, drainable; with barrier attached, (1 piece), each</td>
+      <td>Pouch drainable w barrier at</td>
+    </tr>
+    <tr>
+      <td>A5062</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, drainable; without barrier attached (1 piece), each</td>
+      <td>Drnble ostomy pouch w/o barr</td>
+    </tr>
+    <tr>
+      <td>A5063</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, drainable; for use on barrier with flange (2 piece system), each</td>
+      <td>Drain ostomy pouch w/flange</td>
+    </tr>
+    <tr>
+      <td>A5071</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, urinary; with barrier attached (1 piece), each</td>
+      <td>Urinary pouch w/barrier</td>
+    </tr>
+    <tr>
+      <td>A5072</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, urinary; without barrier attached (1 piece), each</td>
+      <td>Urinary pouch w/o barrier</td>
+    </tr>
+    <tr>
+      <td>A5073</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy pouch, urinary; for use on barrier with flange (2 piece), each</td>
+      <td>Urinary pouch on barr w/flng</td>
+    </tr>
+    <tr>
+      <td>A5081</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Stoma plug or seal, any type</td>
+      <td>Stoma plug or seal, any type</td>
+    </tr>
+    <tr>
+      <td>A5082</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Continent device; catheter for continent stoma</td>
+      <td>Continent stoma catheter</td>
+    </tr>
+    <tr>
+      <td>A5083</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Continent device, stoma absorptive cover for continent stoma</td>
+      <td>Stoma absorptive cover</td>
+    </tr>
+    <tr>
+      <td>A5093</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ostomy accessory; convex insert</td>
+      <td>Ostomy accessory convex inse</td>
+    </tr>
+    <tr>
+      <td>A5102</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Bedside drainage bottle with or without tubing, rigid or expandable, each</td>
+      <td>Bedside drain btl w/wo tube</td>
+    </tr>
+    <tr>
+      <td>A5105</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Urinary suspensory with leg bag, with or without tube, each</td>
+      <td>Urinary suspensory</td>
+    </tr>
+    <tr>
+      <td>A5112</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Urinary drainage bag, leg or abdomen, latex, with or without tube, with straps, each</td>
+      <td>Urinary leg bag</td>
+    </tr>
+    <tr>
+      <td>A5113</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Leg strap; latex, replacement only, per set</td>
+      <td>Latex leg strap</td>
+    </tr>
+    <tr>
+      <td>A5114</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Leg strap; foam or fabric, replacement only, per set</td>
+      <td>Foam/fabric leg strap</td>
+    </tr>
+    <tr>
+      <td>A5120</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Skin barrier, wipes or swabs, each</td>
+      <td>Skin barrier, wipe or swab</td>
+    </tr>
+    <tr>
+      <td>A5121</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Skin barrier; solid, 6 x 6 or equivalent, each</td>
+      <td>Solid skin barrier 6x6</td>
+    </tr>
+    <tr>
+      <td>A5122</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Skin barrier; solid, 8 x 8 or equivalent, each</td>
+      <td>Solid skin barrier 8x8</td>
+    </tr>
+    <tr>
+      <td>A5126</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Adhesive or non-adhesive; disk or foam pad</td>
+      <td>Disk/foam pad +or- adhesive</td>
+    </tr>
+    <tr>
+      <td>A5131</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Appliance cleaner, incontinence and ostomy appliances, per 16 oz.</td>
+      <td>Appliance cleaner</td>
+    </tr>
+    <tr>
+      <td>A5200</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Percutaneous catheter/tube anchoring device, adhesive skin attachment</td>
+      <td>Percutaneous catheter anchor</td>
+    </tr>
+    <tr>
+      <td>A5500</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>For diabetics only, fitting (including follow-up), custom preparation and supply of off-the-shelf depth-inlay shoe manufactured to accommodate multi-density insert(s), per shoe</td>
+      <td>Diab shoe for density insert</td>
+    </tr>
+    <tr>
+      <td>A5501</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>For diabetics only, fitting (including follow-up), custom preparation and supply of shoe molded from cast(s) of patient’s foot (custom molded shoe), per shoe</td>
+      <td>Diabetic custom molded shoe</td>
+    </tr>
+    <tr>
+      <td>A5503</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>For diabetics only, modification (including fitting) of off-the-shelf depth-inlay shoe or custom-molded shoe with roller or rigid rocker bottom, per shoe</td>
+      <td>Diabetic shoe w/roller/rockr</td>
+    </tr>
+    <tr>
+      <td>A5504</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>For diabetics only, modification (including fitting) of off-the-shelf depth-inlay shoe or custom-molded shoe with wedge(s), per shoe</td>
+      <td>Diabetic shoe with wedge</td>
+    </tr>
+    <tr>
+      <td>A5505</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>For diabetics only, modification (including fitting) of off-the-shelf depth-inlay shoe or custom-molded shoe with metatarsal bar, per shoe</td>
+      <td>Diab shoe w/metatarsal bar</td>
+    </tr>
+    <tr>
+      <td>A5506</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>For diabetics only, modification (including fitting) of off-the-shelf depth-inlay shoe or custom-molded shoe with off-set heel(s), per shoe</td>
+      <td>Diabetic shoe w/off set heel</td>
+    </tr>
+    <tr>
+      <td>A5507</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>For diabetics only, not otherwise specified modification (including fitting) of off-the-shelf depth-inlay shoe or custom-molded shoe, per shoe</td>
+      <td>Modification diabetic shoe</td>
+    </tr>
+    <tr>
+      <td>A5508</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>For diabetics only, deluxe feature of off-the-shelf depth-inlay shoe or custom-molded shoe, per shoe</td>
+      <td>Diabetic deluxe shoe</td>
+    </tr>
+    <tr>
+      <td>A5510</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>For diabetics only, direct formed, compression molded to patient’s foot without external heat source, multiple-density insert(s) prefabricated, per shoe</td>
+      <td>Compression form shoe insert</td>
+    </tr>
+    <tr>
+      <td>A5512</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>For diabetics only, multiple density insert, direct formed, molded to foot after external heat source of 230 degrees fahrenheit or higher, total contact with patient’s foot, including arch, base layer minimum of 1/4 inch material of shore a 35 durometer or 3/16 inch material of shore a 40 durometer (or higher), prefabricated, each</td>
+      <td>Multi den insert direct form</td>
+    </tr>
+    <tr>
+      <td>A5513</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>For diabetics only, multiple density insert, custom molded from model of patient’s foot, total contact with patient’s foot, including arch, base layer minimum of 3/16 inch material of shore a 35 durometer (or higher), includes arch filler and other shaping material, custom fabricated, each</td>
+      <td>Multi den insert custom mold</td>
+    </tr>
+    <tr>
+      <td>A5514</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>For diabetics only, multiple density insert, made by direct carving with cam technology from a rectified cad model created from a digitized scan of the patient, total contact with patient’s foot, including arch, base layer minimum of 3/16 inch material of shore a 35 durometer (or higher), includes arch filler and other shaping material, custom fabricated, each</td>
+      <td>Mult den insert dir carv/cam</td>
+    </tr>
+    <tr>
+      <td>A6000</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Non-contact wound warming wound cover for use with the non-contact wound warming device and warming card</td>
+      <td>Wound warming wound cover</td>
+    </tr>
+    <tr>
+      <td>A6010</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Collagen based wound filler, dry form, sterile, per gram of collagen</td>
+      <td>Collagen based wound filler</td>
+    </tr>
+    <tr>
+      <td>A6011</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Collagen based wound filler, gel/paste, per gram of collagen</td>
+      <td>Collagen gel/paste wound fil</td>
+    </tr>
+    <tr>
+      <td>A6021</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Collagen dressing, sterile, size 16 sq. in. or less, each</td>
+      <td>Collagen dressing &lt;=16 sq in</td>
+    </tr>
+    <tr>
+      <td>A6022</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Collagen dressing, sterile, size more than 16 sq. in. but less than or equal to 48 sq. in., each</td>
+      <td>Collagen drsg&gt;16&lt;=48 sq in</td>
+    </tr>
+    <tr>
+      <td>A6023</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Collagen dressing, sterile, size more than 48 sq. in., each</td>
+      <td>Collagen dressing &gt;48 sq in</td>
+    </tr>
+    <tr>
+      <td>A6024</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Collagen dressing wound filler, sterile, per 6 inches</td>
+      <td>Collagen dsg wound filler</td>
+    </tr>
+    <tr>
+      <td>A6025</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gel sheet for dermal or epidermal application, (e.g., silicone, hydrogel, other), each</td>
+      <td>Silicone gel sheet, each</td>
+    </tr>
+    <tr>
+      <td>A6154</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Wound pouch, each</td>
+      <td>Wound pouch each</td>
+    </tr>
+    <tr>
+      <td>A6196</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Alginate or other fiber gelling dressing, wound cover, sterile, pad size 16 sq. in. or less, each dressing</td>
+      <td>Alginate dressing &lt;=16 sq in</td>
+    </tr>
+    <tr>
+      <td>A6197</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Alginate or other fiber gelling dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., each dressing</td>
+      <td>Alginate drsg &gt;16 &lt;=48 sq in</td>
+    </tr>
+    <tr>
+      <td>A6198</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Alginate or other fiber gelling dressing, wound cover, sterile, pad size more than 48 sq. in., each dressing</td>
+      <td>Alginate dressing &gt; 48 sq in</td>
+    </tr>
+    <tr>
+      <td>A6199</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Alginate or other fiber gelling dressing, wound filler, sterile, per 6 inches</td>
+      <td>Alginate drsg wound filler</td>
+    </tr>
+    <tr>
+      <td>A6203</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Composite dressing, sterile, pad size 16 sq. in. or less, with any size adhesive border, each dressing</td>
+      <td>Composite drsg &lt;= 16 sq in</td>
+    </tr>
+    <tr>
+      <td>A6204</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Composite dressing, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., with any size adhesive border, each dressing</td>
+      <td>Composite drsg &gt;16&lt;=48 sq in</td>
+    </tr>
+    <tr>
+      <td>A6205</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Composite dressing, sterile, pad size more than 48 sq. in., with any size adhesive border, each dressing</td>
+      <td>Composite drsg &gt; 48 sq in</td>
+    </tr>
+    <tr>
+      <td>A6206</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Contact layer, sterile, 16 sq. in. or less, each dressing</td>
+      <td>Contact layer &lt;= 16 sq in</td>
+    </tr>
+    <tr>
+      <td>A6207</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Contact layer, sterile, more than 16 sq. in. but less than or equal to 48 sq. in., each dressing</td>
+      <td>Contact layer &gt;16&lt;= 48 sq in</td>
+    </tr>
+    <tr>
+      <td>A6208</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Contact layer, sterile, more than 48 sq. in., each dressing</td>
+      <td>Contact layer &gt; 48 sq in</td>
+    </tr>
+    <tr>
+      <td>A6209</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Foam dressing, wound cover, sterile, pad size 16 sq. in. or less, without adhesive border, each dressing</td>
+      <td>Foam drsg &lt;=16 sq in w/o bdr</td>
+    </tr>
+    <tr>
+      <td>A6210</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Foam dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., without adhesive border, each dressing</td>
+      <td>Foam drg &gt;16&lt;=48 sq in w/o b</td>
+    </tr>
+    <tr>
+      <td>A6211</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Foam dressing, wound cover, sterile, pad size more than 48 sq. in., without adhesive border, each dressing</td>
+      <td>Foam drg &gt; 48 sq in w/o brdr</td>
+    </tr>
+    <tr>
+      <td>A6212</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Foam dressing, wound cover, sterile, pad size 16 sq. in. or less, with any size adhesive border, each dressing</td>
+      <td>Foam drg &lt;=16 sq in w/border</td>
+    </tr>
+    <tr>
+      <td>A6213</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Foam dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., with any size adhesive border, each dressing</td>
+      <td>Foam drg &gt;16&lt;=48 sq in w/bdr</td>
+    </tr>
+    <tr>
+      <td>A6214</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Foam dressing, wound cover, sterile, pad size more than 48 sq. in., with any size adhesive border, each dressing</td>
+      <td>Foam drg &gt; 48 sq in w/border</td>
+    </tr>
+    <tr>
+      <td>A6215</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Foam dressing, wound filler, sterile, per gram</td>
+      <td>Foam dressing wound filler</td>
+    </tr>
+    <tr>
+      <td>A6216</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gauze, non-impregnated, non-sterile, pad size 16 sq. in. or less, without adhesive border, each dressing</td>
+      <td>Non-sterile gauze&lt;=16 sq in</td>
+    </tr>
+    <tr>
+      <td>A6217</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gauze, non-impregnated, non-sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., without adhesive border, each dressing</td>
+      <td>Non-sterile gauze&gt;16&lt;=48 sq</td>
+    </tr>
+    <tr>
+      <td>A6218</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gauze, non-impregnated, non-sterile, pad size more than 48 sq. in., without adhesive border, each dressing</td>
+      <td>Non-sterile gauze &gt; 48 sq in</td>
+    </tr>
+    <tr>
+      <td>A6219</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gauze, non-impregnated, sterile, pad size 16 sq. in. or less, with any size adhesive border, each dressing</td>
+      <td>Gauze &lt;= 16 sq in w/border</td>
+    </tr>
+    <tr>
+      <td>A6220</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gauze, non-impregnated, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., with any size adhesive border, each dressing</td>
+      <td>Gauze &gt;16 &lt;=48 sq in w/bordr</td>
+    </tr>
+    <tr>
+      <td>A6221</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gauze, non-impregnated, sterile, pad size more than 48 sq. in., with any size adhesive border, each dressing</td>
+      <td>Gauze &gt; 48 sq in w/border</td>
+    </tr>
+    <tr>
+      <td>A6222</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gauze, impregnated with other than water, normal saline, or hydrogel, sterile, pad size 16 sq. in. or less, without adhesive border, each dressing</td>
+      <td>Gauze &lt;=16 in no w/sal w/o b</td>
+    </tr>
+    <tr>
+      <td>A6223</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gauze, impregnated with other than water, normal saline, or hydrogel, sterile, pad size more than 16 sq. in., but less than or equal to 48 sq. in., without adhesive border, each dressing</td>
+      <td>Gauze &gt;16&lt;=48 no w/sal w/o b</td>
+    </tr>
+    <tr>
+      <td>A6224</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gauze, impregnated with other than water, normal saline, or hydrogel, sterile, pad size more than 48 sq. in., without adhesive border, each dressing</td>
+      <td>Gauze &gt; 48 in no w/sal w/o b</td>
+    </tr>
+    <tr>
+      <td>A6228</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gauze, impregnated, water or normal saline, sterile, pad size 16 sq. in. or less, without adhesive border, each dressing</td>
+      <td>Gauze &lt;= 16 sq in water/sal</td>
+    </tr>
+    <tr>
+      <td>A6229</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gauze, impregnated, water or normal saline, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., without adhesive border, each dressing</td>
+      <td>Gauze &gt;16&lt;=48 sq in watr/sal</td>
+    </tr>
+    <tr>
+      <td>A6230</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gauze, impregnated, water or normal saline, sterile, pad size more than 48 sq. in., without adhesive border, each dressing</td>
+      <td>Gauze &gt; 48 sq in water/salne</td>
+    </tr>
+    <tr>
+      <td>A6231</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gauze, impregnated, hydrogel, for direct wound contact, sterile, pad size 16 sq. in. or less, each dressing</td>
+      <td>Hydrogel dsg&lt;=16 sq in</td>
+    </tr>
+    <tr>
+      <td>A6232</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gauze, impregnated, hydrogel, for direct wound contact, sterile, pad size greater than 16 sq. in., but less than or equal to 48 sq. in., each dressing</td>
+      <td>Hydrogel dsg&gt;16&lt;=48 sq in</td>
+    </tr>
+    <tr>
+      <td>A6233</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gauze, impregnated, hydrogel, for direct wound contact, sterile, pad size more than 48 sq. in., each dressing</td>
+      <td>Hydrogel dressing &gt;48 sq in</td>
+    </tr>
+    <tr>
+      <td>A6234</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hydrocolloid dressing, wound cover, sterile, pad size 16 sq. in. or less, without adhesive border, each dressing</td>
+      <td>Hydrocolld drg &lt;=16 w/o bdr</td>
+    </tr>
+    <tr>
+      <td>A6235</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hydrocolloid dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., without adhesive border, each dressing</td>
+      <td>Hydrocolld drg &gt;16&lt;=48 w/o b</td>
+    </tr>
+    <tr>
+      <td>A6236</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hydrocolloid dressing, wound cover, sterile, pad size more than 48 sq. in., without adhesive border, each dressing</td>
+      <td>Hydrocolld drg &gt; 48 in w/o b</td>
+    </tr>
+    <tr>
+      <td>A6237</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hydrocolloid dressing, wound cover, sterile, pad size 16 sq. in. or less, with any size adhesive border, each dressing</td>
+      <td>Hydrocolld drg &lt;=16 in w/bdr</td>
+    </tr>
+    <tr>
+      <td>A6238</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hydrocolloid dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., with any size adhesive border, each dressing</td>
+      <td>Hydrocolld drg &gt;16&lt;=48 w/bdr</td>
+    </tr>
+    <tr>
+      <td>A6239</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hydrocolloid dressing, wound cover, sterile, pad size more than 48 sq. in., with any size adhesive border, each dressing</td>
+      <td>Hydrocolld drg &gt; 48 in w/bdr</td>
+    </tr>
+    <tr>
+      <td>A6240</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hydrocolloid dressing, wound filler, paste, sterile, per ounce</td>
+      <td>Hydrocolld drg filler paste</td>
+    </tr>
+    <tr>
+      <td>A6241</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hydrocolloid dressing, wound filler, dry form, sterile, per gram</td>
+      <td>Hydrocolloid drg filler dry</td>
+    </tr>
+    <tr>
+      <td>A6242</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hydrogel dressing, wound cover, sterile, pad size 16 sq. in. or less, without adhesive border, each dressing</td>
+      <td>Hydrogel drg &lt;=16 in w/o bdr</td>
+    </tr>
+    <tr>
+      <td>A6243</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hydrogel dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., without adhesive border, each dressing</td>
+      <td>Hydrogel drg &gt;16&lt;=48 w/o bdr</td>
+    </tr>
+    <tr>
+      <td>A6244</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hydrogel dressing, wound cover, sterile, pad size more than 48 sq. in., without adhesive border, each dressing</td>
+      <td>Hydrogel drg &gt;48 in w/o bdr</td>
+    </tr>
+    <tr>
+      <td>A6245</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hydrogel dressing, wound cover, sterile, pad size 16 sq. in. or less, with any size adhesive border, each dressing</td>
+      <td>Hydrogel drg &lt;= 16 in w/bdr</td>
+    </tr>
+    <tr>
+      <td>A6246</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hydrogel dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., with any size adhesive border, each dressing</td>
+      <td>Hydrogel drg &gt;16&lt;=48 in w/b</td>
+    </tr>
+    <tr>
+      <td>A6247</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hydrogel dressing, wound cover, sterile, pad size more than 48 sq. in., with any size adhesive border, each dressing</td>
+      <td>Hydrogel drg &gt; 48 sq in w/b</td>
+    </tr>
+    <tr>
+      <td>A6248</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hydrogel dressing, wound filler, gel, per fluid ounce</td>
+      <td>Hydrogel drsg gel filler</td>
+    </tr>
+    <tr>
+      <td>A6250</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Skin sealants, protectants, moisturizers, ointments, any type, any size</td>
+      <td>Skin seal protect moisturizr</td>
+    </tr>
+    <tr>
+      <td>A6251</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Specialty absorptive dressing, wound cover, sterile, pad size 16 sq. in. or less, without adhesive border, each dressing</td>
+      <td>Absorpt drg &lt;=16 sq in w/o b</td>
+    </tr>
+    <tr>
+      <td>A6252</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Specialty absorptive dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., without adhesive border, each dressing</td>
+      <td>Absorpt drg &gt;16 &lt;=48 w/o bdr</td>
+    </tr>
+    <tr>
+      <td>A6253</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Specialty absorptive dressing, wound cover, sterile, pad size more than 48 sq. in., without adhesive border, each dressing</td>
+      <td>Absorpt drg &gt; 48 sq in w/o b</td>
+    </tr>
+    <tr>
+      <td>A6254</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Specialty absorptive dressing, wound cover, sterile, pad size 16 sq. in. or less, with any size adhesive border, each dressing</td>
+      <td>Absorpt drg &lt;=16 sq in w/bdr</td>
+    </tr>
+    <tr>
+      <td>A6255</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Specialty absorptive dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., with any size adhesive border, each dressing</td>
+      <td>Absorpt drg &gt;16&lt;=48 in w/bdr</td>
+    </tr>
+    <tr>
+      <td>A6256</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Specialty absorptive dressing, wound cover, sterile, pad size more than 48 sq. in., with any size adhesive border, each dressing</td>
+      <td>Absorpt drg &gt; 48 sq in w/bdr</td>
+    </tr>
+    <tr>
+      <td>A6257</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Transparent film, sterile, 16 sq. in. or less, each dressing</td>
+      <td>Transparent film &lt;= 16 sq in</td>
+    </tr>
+    <tr>
+      <td>A6258</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Transparent film, sterile, more than 16 sq. in. but less than or equal to 48 sq. in., each dressing</td>
+      <td>Transparent film &gt;16&lt;=48 in</td>
+    </tr>
+    <tr>
+      <td>A6259</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Transparent film, sterile, more than 48 sq. in., each dressing</td>
+      <td>Transparent film &gt; 48 sq in</td>
+    </tr>
+    <tr>
+      <td>A6260</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Wound cleansers, any type, any size</td>
+      <td>Wound cleanser any type/size</td>
+    </tr>
+    <tr>
+      <td>A6261</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Wound filler, gel/paste, per fluid ounce, not otherwise specified</td>
+      <td>Wound filler gel/paste /oz</td>
+    </tr>
+    <tr>
+      <td>A6262</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Wound filler, dry form, per gram, not otherwise specified</td>
+      <td>Wound filler dry form / gram</td>
+    </tr>
+    <tr>
+      <td>A6266</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gauze, impregnated, other than water, normal saline, or zinc paste, sterile, any width, per linear yard</td>
+      <td>Impreg gauze no h20/sal/yard</td>
+    </tr>
+    <tr>
+      <td>A6402</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gauze, non-impregnated, sterile, pad size 16 sq. in. or less, without adhesive border, each dressing</td>
+      <td>Sterile gauze &lt;= 16 sq in</td>
+    </tr>
+    <tr>
+      <td>A6403</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gauze, non-impregnated, sterile, pad size more than 16 sq. in. less than or equal to 48 sq. in., without adhesive border, each dressing</td>
+      <td>Sterile gauze&gt;16 &lt;= 48 sq in</td>
+    </tr>
+    <tr>
+      <td>A6404</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gauze, non-impregnated, sterile, pad size more than 48 sq. in., without adhesive border, each dressing</td>
+      <td>Sterile gauze &gt; 48 sq in</td>
+    </tr>
+    <tr>
+      <td>A6407</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Packing strips, non-impregnated, sterile, up to 2 inches in width, per linear yard</td>
+      <td>Packing strips, non-impreg</td>
+    </tr>
+    <tr>
+      <td>A6410</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Eye pad, sterile, each</td>
+      <td>Sterile eye pad</td>
+    </tr>
+    <tr>
+      <td>A6411</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Eye pad, non-sterile, each</td>
+      <td>Non-sterile eye pad</td>
+    </tr>
+    <tr>
+      <td>A6412</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Eye patch, occlusive, each</td>
+      <td>Occlusive eye patch</td>
+    </tr>
+    <tr>
+      <td>A6413</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Adhesive bandage, first-aid type, any size, each</td>
+      <td>Adhesive bandage, first-aid</td>
+    </tr>
+    <tr>
+      <td>A6441</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Padding bandage, non-elastic, non-woven/non-knitted, width greater than or equal to three inches and less than five inches, per yard</td>
+      <td>Pad band w&gt;=3” &lt;5”/yd</td>
+    </tr>
+    <tr>
+      <td>A6442</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Conforming bandage, non-elastic, knitted/woven, non-sterile, width less than three inches, per yard</td>
+      <td>Conform band n/s w&lt;3”/yd</td>
+    </tr>
+    <tr>
+      <td>A6443</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Conforming bandage, non-elastic, knitted/woven, non-sterile, width greater than or equal to three inches and less than five inches, per yard</td>
+      <td>Conform band n/s w&gt;=3”&lt;5”/yd</td>
+    </tr>
+    <tr>
+      <td>A6444</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Conforming bandage, non-elastic, knitted/woven, non-sterile, width greater than or equal to 5 inches, per yard</td>
+      <td>Conform band n/s w&gt;=5”/yd</td>
+    </tr>
+    <tr>
+      <td>A6445</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Conforming bandage, non-elastic, knitted/woven, sterile, width less than three inches, per yard</td>
+      <td>Conform band s w &lt;3”/yd</td>
+    </tr>
+    <tr>
+      <td>A6446</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Conforming bandage, non-elastic, knitted/woven, sterile, width greater than or equal to three inches and less than five inches, per yard</td>
+      <td>Conform band s w&gt;=3” &lt;5”/yd</td>
+    </tr>
+    <tr>
+      <td>A6447</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Conforming bandage, non-elastic, knitted/woven, sterile, width greater than or equal to five inches, per yard</td>
+      <td>Conform band s w &gt;=5”/yd</td>
+    </tr>
+    <tr>
+      <td>A6448</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Light compression bandage, elastic, knitted/woven, width less than three inches, per yard</td>
+      <td>Lt compres band &lt;3”/yd</td>
+    </tr>
+    <tr>
+      <td>A6449</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Light compression bandage, elastic, knitted/woven, width greater than or equal to three inches and less than five inches, per yard</td>
+      <td>Lt compres band &gt;=3” &lt;5”/yd</td>
+    </tr>
+    <tr>
+      <td>A6450</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Light compression bandage, elastic, knitted/woven, width greater than or equal to five inches, per yard</td>
+      <td>Lt compres band &gt;=5”/yd</td>
+    </tr>
+    <tr>
+      <td>A6451</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Moderate compression bandage, elastic, knitted/woven, load resistance of 1.25 to 1.34 foot pounds at 50% maximum stretch, width greater than or equal to three inches and less than five inches, per yard</td>
+      <td>Mod compres band w&gt;=3”&lt;5”/yd</td>
+    </tr>
+    <tr>
+      <td>A6452</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>High compression bandage, elastic, knitted/woven, load resistance greater than or equal to 1.35 foot pounds at 50% maximum stretch, width greater than or equal to three inches and less than five inches, per yard</td>
+      <td>High compres band w&gt;=3”&lt;5”yd</td>
+    </tr>
+    <tr>
+      <td>A6453</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Self-adherent bandage, elastic, non-knitted/non-woven, width less than three inches, per yard</td>
+      <td>Self-adher band w &lt;3”/yd</td>
+    </tr>
+    <tr>
+      <td>A6454</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Self-adherent bandage, elastic, non-knitted/non-woven, width greater than or equal to three inches and less than five inches, per yard</td>
+      <td>Self-adher band w&gt;=3” &lt;5”/yd</td>
+    </tr>
+    <tr>
+      <td>A6455</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Self-adherent bandage, elastic, non-knitted/non-woven, width greater than or equal to five inches, per yard</td>
+      <td>Self-adher band &gt;=5”/yd</td>
+    </tr>
+    <tr>
+      <td>A6456</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Zinc paste impregnated bandage, non-elastic, knitted/woven, width greater than or equal to three inches and less than five inches, per yard</td>
+      <td>Zinc paste band w &gt;=3”&lt;5”/yd</td>
+    </tr>
+    <tr>
+      <td>A6457</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tubular dressing with or without elastic, any width, per linear yard</td>
+      <td>Tubular dressing</td>
+    </tr>
+    <tr>
+      <td>A6460</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Synthetic resorbable wound dressing, sterile, pad size 16 sq. in. or less, without adhesive border, each dressing</td>
+      <td>Synthetic drsg &lt;= 16 sq in</td>
+    </tr>
+    <tr>
+      <td>A6461</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Synthetic resorbable wound dressing, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., without adhesive border, each dressing</td>
+      <td>Synthetic drsg &gt;16&lt;=48 sq in</td>
+    </tr>
+    <tr>
+      <td>A6501</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Compression burn garment, bodysuit (head to foot), custom fabricated</td>
+      <td>Compres burngarment bodysuit</td>
+    </tr>
+    <tr>
+      <td>A6502</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Compression burn garment, chin strap, custom fabricated</td>
+      <td>Compres burngarment chinstrp</td>
+    </tr>
+    <tr>
+      <td>A6503</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Compression burn garment, facial hood, custom fabricated</td>
+      <td>Compres burngarment facehood</td>
+    </tr>
+    <tr>
+      <td>A6504</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Compression burn garment, glove to wrist, custom fabricated</td>
+      <td>Cmprsburngarment glove-wrist</td>
+    </tr>
+    <tr>
+      <td>A6505</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Compression burn garment, glove to elbow, custom fabricated</td>
+      <td>Cmprsburngarment glove-elbow</td>
+    </tr>
+    <tr>
+      <td>A6506</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Compression burn garment, glove to axilla, custom fabricated</td>
+      <td>Cmprsburngrmnt glove-axilla</td>
+    </tr>
+    <tr>
+      <td>A6507</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Compression burn garment, foot to knee length, custom fabricated</td>
+      <td>Cmprs burngarment foot-knee</td>
+    </tr>
+    <tr>
+      <td>A6508</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Compression burn garment, foot to thigh length, custom fabricated</td>
+      <td>Cmprs burngarment foot-thigh</td>
+    </tr>
+    <tr>
+      <td>A6509</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Compression burn garment, upper trunk to waist including arm openings (vest), custom fabricated</td>
+      <td>Compres burn garment jacket</td>
+    </tr>
+    <tr>
+      <td>A6510</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Compression burn garment, trunk, including arms down to leg openings (leotard), custom fabricated</td>
+      <td>Compres burn garment leotard</td>
+    </tr>
+    <tr>
+      <td>A6511</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Compression burn garment, lower trunk including leg openings (panty), custom fabricated</td>
+      <td>Compres burn garment panty</td>
+    </tr>
+    <tr>
+      <td>A6512</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Compression burn garment, not otherwise classified</td>
+      <td>Compres burn garment, noc</td>
+    </tr>
+    <tr>
+      <td>A6513</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Compression burn mask, face and/or neck, plastic or equal, custom fabricated</td>
+      <td>Compress burn mask face/neck</td>
+    </tr>
+    <tr>
+      <td>A6530</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gradient compression stocking, below knee, 18-30 mmhg, each</td>
+      <td>Compression stocking bk18-30</td>
+    </tr>
+    <tr>
+      <td>A6531</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gradient compression stocking, below knee, 30-40 mmhg, each</td>
+      <td>Compression stocking bk30-40</td>
+    </tr>
+    <tr>
+      <td>A6532</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gradient compression stocking, below knee, 40-50 mmhg, each</td>
+      <td>Compression stocking bk40-50</td>
+    </tr>
+    <tr>
+      <td>A6533</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gradient compression stocking, thigh length, 18-30 mmhg, each</td>
+      <td>Gc stocking thighlngth 18-30</td>
+    </tr>
+    <tr>
+      <td>A6534</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gradient compression stocking, thigh length, 30-40 mmhg, each</td>
+      <td>Gc stocking thighlngth 30-40</td>
+    </tr>
+    <tr>
+      <td>A6535</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gradient compression stocking, thigh length, 40-50 mmhg, each</td>
+      <td>Gc stocking thighlngth 40-50</td>
+    </tr>
+    <tr>
+      <td>A6536</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gradient compression stocking, full length/chap style, 18-30 mmhg, each</td>
+      <td>Gc stocking full lngth 18-30</td>
+    </tr>
+    <tr>
+      <td>A6537</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gradient compression stocking, full length/chap style, 30-40 mmhg, each</td>
+      <td>Gc stocking full lngth 30-40</td>
+    </tr>
+    <tr>
+      <td>A6538</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gradient compression stocking, full length/chap style, 40-50 mmhg, each</td>
+      <td>Gc stocking full lngth 40-50</td>
+    </tr>
+    <tr>
+      <td>A6539</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gradient compression stocking, waist length, 18-30 mmhg, each</td>
+      <td>Gc stocking waistlngth 18-30</td>
+    </tr>
+    <tr>
+      <td>A6540</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gradient compression stocking, waist length, 30-40 mmhg, each</td>
+      <td>Gc stocking waistlngth 30-40</td>
+    </tr>
+    <tr>
+      <td>A6541</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gradient compression stocking, waist length, 40-50 mmhg, each</td>
+      <td>Gc stocking waistlngth 40-50</td>
+    </tr>
+    <tr>
+      <td>A6544</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gradient compression stocking, garter belt</td>
+      <td>Gc stocking garter belt</td>
+    </tr>
+    <tr>
+      <td>A6545</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gradient compression wrap, non-elastic, below knee, 30-50 mm hg, each</td>
+      <td>Grad comp non-elastic bk</td>
+    </tr>
+    <tr>
+      <td>A6549</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gradient compression stocking/sleeve, not otherwise specified</td>
+      <td>G compression stocking</td>
+    </tr>
+    <tr>
+      <td>A6550</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Wound care set, for negative pressure wound therapy electrical pump, includes all supplies and accessories</td>
+      <td>Neg pres wound ther drsg set</td>
+    </tr>
+    <tr>
+      <td>A7000</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Canister, disposable, used with suction pump, each</td>
+      <td>Disposable canister for pump</td>
+    </tr>
+    <tr>
+      <td>A7001</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Canister, non-disposable, used with suction pump, each</td>
+      <td>Nondisposable pump canister</td>
+    </tr>
+    <tr>
+      <td>A7002</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tubing, used with suction pump, each</td>
+      <td>Tubing used w suction pump</td>
+    </tr>
+    <tr>
+      <td>A7003</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Administration set, with small volume nonfiltered pneumatic nebulizer, disposable</td>
+      <td>Nebulizer administration set</td>
+    </tr>
+    <tr>
+      <td>A7004</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Small volume nonfiltered pneumatic nebulizer, disposable</td>
+      <td>Disposable nebulizer sml vol</td>
+    </tr>
+    <tr>
+      <td>A7005</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Administration set, with small volume nonfiltered pneumatic nebulizer, non-disposable</td>
+      <td>Nondisposable nebulizer set</td>
+    </tr>
+    <tr>
+      <td>A7006</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Administration set, with small volume filtered pneumatic nebulizer</td>
+      <td>Filtered nebulizer admin set</td>
+    </tr>
+    <tr>
+      <td>A7007</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Large volume nebulizer, disposable, unfilled, used with aerosol compressor</td>
+      <td>Lg vol nebulizer disposable</td>
+    </tr>
+    <tr>
+      <td>A7008</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Large volume nebulizer, disposable, prefilled, used with aerosol compressor</td>
+      <td>Disposable nebulizer prefill</td>
+    </tr>
+    <tr>
+      <td>A7009</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Reservoir bottle, non-disposable, used with large volume ultrasonic nebulizer</td>
+      <td>Nebulizer reservoir bottle</td>
+    </tr>
+    <tr>
+      <td>A7010</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Corrugated tubing, disposable, used with large volume nebulizer, 100 feet</td>
+      <td>Disposable corrugated tubing</td>
+    </tr>
+    <tr>
+      <td>A7011</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Corrugated tubing, non-disposable, used with large volume nebulizer, 10 feet</td>
+      <td>Nondispos corrugated tubing</td>
+    </tr>
+    <tr>
+      <td>A7012</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Water collection device, used with large volume nebulizer</td>
+      <td>Nebulizer water collec devic</td>
+    </tr>
+    <tr>
+      <td>A7013</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Filter, disposable, used with aerosol compressor or ultrasonic generator</td>
+      <td>Disposable compressor filter</td>
+    </tr>
+    <tr>
+      <td>A7014</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Filter, nondisposable, used with aerosol compressor or ultrasonic generator</td>
+      <td>Compressor nondispos filter</td>
+    </tr>
+    <tr>
+      <td>A7015</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Aerosol mask, used with dme nebulizer</td>
+      <td>Aerosol mask used w nebulize</td>
+    </tr>
+    <tr>
+      <td>A7016</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Dome and mouthpiece, used with small volume ultrasonic nebulizer</td>
+      <td>Nebulizer dome &amp; mouthpiece</td>
+    </tr>
+    <tr>
+      <td>A7017</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Nebulizer, durable, glass or autoclavable plastic, bottle type, not used with oxygen</td>
+      <td>Nebulizer not used w oxygen</td>
+    </tr>
+    <tr>
+      <td>A7018</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Water, distilled, used with large volume nebulizer, 1000 ml</td>
+      <td>Water distilled w/nebulizer</td>
+    </tr>
+    <tr>
+      <td>A7020</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Interface for cough stimulating device, includes all components, replacement only</td>
+      <td>Interface, cough stim device</td>
+    </tr>
+    <tr>
+      <td>A7025</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>High frequency chest wall oscillation system vest, replacement for use with patient owned equipment, each</td>
+      <td>Replace chest compress vest</td>
+    </tr>
+    <tr>
+      <td>A7026</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>High frequency chest wall oscillation system hose, replacement for use with patient owned equipment, each</td>
+      <td>Replace chst cmprss sys hose</td>
+    </tr>
+    <tr>
+      <td>A7027</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Combination oral/nasal mask, used with continuous positive airway pressure device, each</td>
+      <td>Combination oral/nasal mask</td>
+    </tr>
+    <tr>
+      <td>A7028</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Oral cushion for combination oral/nasal mask, replacement only, each</td>
+      <td>Repl oral cushion combo mask</td>
+    </tr>
+    <tr>
+      <td>A7029</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Nasal pillows for combination oral/nasal mask, replacement only, pair</td>
+      <td>Repl nasal pillow comb mask</td>
+    </tr>
+    <tr>
+      <td>A7030</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Full face mask used with positive airway pressure device, each</td>
+      <td>Cpap full face mask</td>
+    </tr>
+    <tr>
+      <td>A7031</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Face mask interface, replacement for full face mask, each</td>
+      <td>Replacement facemask interfa</td>
+    </tr>
+    <tr>
+      <td>A7032</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Cushion for use on nasal mask interface, replacement only, each</td>
+      <td>Replacement nasal cushion</td>
+    </tr>
+    <tr>
+      <td>A7033</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Pillow for use on nasal cannula type interface, replacement only, pair</td>
+      <td>Replacement nasal pillows</td>
+    </tr>
+    <tr>
+      <td>A7034</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Nasal interface (mask or cannula type) used with positive airway pressure device, with or without head strap</td>
+      <td>Nasal application device</td>
+    </tr>
+    <tr>
+      <td>A7035</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Headgear used with positive airway pressure device</td>
+      <td>Pos airway press headgear</td>
+    </tr>
+    <tr>
+      <td>A7036</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Chinstrap used with positive airway pressure device</td>
+      <td>Pos airway press chinstrap</td>
+    </tr>
+    <tr>
+      <td>A7037</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tubing used with positive airway pressure device</td>
+      <td>Pos airway pressure tubing</td>
+    </tr>
+    <tr>
+      <td>A7038</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Filter, disposable, used with positive airway pressure device</td>
+      <td>Pos airway pressure filter</td>
+    </tr>
+    <tr>
+      <td>A7039</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Filter, non disposable, used with positive airway pressure device</td>
+      <td>Filter, non disposable w pap</td>
+    </tr>
+    <tr>
+      <td>A7040</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>One way chest drain valve</td>
+      <td>One way chest drain valve</td>
+    </tr>
+    <tr>
+      <td>A7041</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Water seal drainage container and tubing for use with implanted chest tube</td>
+      <td>Water seal drain container</td>
+    </tr>
+    <tr>
+      <td>A7042</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Implanted pleural catheter, each</td>
+      <td>Implanted pleural catheter</td>
+    </tr>
+    <tr>
+      <td>A7043</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Vacuum drainage bottle and tubing for use with implanted catheter</td>
+      <td>Vacuum drainagebottle/tubing</td>
+    </tr>
+    <tr>
+      <td>A7044</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Oral interface used with positive airway pressure device, each</td>
+      <td>Pap oral interface</td>
+    </tr>
+    <tr>
+      <td>A7045</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Exhalation port with or without swivel used with accessories for positive airway devices, replacement only</td>
+      <td>Repl exhalation port for pap</td>
+    </tr>
+    <tr>
+      <td>A7046</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Water chamber for humidifier, used with positive airway pressure device, replacement, each</td>
+      <td>Repl water chamber, pap dev</td>
+    </tr>
+    <tr>
+      <td>A7047</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Oral interface used with respiratory suction pump, each</td>
+      <td>Resp suction oral interface</td>
+    </tr>
+    <tr>
+      <td>A7048</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Vacuum drainage collection unit and tubing kit, including all supplies needed for collection unit change, for use with implanted catheter, each</td>
+      <td>Vacuum drain bottle/tube kit</td>
+    </tr>
+    <tr>
+      <td>A7501</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tracheostoma valve, including diaphragm, each</td>
+      <td>Tracheostoma valve w diaphra</td>
+    </tr>
+    <tr>
+      <td>A7502</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Replacement diaphragm/faceplate for tracheostoma valve, each</td>
+      <td>Replacement diaphragm/fplate</td>
+    </tr>
+    <tr>
+      <td>A7503</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Filter holder or filter cap, reusable, for use in a tracheostoma heat and moisture exchange system, each</td>
+      <td>Hmes filter holder or cap</td>
+    </tr>
+    <tr>
+      <td>A7504</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Filter for use in a tracheostoma heat and moisture exchange system, each</td>
+      <td>Tracheostoma hmes filter</td>
+    </tr>
+    <tr>
+      <td>A7505</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Housing, reusable without adhesive, for use in a heat and moisture exchange system and/or with a tracheostoma valve, each</td>
+      <td>Hmes or trach valve housing</td>
+    </tr>
+    <tr>
+      <td>A7506</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Adhesive disc for use in a heat and moisture exchange system and/or with tracheostoma valve, any type each</td>
+      <td>Hmes/trachvalve adhesivedisk</td>
+    </tr>
+    <tr>
+      <td>A7507</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Filter holder and integrated filter without adhesive, for use in a tracheostoma heat and moisture exchange system, each</td>
+      <td>Integrated filter &amp; holder</td>
+    </tr>
+    <tr>
+      <td>A7508</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Housing and integrated adhesive, for use in a tracheostoma heat and moisture exchange system and/or with a tracheostoma valve, each</td>
+      <td>Housing &amp; integrated adhesiv</td>
+    </tr>
+    <tr>
+      <td>A7509</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Filter holder and integrated filter housing, and adhesive, for use as a tracheostoma heat and moisture exchange system, each</td>
+      <td>Heat &amp; moisture exchange sys</td>
+    </tr>
+    <tr>
+      <td>A7520</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tracheostomy/laryngectomy tube, non-cuffed, polyvinylchloride (pvc), silicone or equal, each</td>
+      <td>Trach/laryn tube non-cuffed</td>
+    </tr>
+    <tr>
+      <td>A7521</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tracheostomy/laryngectomy tube, cuffed, polyvinylchloride (pvc), silicone or equal, each</td>
+      <td>Trach/laryn tube cuffed</td>
+    </tr>
+    <tr>
+      <td>A7522</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tracheostomy/laryngectomy tube, stainless steel or equal (sterilizable and reusable), each</td>
+      <td>Trach/laryn tube stainless</td>
+    </tr>
+    <tr>
+      <td>A7523</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tracheostomy shower protector, each</td>
+      <td>Tracheostomy shower protect</td>
+    </tr>
+    <tr>
+      <td>A7524</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tracheostoma stent/stud/button, each</td>
+      <td>Tracheostoma stent/stud/bttn</td>
+    </tr>
+    <tr>
+      <td>A7525</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tracheostomy mask, each</td>
+      <td>Tracheostomy mask</td>
+    </tr>
+    <tr>
+      <td>A7526</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tracheostomy tube collar/holder, each</td>
+      <td>Tracheostomy tube collar</td>
+    </tr>
+    <tr>
+      <td>A7527</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tracheostomy/laryngectomy tube plug/stop, each</td>
+      <td>Trach/laryn tube plug/stop</td>
+    </tr>
+    <tr>
+      <td>A8000</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Helmet, protective, soft, prefabricated, includes all components and accessories</td>
+      <td>Soft protect helmet prefab</td>
+    </tr>
+    <tr>
+      <td>A8001</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Helmet, protective, hard, prefabricated, includes all components and accessories</td>
+      <td>Hard protect helmet prefab</td>
+    </tr>
+    <tr>
+      <td>A8002</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Helmet, protective, soft, custom fabricated, includes all components and accessories</td>
+      <td>Soft protect helmet custom</td>
+    </tr>
+    <tr>
+      <td>A8003</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Helmet, protective, hard, custom fabricated, includes all components and accessories</td>
+      <td>Hard protect helmet custom</td>
+    </tr>
+    <tr>
+      <td>A8004</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Soft interface for helmet, replacement only</td>
+      <td>Repl soft interface, helmet</td>
+    </tr>
+    <tr>
+      <td>A9150</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Non-prescription drugs</td>
+      <td>Misc/exper non-prescript dru</td>
+    </tr>
+    <tr>
+      <td>A9152</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Single vitamin/mineral/trace element, oral, per dose, not otherwise specified</td>
+      <td>Single vitamin nos</td>
+    </tr>
+    <tr>
+      <td>A9153</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Multiple vitamins, with or without minerals and trace elements, oral, per dose, not otherwise specified</td>
+      <td>Multi-vitamin nos</td>
+    </tr>
+    <tr>
+      <td>A9155</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Artificial saliva, 30 ml</td>
+      <td>Artificial saliva</td>
+    </tr>
+    <tr>
+      <td>A9180</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Pediculosis (lice infestation) treatment, topical, for administration by patient/caretaker</td>
+      <td>Lice treatment, topical</td>
+    </tr>
+    <tr>
+      <td>A9270</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Non-covered item or service</td>
+      <td>Non-covered item or service</td>
+    </tr>
+    <tr>
+      <td>A9272</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Wound suction, disposable, includes dressing, all accessories and components, any type, each</td>
+      <td>Disp wound suct, drsg/access</td>
+    </tr>
+    <tr>
+      <td>A9273</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Cold or hot fluid bottle, ice cap or collar, heat and/or cold wrap, any type</td>
+      <td>Hot/cold botle/cap/col/wrap</td>
+    </tr>
+    <tr>
+      <td>A9274</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>External ambulatory insulin delivery system, disposable, each, includes all supplies and accessories</td>
+      <td>Ext amb insulin delivery sys</td>
+    </tr>
+    <tr>
+      <td>A9275</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Home glucose disposable monitor, includes test strips</td>
+      <td>Disp home glucose monitor</td>
+    </tr>
+    <tr>
+      <td>A9276</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Sensor; invasive (e.g., subcutaneous), disposable, for use with interstitial continuous glucose monitoring system, one unit = 1 day supply</td>
+      <td>Disposable sensor, cgm sys</td>
+    </tr>
+    <tr>
+      <td>A9277</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Transmitter; external, for use with interstitial continuous glucose monitoring system</td>
+      <td>External transmitter, cgm</td>
+    </tr>
+    <tr>
+      <td>A9278</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Receiver (monitor); external, for use with interstitial continuous glucose monitoring system</td>
+      <td>External receiver, cgm sys</td>
+    </tr>
+    <tr>
+      <td>A9279</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Monitoring feature/device, stand-alone or integrated, any type, includes all accessories, components and electronics, not otherwise classified</td>
+      <td>Monitoring feature/devicenoc</td>
+    </tr>
+    <tr>
+      <td>A9280</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Alert or alarm device, not otherwise classified</td>
+      <td>Alert device, noc</td>
+    </tr>
+    <tr>
+      <td>A9281</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Reaching/grabbing device, any type, any length, each</td>
+      <td>Reaching/grabbing device</td>
+    </tr>
+    <tr>
+      <td>A9282</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Wig, any type, each</td>
+      <td>Wig any type</td>
+    </tr>
+    <tr>
+      <td>A9283</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Foot pressure off loading/supportive device, any type, each</td>
+      <td>Foot press off load supp dev</td>
+    </tr>
+    <tr>
+      <td>A9284</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Spirometer, non-electronic, includes all accessories</td>
+      <td>Non-electronic spirometer</td>
+    </tr>
+    <tr>
+      <td>A9285</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Inversion/eversion correction device</td>
+      <td>Inversion eversion cor devic</td>
+    </tr>
+    <tr>
+      <td>A9286</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hygienic item or device, disposable or non-disposable, any type, each</td>
+      <td>Any hygienic item, device</td>
+    </tr>
+    <tr>
+      <td>A9300</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Exercise equipment</td>
+      <td>Exercise equipment</td>
+    </tr>
+    <tr>
+      <td>A9500</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Technetium tc-99m sestamibi, diagnostic, per study dose</td>
+      <td>Tc99m sestamibi</td>
+    </tr>
+    <tr>
+      <td>A9501</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Technetium tc-99m teboroxime, diagnostic, per study dose</td>
+      <td>Technetium tc-99m teboroxime</td>
+    </tr>
+    <tr>
+      <td>A9502</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Technetium tc-99m tetrofosmin, diagnostic, per study dose</td>
+      <td>Tc99m tetrofosmin</td>
+    </tr>
+    <tr>
+      <td>A9503</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Technetium tc-99m medronate, diagnostic, per study dose, up to 30 millicuries</td>
+      <td>Tc99m medronate</td>
+    </tr>
+    <tr>
+      <td>A9504</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Technetium tc-99m apcitide, diagnostic, per study dose, up to 20 millicuries</td>
+      <td>Tc99m apcitide</td>
+    </tr>
+    <tr>
+      <td>A9505</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Thallium tl-201 thallous chloride, diagnostic, per millicurie</td>
+      <td>Tl201 thallium</td>
+    </tr>
+    <tr>
+      <td>A9507</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Indium in-111 capromab pendetide, diagnostic, per study dose, up to 10 millicuries</td>
+      <td>In111 capromab</td>
+    </tr>
+    <tr>
+      <td>A9508</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Iodine i-131 iobenguane sulfate, diagnostic, per 0.5 millicurie</td>
+      <td>I131 iodobenguate, dx</td>
+    </tr>
+    <tr>
+      <td>A9509</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Iodine i-123 sodium iodide, diagnostic, per millicurie</td>
+      <td>Iodine i-123 sod iodide mil</td>
+    </tr>
+    <tr>
+      <td>A9510</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Technetium tc-99m disofenin, diagnostic, per study dose, up to 15 millicuries</td>
+      <td>Tc99m disofenin</td>
+    </tr>
+    <tr>
+      <td>A9512</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Technetium tc-99m pertechnetate, diagnostic, per millicurie</td>
+      <td>Tc99m pertechnetate</td>
+    </tr>
+    <tr>
+      <td>A9513</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Lutetium lu 177, dotatate, therapeutic, 1 millicurie</td>
+      <td>Lutetium lu 177 dotatat ther</td>
+    </tr>
+    <tr>
+      <td>A9515</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Choline c-11, diagnostic, per study dose up to 20 millicuries</td>
+      <td>Choline c-11</td>
+    </tr>
+    <tr>
+      <td>A9516</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Iodine i-123 sodium iodide, diagnostic, per 100 microcuries, up to 999 microcuries</td>
+      <td>Iodine i-123 sod iodide mic</td>
+    </tr>
+    <tr>
+      <td>A9517</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Iodine i-131 sodium iodide capsule(s), therapeutic, per millicurie</td>
+      <td>I131 iodide cap, rx</td>
+    </tr>
+    <tr>
+      <td>A9520</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Technetium tc-99m tilmanocept, diagnostic, up to 0.5 millicuries</td>
+      <td>Tc99 tilmanocept diag 0.5mci</td>
+    </tr>
+    <tr>
+      <td>A9521</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Technetium tc-99m exametazime, diagnostic, per study dose, up to 25 millicuries</td>
+      <td>Tc99m exametazime</td>
+    </tr>
+    <tr>
+      <td>A9524</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Iodine i-131 iodinated serum albumin, diagnostic, per 5 microcuries</td>
+      <td>I131 serum albumin, dx</td>
+    </tr>
+    <tr>
+      <td>A9526</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Nitrogen n-13 ammonia, diagnostic, per study dose, up to 40 millicuries</td>
+      <td>Nitrogen n-13 ammonia</td>
+    </tr>
+    <tr>
+      <td>A9527</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Iodine i-125, sodium iodide solution, therapeutic, per millicurie</td>
+      <td>Iodine i-125 sodium iodide</td>
+    </tr>
+    <tr>
+      <td>A9528</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Iodine i-131 sodium iodide capsule(s), diagnostic, per millicurie</td>
+      <td>Iodine i-131 iodide cap, dx</td>
+    </tr>
+    <tr>
+      <td>A9529</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Iodine i-131 sodium iodide solution, diagnostic, per millicurie</td>
+      <td>I131 iodide sol, dx</td>
+    </tr>
+    <tr>
+      <td>A9530</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Iodine i-131 sodium iodide solution, therapeutic, per millicurie</td>
+      <td>I131 iodide sol, rx</td>
+    </tr>
+    <tr>
+      <td>A9531</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Iodine i-131 sodium iodide, diagnostic, per microcurie (up to 100 microcuries)</td>
+      <td>I131 max 100uci</td>
+    </tr>
+    <tr>
+      <td>A9532</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Iodine i-125 serum albumin, diagnostic, per 5 microcuries</td>
+      <td>I125 serum albumin, dx</td>
+    </tr>
+    <tr>
+      <td>A9536</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Technetium tc-99m depreotide, diagnostic, per study dose, up to 35 millicuries</td>
+      <td>Tc99m depreotide</td>
+    </tr>
+    <tr>
+      <td>A9537</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Technetium tc-99m mebrofenin, diagnostic, per study dose, up to 15 millicuries</td>
+      <td>Tc99m mebrofenin</td>
+    </tr>
+    <tr>
+      <td>A9538</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Technetium tc-99m pyrophosphate, diagnostic, per study dose, up to 25 millicuries</td>
+      <td>Tc99m pyrophosphate</td>
+    </tr>
+    <tr>
+      <td>A9539</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Technetium tc-99m pentetate, diagnostic, per study dose, up to 25 millicuries</td>
+      <td>Tc99m pentetate</td>
+    </tr>
+    <tr>
+      <td>A9540</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Technetium tc-99m macroaggregated albumin, diagnostic, per study dose, up to 10 millicuries</td>
+      <td>Tc99m maa</td>
+    </tr>
+    <tr>
+      <td>A9541</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Technetium tc-99m sulfur colloid, diagnostic, per study dose, up to 20 millicuries</td>
+      <td>Tc99m sulfur colloid</td>
+    </tr>
+    <tr>
+      <td>A9542</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Indium in-111 ibritumomab tiuxetan, diagnostic, per study dose, up to 5 millicuries</td>
+      <td>In111 ibritumomab, dx</td>
+    </tr>
+    <tr>
+      <td>A9543</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Yttrium y-90 ibritumomab tiuxetan, therapeutic, per treatment dose, up to 40 millicuries</td>
+      <td>Y90 ibritumomab, rx</td>
+    </tr>
+    <tr>
+      <td>A9544</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Iodine i-131 tositumomab, diagnostic, per study dose</td>
+      <td>I131 tositumomab, dx</td>
+    </tr>
+    <tr>
+      <td>A9545</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Iodine i-131 tositumomab, therapeutic, per treatment dose</td>
+      <td>I131 tositumomab, rx</td>
+    </tr>
+    <tr>
+      <td>A9546</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Cobalt co-57/58, cyanocobalamin, diagnostic, per study dose, up to 1 microcurie</td>
+      <td>Co57/58</td>
+    </tr>
+    <tr>
+      <td>A9547</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Indium in-111 oxyquinoline, diagnostic, per 0.5 millicurie</td>
+      <td>In111 oxyquinoline</td>
+    </tr>
+    <tr>
+      <td>A9548</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Indium in-111 pentetate, diagnostic, per 0.5 millicurie</td>
+      <td>In111 pentetate</td>
+    </tr>
+    <tr>
+      <td>A9550</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Technetium tc-99m sodium gluceptate, diagnostic, per study dose, up to 25 millicurie</td>
+      <td>Tc99m gluceptate</td>
+    </tr>
+    <tr>
+      <td>A9551</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Technetium tc-99m succimer, diagnostic, per study dose, up to 10 millicuries</td>
+      <td>Tc99m succimer</td>
+    </tr>
+    <tr>
+      <td>A9552</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Fluorodeoxyglucose f-18 fdg, diagnostic, per study dose, up to 45 millicuries</td>
+      <td>F18 fdg</td>
+    </tr>
+    <tr>
+      <td>A9553</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Chromium cr-51 sodium chromate, diagnostic, per study dose, up to 250 microcuries</td>
+      <td>Cr51 chromate</td>
+    </tr>
+    <tr>
+      <td>A9554</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Iodine i-125 sodium iothalamate, diagnostic, per study dose, up to 10 microcuries</td>
+      <td>I125 iothalamate, dx</td>
+    </tr>
+    <tr>
+      <td>A9555</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Rubidium rb-82, diagnostic, per study dose, up to 60 millicuries</td>
+      <td>Rb82 rubidium</td>
+    </tr>
+    <tr>
+      <td>A9556</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gallium ga-67 citrate, diagnostic, per millicurie</td>
+      <td>Ga67 gallium</td>
+    </tr>
+    <tr>
+      <td>A9557</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Technetium tc-99m bicisate, diagnostic, per study dose, up to 25 millicuries</td>
+      <td>Tc99m bicisate</td>
+    </tr>
+    <tr>
+      <td>A9558</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Xenon xe-133 gas, diagnostic, per 10 millicuries</td>
+      <td>Xe133 xenon 10mci</td>
+    </tr>
+    <tr>
+      <td>A9559</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Cobalt co-57 cyanocobalamin, oral, diagnostic, per study dose, up to 1 microcurie</td>
+      <td>Co57 cyano</td>
+    </tr>
+    <tr>
+      <td>A9560</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Technetium tc-99m labeled red blood cells, diagnostic, per study dose, up to 30 millicuries</td>
+      <td>Tc99m labeled rbc</td>
+    </tr>
+    <tr>
+      <td>A9561</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Technetium tc-99m oxidronate, diagnostic, per study dose, up to 30 millicuries</td>
+      <td>Tc99m oxidronate</td>
+    </tr>
+    <tr>
+      <td>A9562</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Technetium tc-99m mertiatide, diagnostic, per study dose, up to 15 millicuries</td>
+      <td>Tc99m mertiatide</td>
+    </tr>
+    <tr>
+      <td>A9563</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Sodium phosphate p-32, therapeutic, per millicurie</td>
+      <td>P32 na phosphate</td>
+    </tr>
+    <tr>
+      <td>A9564</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Chromic phosphate p-32 suspension, therapeutic, per millicurie</td>
+      <td>P32 chromic phosphate</td>
+    </tr>
+    <tr>
+      <td>A9566</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Technetium tc-99m fanolesomab, diagnostic, per study dose, up to 25 millicuries</td>
+      <td>Tc99m fanolesomab</td>
+    </tr>
+    <tr>
+      <td>A9567</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Technetium tc-99m pentetate, diagnostic, aerosol, per study dose, up to 75 millicuries</td>
+      <td>Technetium tc-99m aerosol</td>
+    </tr>
+    <tr>
+      <td>A9568</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Technetium tc-99m arcitumomab, diagnostic, per study dose, up to 45 millicuries</td>
+      <td>Technetium tc99m arcitumomab</td>
+    </tr>
+    <tr>
+      <td>A9569</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Technetium tc-99m exametazime labeled autologous white blood cells, diagnostic, per study dose</td>
+      <td>Technetium tc-99m auto wbc</td>
+    </tr>
+    <tr>
+      <td>A9570</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Indium in-111 labeled autologous white blood cells, diagnostic, per study dose</td>
+      <td>Indium in-111 auto wbc</td>
+    </tr>
+    <tr>
+      <td>A9571</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Indium in-111 labeled autologous platelets, diagnostic, per study dose</td>
+      <td>Indium in-111 auto platelet</td>
+    </tr>
+    <tr>
+      <td>A9572</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Indium in-111 pentetreotide, diagnostic, per study dose, up to 6 millicuries</td>
+      <td>Indium in-111 pentetreotide</td>
+    </tr>
+    <tr>
+      <td>A9575</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, gadoterate meglumine, 0.1 ml</td>
+      <td>Inj gadoterate meglumi 0.1ml</td>
+    </tr>
+    <tr>
+      <td>A9576</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, gadoteridol, (prohance multipack), per ml</td>
+      <td>Inj prohance multipack</td>
+    </tr>
+    <tr>
+      <td>A9577</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, gadobenate dimeglumine (multihance), per ml</td>
+      <td>Inj multihance</td>
+    </tr>
+    <tr>
+      <td>A9578</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, gadobenate dimeglumine (multihance multipack), per ml</td>
+      <td>Inj multihance multipack</td>
+    </tr>
+    <tr>
+      <td>A9579</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, gadolinium-based magnetic resonance contrast agent, not otherwise specified (nos), per ml</td>
+      <td>Gad-base mr contrast nos,1ml</td>
+    </tr>
+    <tr>
+      <td>A9580</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Sodium fluoride f-18, diagnostic, per study dose, up to 30 millicuries</td>
+      <td>Sodium fluoride f-18</td>
+    </tr>
+    <tr>
+      <td>A9581</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, gadoxetate disodium, 1 ml</td>
+      <td>Gadoxetate disodium inj</td>
+    </tr>
+    <tr>
+      <td>A9582</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Iodine i-123 iobenguane, diagnostic, per study dose, up to 15 millicuries</td>
+      <td>Iodine i-123 iobenguane</td>
+    </tr>
+    <tr>
+      <td>A9583</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, gadofosveset trisodium, 1 ml</td>
+      <td>Gadofosveset trisodium inj</td>
+    </tr>
+    <tr>
+      <td>A9584</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Iodine 1-123 ioflupane, diagnostic, per study dose, up to 5 millicuries</td>
+      <td>Iodine i-123 ioflupane</td>
+    </tr>
+    <tr>
+      <td>A9585</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, gadobutrol, 0.1 ml</td>
+      <td>Gadobutrol injection</td>
+    </tr>
+    <tr>
+      <td>A9586</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Florbetapir f18, diagnostic, per study dose, up to 10 millicuries</td>
+      <td>Florbetapir f18</td>
+    </tr>
+    <tr>
+      <td>A9587</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gallium ga-68, dotatate, diagnostic, 0.1 millicurie</td>
+      <td>Gallium ga-68</td>
+    </tr>
+    <tr>
+      <td>A9588</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Fluciclovine f-18, diagnostic, 1 millicurie</td>
+      <td>Fluciclovine f-18</td>
+    </tr>
+    <tr>
+      <td>A9589</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Instillation, hexaminolevulinate hydrochloride, 100 mg</td>
+      <td>Insti hexaminolevulinate hcl</td>
+    </tr>
+    <tr>
+      <td>A9590</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Iodine i-131, iobenguane, 1 millicurie</td>
+      <td>Iodine i-131 iobenguane 1mci</td>
+    </tr>
+    <tr>
+      <td>A9597</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Positron emission tomography radiopharmaceutical, diagnostic, for tumor identification, not otherwise classified</td>
+      <td>Pet, dx, for tumor id, noc</td>
+    </tr>
+    <tr>
+      <td>A9598</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Positron emission tomography radiopharmaceutical, diagnostic, for non-tumor identification, not otherwise classified</td>
+      <td>Pet dx for non-tumor id, noc</td>
+    </tr>
+    <tr>
+      <td>A9599</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Radiopharmaceutical, diagnostic, for beta-amyloid positron emission tomography (pet) imaging, per study dose, not otherwise specified</td>
+      <td>Radioph dx b amyloid pet nos</td>
+    </tr>
+    <tr>
+      <td>A9600</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Strontium sr-89 chloride, therapeutic, per millicurie</td>
+      <td>Sr89 strontium</td>
+    </tr>
+    <tr>
+      <td>A9604</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Samarium sm-153 lexidronam, therapeutic, per treatment dose, up to 150 millicuries</td>
+      <td>Sm 153 lexidronam</td>
+    </tr>
+    <tr>
+      <td>A9606</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Radium ra-223 dichloride, therapeutic, per microcurie</td>
+      <td>Radium ra223 dichloride ther</td>
+    </tr>
+    <tr>
+      <td>A9698</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Non-radioactive contrast imaging material, not otherwise classified, per study</td>
+      <td>Non-rad contrast materialnoc</td>
+    </tr>
+    <tr>
+      <td>A9699</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Radiopharmaceutical, therapeutic, not otherwise classified</td>
+      <td>Radiopharm rx agent noc</td>
+    </tr>
+    <tr>
+      <td>A9700</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Supply of injectable contrast material for use in echocardiography, per study</td>
+      <td>Echocardiography contrast</td>
+    </tr>
+    <tr>
+      <td>A9900</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Miscellaneous dme supply, accessory, and/or service component of another hcpcs code</td>
+      <td>Supply/accessory/service</td>
+    </tr>
+    <tr>
+      <td>A9901</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Dme delivery, set up, and/or dispensing service component of another hcpcs code</td>
+      <td>Delivery/set up/dispensing</td>
+    </tr>
+    <tr>
+      <td>A9999</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Miscellaneous dme supply or accessory, not otherwise specified</td>
+      <td>Dme supply or accessory, nos</td>
+    </tr>
+  </tbody>
+</table>
+
+:ET

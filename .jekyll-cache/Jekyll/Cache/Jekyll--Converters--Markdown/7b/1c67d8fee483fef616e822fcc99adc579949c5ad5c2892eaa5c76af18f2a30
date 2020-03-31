@@ -1,0 +1,5684 @@
+I"�D<table>
+  <thead>
+    <tr>
+      <th>HCPC</th>
+      <th>SEQNUM</th>
+      <th>RECID</th>
+      <th>LONG DESCRIPTION</th>
+      <th>SHORT DESCRIPTION</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>J0120</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, tetracycline, up to 250 mg</td>
+      <td>Tetracyclin injection</td>
+    </tr>
+    <tr>
+      <td>J0121</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, omadacycline, 1 mg</td>
+      <td>Inj., omadacycline, 1 mg</td>
+    </tr>
+    <tr>
+      <td>J0122</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, eravacycline, 1 mg</td>
+      <td>Inj., eravacycline, 1 mg</td>
+    </tr>
+    <tr>
+      <td>J0129</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, abatacept, 10 mg (code may be used for medicare when drug administered under the direct supervision of a physician, not for use when drug is self administered)</td>
+      <td>Abatacept injection</td>
+    </tr>
+    <tr>
+      <td>J0130</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection abciximab, 10 mg</td>
+      <td>Abciximab injection</td>
+    </tr>
+    <tr>
+      <td>J0131</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, acetaminophen, 10 mg</td>
+      <td>Acetaminophen injection</td>
+    </tr>
+    <tr>
+      <td>J0132</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, acetylcysteine, 100 mg</td>
+      <td>Acetylcysteine injection</td>
+    </tr>
+    <tr>
+      <td>J0133</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, acyclovir, 5 mg</td>
+      <td>Acyclovir injection</td>
+    </tr>
+    <tr>
+      <td>J0135</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, adalimumab, 20 mg</td>
+      <td>Adalimumab injection</td>
+    </tr>
+    <tr>
+      <td>J0150</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, adenosine for therapeutic use,  6 mg (not to be used to report any adenosine phosphate compounds, instead use a9270)</td>
+      <td>Injection adenosine 6 mg</td>
+    </tr>
+    <tr>
+      <td>J0151</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, adenosine for diagnostic use, 1 mg (not to be used to report any adenosine phosphate compounds, instead use a9270)</td>
+      <td>Inj adenosine diag 1mg</td>
+    </tr>
+    <tr>
+      <td>J0153</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, adenosine, 1 mg (not to be used to report any adenosine phosphate compounds)</td>
+      <td>Adenosine inj 1mg</td>
+    </tr>
+    <tr>
+      <td>J0171</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, adrenalin, epinephrine, 0.1 mg</td>
+      <td>Adrenalin epinephrine inject</td>
+    </tr>
+    <tr>
+      <td>J0178</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, aflibercept, 1 mg</td>
+      <td>Aflibercept injection</td>
+    </tr>
+    <tr>
+      <td>J0179</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, brolucizumab-dbll, 1 mg</td>
+      <td>Inj, brolucizumab-dbll, 1 mg</td>
+    </tr>
+    <tr>
+      <td>J0180</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, agalsidase beta, 1 mg</td>
+      <td>Agalsidase beta injection</td>
+    </tr>
+    <tr>
+      <td>J0185</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, aprepitant, 1 mg</td>
+      <td>Inj., aprepitant, 1 mg</td>
+    </tr>
+    <tr>
+      <td>J0190</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, biperiden lactate, per 5 mg</td>
+      <td>Inj biperiden lactate/5 mg</td>
+    </tr>
+    <tr>
+      <td>J0200</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, alatrofloxacin mesylate, 100 mg</td>
+      <td>Alatrofloxacin mesylate</td>
+    </tr>
+    <tr>
+      <td>J0202</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, alemtuzumab, 1 mg</td>
+      <td>Injection, alemtuzumab</td>
+    </tr>
+    <tr>
+      <td>J0205</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, alglucerase, per 10 units</td>
+      <td>Alglucerase injection</td>
+    </tr>
+    <tr>
+      <td>J0207</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, amifostine, 500 mg</td>
+      <td>Amifostine</td>
+    </tr>
+    <tr>
+      <td>J0210</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, methyldopate hcl, up to 250 mg</td>
+      <td>Methyldopate hcl injection</td>
+    </tr>
+    <tr>
+      <td>J0215</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, alefacept, 0.5 mg</td>
+      <td>Alefacept</td>
+    </tr>
+    <tr>
+      <td>J0220</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, alglucosidase alfa, 10 mg, not otherwise specified</td>
+      <td>Alglucosidase alfa injection</td>
+    </tr>
+    <tr>
+      <td>J0221</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, alglucosidase alfa, (lumizyme), 10 mg</td>
+      <td>Lumizyme injection</td>
+    </tr>
+    <tr>
+      <td>J0222</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, patisiran, 0.1 mg</td>
+      <td>Inj., patisiran, 0.1 mg</td>
+    </tr>
+    <tr>
+      <td>J0256</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, alpha 1 proteinase inhibitor (human), not otherwise specified, 10 mg</td>
+      <td>Alpha 1 proteinase inhibitor</td>
+    </tr>
+    <tr>
+      <td>J0257</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, alpha 1 proteinase inhibitor (human), (glassia), 10 mg</td>
+      <td>Glassia injection</td>
+    </tr>
+    <tr>
+      <td>J0270</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, alprostadil, 1.25 mcg (code may be used for medicare when drug administered under the direct supervision of a physician, not for use when drug is self administered)</td>
+      <td>Alprostadil for injection</td>
+    </tr>
+    <tr>
+      <td>J0275</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Alprostadil urethral suppository (code may be used for medicare when drug administered under the direct supervision of a physician, not for use when drug is self administered)</td>
+      <td>Alprostadil urethral suppos</td>
+    </tr>
+    <tr>
+      <td>J0278</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, amikacin sulfate, 100 mg</td>
+      <td>Amikacin sulfate injection</td>
+    </tr>
+    <tr>
+      <td>J0280</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, aminophyllin, up to 250 mg</td>
+      <td>Aminophyllin 250 mg inj</td>
+    </tr>
+    <tr>
+      <td>J0282</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, amiodarone hydrochloride, 30 mg</td>
+      <td>Amiodarone hcl</td>
+    </tr>
+    <tr>
+      <td>J0285</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, amphotericin b, 50 mg</td>
+      <td>Amphotericin b</td>
+    </tr>
+    <tr>
+      <td>J0287</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, amphotericin b lipid complex, 10 mg</td>
+      <td>Amphotericin b lipid complex</td>
+    </tr>
+    <tr>
+      <td>J0288</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, amphotericin b cholesteryl sulfate complex, 10 mg</td>
+      <td>Ampho b cholesteryl sulfate</td>
+    </tr>
+    <tr>
+      <td>J0289</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, amphotericin b liposome, 10 mg</td>
+      <td>Amphotericin b liposome inj</td>
+    </tr>
+    <tr>
+      <td>J0290</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ampicillin sodium, 500 mg</td>
+      <td>Ampicillin 500 mg inj</td>
+    </tr>
+    <tr>
+      <td>J0291</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, plazomicin, 5 mg</td>
+      <td>Inj., plazomicin, 5 mg</td>
+    </tr>
+    <tr>
+      <td>J0295</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ampicillin sodium/sulbactam sodium, per 1.5 gm</td>
+      <td>Ampicillin sulbactam 1.5 gm</td>
+    </tr>
+    <tr>
+      <td>J0300</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, amobarbital, up to 125 mg</td>
+      <td>Amobarbital 125 mg inj</td>
+    </tr>
+    <tr>
+      <td>J0330</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, succinylcholine chloride, up to 20 mg</td>
+      <td>Succinycholine chloride inj</td>
+    </tr>
+    <tr>
+      <td>J0348</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, anidulafungin, 1 mg</td>
+      <td>Anidulafungin injection</td>
+    </tr>
+    <tr>
+      <td>J0350</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, anistreplase, per 30 units</td>
+      <td>Injection anistreplase 30 u</td>
+    </tr>
+    <tr>
+      <td>J0360</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, hydralazine hcl, up to 20 mg</td>
+      <td>Hydralazine hcl injection</td>
+    </tr>
+    <tr>
+      <td>J0364</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, apomorphine hydrochloride, 1 mg</td>
+      <td>Apomorphine hydrochloride</td>
+    </tr>
+    <tr>
+      <td>J0365</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, aprotonin, 10,000 kiu</td>
+      <td>Aprotonin, 10,000 kiu</td>
+    </tr>
+    <tr>
+      <td>J0380</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, metaraminol bitartrate, per 10 mg</td>
+      <td>Inj metaraminol bitartrate</td>
+    </tr>
+    <tr>
+      <td>J0390</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, chloroquine hydrochloride, up to 250 mg</td>
+      <td>Chloroquine injection</td>
+    </tr>
+    <tr>
+      <td>J0395</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, arbutamine hcl, 1 mg</td>
+      <td>Arbutamine hcl injection</td>
+    </tr>
+    <tr>
+      <td>J0400</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, aripiprazole, intramuscular, 0.25 mg</td>
+      <td>Aripiprazole injection</td>
+    </tr>
+    <tr>
+      <td>J0401</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, aripiprazole, extended release, 1 mg</td>
+      <td>Inj aripiprazole ext rel 1mg</td>
+    </tr>
+    <tr>
+      <td>J0456</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, azithromycin, 500 mg</td>
+      <td>Azithromycin</td>
+    </tr>
+    <tr>
+      <td>J0461</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, atropine sulfate, 0.01 mg</td>
+      <td>Atropine sulfate injection</td>
+    </tr>
+    <tr>
+      <td>J0470</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, dimercaprol, per 100 mg</td>
+      <td>Dimecaprol injection</td>
+    </tr>
+    <tr>
+      <td>J0475</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, baclofen, 10 mg</td>
+      <td>Baclofen 10 mg injection</td>
+    </tr>
+    <tr>
+      <td>J0476</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, baclofen, 50 mcg for intrathecal trial</td>
+      <td>Baclofen intrathecal trial</td>
+    </tr>
+    <tr>
+      <td>J0480</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, basiliximab, 20 mg</td>
+      <td>Basiliximab</td>
+    </tr>
+    <tr>
+      <td>J0485</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, belatacept, 1 mg</td>
+      <td>Belatacept injection</td>
+    </tr>
+    <tr>
+      <td>J0490</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, belimumab, 10 mg</td>
+      <td>Belimumab injection</td>
+    </tr>
+    <tr>
+      <td>J0500</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, dicyclomine hcl, up to 20 mg</td>
+      <td>Dicyclomine injection</td>
+    </tr>
+    <tr>
+      <td>J0515</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, benztropine mesylate, per 1 mg</td>
+      <td>Inj benztropine mesylate</td>
+    </tr>
+    <tr>
+      <td>J0517</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, benralizumab, 1 mg</td>
+      <td>Inj., benralizumab, 1 mg</td>
+    </tr>
+    <tr>
+      <td>J0520</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, bethanechol chloride, myotonachol or urecholine, up to 5 mg</td>
+      <td>Bethanechol chloride inject</td>
+    </tr>
+    <tr>
+      <td>J0558</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, penicillin g benzathine and penicillin g procaine, 100,000 units</td>
+      <td>Peng benzathine/procaine inj</td>
+    </tr>
+    <tr>
+      <td>J0561</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, penicillin g benzathine, 100,000 units</td>
+      <td>Penicillin g benzathine inj</td>
+    </tr>
+    <tr>
+      <td>J0565</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, bezlotoxumab, 10 mg</td>
+      <td>Inj, bezlotoxumab, 10 mg</td>
+    </tr>
+    <tr>
+      <td>J0567</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, cerliponase alfa, 1 mg</td>
+      <td>Inj., cerliponase alfa 1 mg</td>
+    </tr>
+    <tr>
+      <td>J0570</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Buprenorphine implant, 74.2 mg</td>
+      <td>Buprenorphine implant 74.2mg</td>
+    </tr>
+    <tr>
+      <td>J0571</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Buprenorphine, oral, 1 mg</td>
+      <td>Buprenorphine oral 1mg</td>
+    </tr>
+    <tr>
+      <td>J0572</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Buprenorphine/naloxone, oral, less than or equal to 3 mg buprenorphine</td>
+      <td>Bupren/nal up to 3mg bupreno</td>
+    </tr>
+    <tr>
+      <td>J0573</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Buprenorphine/naloxone, oral, greater than 3 mg, but less than or equal to 6 mg buprenorphine</td>
+      <td>Bupren/nal 3.1 to 6mg bupren</td>
+    </tr>
+    <tr>
+      <td>J0574</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Buprenorphine/naloxone, oral, greater than 6 mg, but less than or equal to 10 mg buprenorphine</td>
+      <td>Bupren/nal 6.1 to 10mg bupre</td>
+    </tr>
+    <tr>
+      <td>J0575</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Buprenorphine/naloxone, oral, greater than 10 mg buprenorphine</td>
+      <td>Bupren/nal over 10mg bupreno</td>
+    </tr>
+    <tr>
+      <td>J0583</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, bivalirudin, 1 mg</td>
+      <td>Bivalirudin</td>
+    </tr>
+    <tr>
+      <td>J0584</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, burosumab-twza 1 mg</td>
+      <td>Injection, burosumab-twza 1m</td>
+    </tr>
+    <tr>
+      <td>J0585</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, onabotulinumtoxina, 1 unit</td>
+      <td>Injection,onabotulinumtoxina</td>
+    </tr>
+    <tr>
+      <td>J0586</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, abobotulinumtoxina, 5 units</td>
+      <td>Abobotulinumtoxina</td>
+    </tr>
+    <tr>
+      <td>J0587</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, rimabotulinumtoxinb, 100 units</td>
+      <td>Inj, rimabotulinumtoxinb</td>
+    </tr>
+    <tr>
+      <td>J0588</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, incobotulinumtoxin a, 1 unit</td>
+      <td>Incobotulinumtoxin a</td>
+    </tr>
+    <tr>
+      <td>J0592</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, buprenorphine hydrochloride, 0.1 mg</td>
+      <td>Buprenorphine hydrochloride</td>
+    </tr>
+    <tr>
+      <td>J0593</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, lanadelumab-flyo, 1 mg (code may be used for medicare when drug administered under direct supervision of a physician, not for use when drug is self-administered)</td>
+      <td>Inj., lanadelumab-flyo, 1 mg</td>
+    </tr>
+    <tr>
+      <td>J0594</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>injection, busulfan, 1 mg</td>
+      <td>Busulfan injection</td>
+    </tr>
+    <tr>
+      <td>J0595</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, butorphanol tartrate, 1 mg</td>
+      <td>Butorphanol tartrate 1 mg</td>
+    </tr>
+    <tr>
+      <td>J0596</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, c1 esterase inhibitor (recombinant), ruconest, 10 units</td>
+      <td>Injection, ruconest</td>
+    </tr>
+    <tr>
+      <td>J0597</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, c-1 esterase inhibitor (human), berinert, 10 units</td>
+      <td>C-1 esterase, berinert</td>
+    </tr>
+    <tr>
+      <td>J0598</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, c-1 esterase inhibitor (human), cinryze, 10 units</td>
+      <td>C-1 esterase, cinryze</td>
+    </tr>
+    <tr>
+      <td>J0599</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, c-1 esterase inhibitor (human), (haegarda), 10 units</td>
+      <td>Inj., haegarda 10 units</td>
+    </tr>
+    <tr>
+      <td>J0600</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, edetate calcium disodium, up to 1000 mg</td>
+      <td>Edetate calcium disodium inj</td>
+    </tr>
+    <tr>
+      <td>J0604</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Cinacalcet, oral, 1 mg, (for esrd on dialysis)</td>
+      <td>Cinacalcet, esrd on dialysis</td>
+    </tr>
+    <tr>
+      <td>J0606</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, etelcalcetide, 0.1 mg</td>
+      <td>Inj, etelcalcetide, 0.1 mg</td>
+    </tr>
+    <tr>
+      <td>J0610</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, calcium gluconate, per 10 ml</td>
+      <td>Calcium gluconate injection</td>
+    </tr>
+    <tr>
+      <td>J0620</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, calcium glycerophosphate and calcium lactate, per 10 ml</td>
+      <td>Calcium glycer &amp; lact/10 ml</td>
+    </tr>
+    <tr>
+      <td>J0630</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, calcitonin salmon, up to 400 units</td>
+      <td>Calcitonin salmon injection</td>
+    </tr>
+    <tr>
+      <td>J0636</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, calcitriol, 0.1 mcg</td>
+      <td>Inj calcitriol per 0.1 mcg</td>
+    </tr>
+    <tr>
+      <td>J0637</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, caspofungin acetate, 5 mg</td>
+      <td>Caspofungin acetate</td>
+    </tr>
+    <tr>
+      <td>J0638</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, canakinumab, 1 mg</td>
+      <td>Canakinumab injection</td>
+    </tr>
+    <tr>
+      <td>J0640</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, leucovorin calcium, per 50 mg</td>
+      <td>Leucovorin calcium injection</td>
+    </tr>
+    <tr>
+      <td>J0641</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, levoleucovorin, not otherwise specified, 0.5 mg</td>
+      <td>Inj levoleucovorin nos 0.5mg</td>
+    </tr>
+    <tr>
+      <td>J0642</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, levoleucovorin (khapzory), 0.5 mg</td>
+      <td>Injection, khapzory, 0.5 mg</td>
+    </tr>
+    <tr>
+      <td>J0670</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, mepivacaine hydrochloride, per 10 ml</td>
+      <td>Inj mepivacaine hcl/10 ml</td>
+    </tr>
+    <tr>
+      <td>J0690</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, cefazolin sodium, 500 mg</td>
+      <td>Cefazolin sodium injection</td>
+    </tr>
+    <tr>
+      <td>J0692</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, cefepime hydrochloride, 500 mg</td>
+      <td>Cefepime hcl for injection</td>
+    </tr>
+    <tr>
+      <td>J0694</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, cefoxitin sodium, 1 gm</td>
+      <td>Cefoxitin sodium injection</td>
+    </tr>
+    <tr>
+      <td>J0695</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ceftolozane 50 mg and tazobactam 25 mg</td>
+      <td>Inj ceftolozane tazobactam</td>
+    </tr>
+    <tr>
+      <td>J0696</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ceftriaxone sodium, per 250 mg</td>
+      <td>Ceftriaxone sodium injection</td>
+    </tr>
+    <tr>
+      <td>J0697</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, sterile cefuroxime sodium, per 750 mg</td>
+      <td>Sterile cefuroxime injection</td>
+    </tr>
+    <tr>
+      <td>J0698</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, cefotaxime sodium, per gm</td>
+      <td>Cefotaxime sodium injection</td>
+    </tr>
+    <tr>
+      <td>J0702</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, betamethasone acetate 3 mg and betamethasone sodium phosphate 3 mg</td>
+      <td>Betamethasone acet&amp;sod phosp</td>
+    </tr>
+    <tr>
+      <td>J0706</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, caffeine citrate, 5 mg</td>
+      <td>Caffeine citrate injection</td>
+    </tr>
+    <tr>
+      <td>J0710</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, cephapirin sodium, up to 1 gm</td>
+      <td>Cephapirin sodium injection</td>
+    </tr>
+    <tr>
+      <td>J0712</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ceftaroline fosamil, 10 mg</td>
+      <td>Ceftaroline fosamil inj</td>
+    </tr>
+    <tr>
+      <td>J0713</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ceftazidime, per 500 mg</td>
+      <td>Inj ceftazidime per 500 mg</td>
+    </tr>
+    <tr>
+      <td>J0714</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ceftazidime and avibactam, 0.5 g/0.125 g</td>
+      <td>Ceftazidime and avibactam</td>
+    </tr>
+    <tr>
+      <td>J0715</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ceftizoxime sodium, per 500 mg</td>
+      <td>Ceftizoxime sodium / 500 mg</td>
+    </tr>
+    <tr>
+      <td>J0716</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, centruroides immune f(ab)2, up to 120 milligrams</td>
+      <td>Centruroides immune f(ab)</td>
+    </tr>
+    <tr>
+      <td>J0717</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, certolizumab pegol, 1 mg (code may be used for medicare when drug administered under the direct supervision of a physician, not for use when drug is self administered)</td>
+      <td>Certolizumab pegol inj 1mg</td>
+    </tr>
+    <tr>
+      <td>J0720</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, chloramphenicol sodium succinate, up to 1 gm</td>
+      <td>Chloramphenicol sodium injec</td>
+    </tr>
+    <tr>
+      <td>J0725</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, chorionic gonadotropin, per 1,000 usp units</td>
+      <td>Chorionic gonadotropin/1000u</td>
+    </tr>
+    <tr>
+      <td>J0735</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, clonidine hydrochloride, 1 mg</td>
+      <td>Clonidine hydrochloride</td>
+    </tr>
+    <tr>
+      <td>J0740</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, cidofovir, 375 mg</td>
+      <td>Cidofovir injection</td>
+    </tr>
+    <tr>
+      <td>J0743</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, cilastatin sodium; imipenem, per 250 mg</td>
+      <td>Cilastatin sodium injection</td>
+    </tr>
+    <tr>
+      <td>J0744</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ciprofloxacin for intravenous infusion, 200 mg</td>
+      <td>Ciprofloxacin iv</td>
+    </tr>
+    <tr>
+      <td>J0745</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, codeine phosphate, per 30 mg</td>
+      <td>Inj codeine phosphate /30 mg</td>
+    </tr>
+    <tr>
+      <td>J0760</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, colchicine, per 1 mg</td>
+      <td>Colchicine injection</td>
+    </tr>
+    <tr>
+      <td>J0770</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, colistimethate sodium, up to 150 mg</td>
+      <td>Colistimethate sodium inj</td>
+    </tr>
+    <tr>
+      <td>J0775</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, collagenase, clostridium histolyticum, 0.01 mg</td>
+      <td>Collagenase, clost hist inj</td>
+    </tr>
+    <tr>
+      <td>J0780</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, prochlorperazine, up to 10 mg</td>
+      <td>Prochlorperazine injection</td>
+    </tr>
+    <tr>
+      <td>J0795</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, corticorelin ovine triflutate, 1 microgram</td>
+      <td>Corticorelin ovine triflutal</td>
+    </tr>
+    <tr>
+      <td>J0800</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, corticotropin, up to 40 units</td>
+      <td>Corticotropin injection</td>
+    </tr>
+    <tr>
+      <td>J0833</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, cosyntropin, not otherwise specified, 0.25 mg</td>
+      <td>Cosyntropin injection nos</td>
+    </tr>
+    <tr>
+      <td>J0834</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, cosyntropin, 0.25 mg</td>
+      <td>Inj., cosyntropin, 0.25 mg</td>
+    </tr>
+    <tr>
+      <td>J0840</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, crotalidae polyvalent immune fab (ovine), up to 1 gram</td>
+      <td>Crotalidae poly immune fab</td>
+    </tr>
+    <tr>
+      <td>J0841</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, crotalidae immune f(ab’)2 (equine), 120 mg</td>
+      <td>Inj crotalidae im f(ab’)2 eq</td>
+    </tr>
+    <tr>
+      <td>J0850</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, cytomegalovirus immune globulin intravenous (human), per vial</td>
+      <td>Cytomegalovirus imm iv /vial</td>
+    </tr>
+    <tr>
+      <td>J0875</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, dalbavancin, 5 mg</td>
+      <td>Injection, dalbavancin</td>
+    </tr>
+    <tr>
+      <td>J0878</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, daptomycin, 1 mg</td>
+      <td>Daptomycin injection</td>
+    </tr>
+    <tr>
+      <td>J0881</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, darbepoetin alfa, 1 microgram (non-esrd use)</td>
+      <td>Darbepoetin alfa, non-esrd</td>
+    </tr>
+    <tr>
+      <td>J0882</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, darbepoetin alfa, 1 microgram (for esrd on dialysis)</td>
+      <td>Darbepoetin alfa, esrd use</td>
+    </tr>
+    <tr>
+      <td>J0883</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, argatroban, 1 mg (for non-esrd use)</td>
+      <td>Argatroban nonesrd use 1mg</td>
+    </tr>
+    <tr>
+      <td>J0884</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, argatroban, 1 mg (for esrd on dialysis)</td>
+      <td>Argatroban esrd dialysis 1mg</td>
+    </tr>
+    <tr>
+      <td>J0885</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, epoetin alfa, (for non-esrd use), 1000 units</td>
+      <td>Epoetin alfa, non-esrd</td>
+    </tr>
+    <tr>
+      <td>J0886</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, epoetin alfa, 1000 units (for esrd on dialysis)</td>
+      <td>Epoetin alfa 1000 units esrd</td>
+    </tr>
+    <tr>
+      <td>J0887</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, epoetin beta, 1 microgram, (for esrd on dialysis)</td>
+      <td>Epoetin beta esrd use</td>
+    </tr>
+    <tr>
+      <td>J0888</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, epoetin beta, 1 microgram, (for non esrd use)</td>
+      <td>Epoetin beta non esrd</td>
+    </tr>
+    <tr>
+      <td>J0890</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, peginesatide, 0.1 mg (for esrd on dialysis)</td>
+      <td>Peginesatide injection</td>
+    </tr>
+    <tr>
+      <td>J0894</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, decitabine, 1 mg</td>
+      <td>Decitabine injection</td>
+    </tr>
+    <tr>
+      <td>J0895</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, deferoxamine mesylate, 500 mg</td>
+      <td>Deferoxamine mesylate inj</td>
+    </tr>
+    <tr>
+      <td>J0897</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, denosumab, 1 mg</td>
+      <td>Denosumab injection</td>
+    </tr>
+    <tr>
+      <td>J0900</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, testosterone enanthate and estradiol valerate, up to 1 cc</td>
+      <td>Testosterone enanthate inj</td>
+    </tr>
+    <tr>
+      <td>J0945</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, brompheniramine maleate, per 10 mg</td>
+      <td>Brompheniramine maleate inj</td>
+    </tr>
+    <tr>
+      <td>J1000</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, depo-estradiol cypionate, up to 5 mg</td>
+      <td>Depo-estradiol cypionate inj</td>
+    </tr>
+    <tr>
+      <td>J1020</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, methylprednisolone acetate, 20 mg</td>
+      <td>Methylprednisolone 20 mg inj</td>
+    </tr>
+    <tr>
+      <td>J1030</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, methylprednisolone acetate, 40 mg</td>
+      <td>Methylprednisolone 40 mg inj</td>
+    </tr>
+    <tr>
+      <td>J1040</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, methylprednisolone acetate, 80 mg</td>
+      <td>Methylprednisolone 80 mg inj</td>
+    </tr>
+    <tr>
+      <td>J1050</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, medroxyprogesterone acetate, 1 mg</td>
+      <td>Medroxyprogesterone acetate</td>
+    </tr>
+    <tr>
+      <td>J1060</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, testosterone cypionate and estradiol cypionate, up to 1 ml</td>
+      <td>Testosterone cypionate 1 ml</td>
+    </tr>
+    <tr>
+      <td>J1070</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, testosterone cypionate, up to 100 mg</td>
+      <td>Testosterone cypionat 100 mg</td>
+    </tr>
+    <tr>
+      <td>J1071</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, testosterone cypionate, 1 mg</td>
+      <td>Inj testosterone cypionate</td>
+    </tr>
+    <tr>
+      <td>J1080</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, testosterone cypionate, 1 cc, 200 mg</td>
+      <td>Testosterone cypionat 200 mg</td>
+    </tr>
+    <tr>
+      <td>J1094</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, dexamethasone acetate, 1 mg</td>
+      <td>Inj dexamethasone acetate</td>
+    </tr>
+    <tr>
+      <td>J1095</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, dexamethasone 9 percent, intraocular, 1 microgram</td>
+      <td>Injection, dexamethasone 9%</td>
+    </tr>
+    <tr>
+      <td>J1096</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Dexamethasone, lacrimal ophthalmic insert, 0.1 mg</td>
+      <td>Dexametha opth insert 0.1 mg</td>
+    </tr>
+    <tr>
+      <td>J1097</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Phenylephrine 10.16 mg/ml and ketorolac 2.88 mg/ml ophthalmic irrigation solution, 1 ml</td>
+      <td>Phenylep ketorolac opth soln</td>
+    </tr>
+    <tr>
+      <td>J1100</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, dexamethasone sodium phosphate, 1 mg</td>
+      <td>Dexamethasone sodium phos</td>
+    </tr>
+    <tr>
+      <td>J1110</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, dihydroergotamine mesylate, per 1 mg</td>
+      <td>Inj dihydroergotamine mesylt</td>
+    </tr>
+    <tr>
+      <td>J1120</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, acetazolamide sodium, up to 500 mg</td>
+      <td>Acetazolamid sodium injectio</td>
+    </tr>
+    <tr>
+      <td>J1130</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, diclofenac sodium, 0.5 mg</td>
+      <td>Inj diclofenac sodium 0.5mg</td>
+    </tr>
+    <tr>
+      <td>J1160</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, digoxin, up to 0.5 mg</td>
+      <td>Digoxin injection</td>
+    </tr>
+    <tr>
+      <td>J1162</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, digoxin immune fab (ovine), per vial</td>
+      <td>Digoxin immune fab (ovine)</td>
+    </tr>
+    <tr>
+      <td>J1165</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, phenytoin sodium, per 50 mg</td>
+      <td>Phenytoin sodium injection</td>
+    </tr>
+    <tr>
+      <td>J1170</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, hydromorphone, up to 4 mg</td>
+      <td>Hydromorphone injection</td>
+    </tr>
+    <tr>
+      <td>J1180</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, dyphylline, up to 500 mg</td>
+      <td>Dyphylline injection</td>
+    </tr>
+    <tr>
+      <td>J1190</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, dexrazoxane hydrochloride, per 250 mg</td>
+      <td>Dexrazoxane hcl injection</td>
+    </tr>
+    <tr>
+      <td>J1200</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, diphenhydramine hcl, up to 50 mg</td>
+      <td>Diphenhydramine hcl injectio</td>
+    </tr>
+    <tr>
+      <td>J1205</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, chlorothiazide sodium, per 500 mg</td>
+      <td>Chlorothiazide sodium inj</td>
+    </tr>
+    <tr>
+      <td>J1212</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, dmso, dimethyl sulfoxide, 50%, 50 ml</td>
+      <td>Dimethyl sulfoxide 50% 50 ml</td>
+    </tr>
+    <tr>
+      <td>J1230</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, methadone hcl, up to 10 mg</td>
+      <td>Methadone injection</td>
+    </tr>
+    <tr>
+      <td>J1240</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, dimenhydrinate, up to 50 mg</td>
+      <td>Dimenhydrinate injection</td>
+    </tr>
+    <tr>
+      <td>J1245</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, dipyridamole, per 10 mg</td>
+      <td>Dipyridamole injection</td>
+    </tr>
+    <tr>
+      <td>J1250</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, dobutamine hydrochloride, per 250 mg</td>
+      <td>Inj dobutamine hcl/250 mg</td>
+    </tr>
+    <tr>
+      <td>J1260</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, dolasetron mesylate, 10 mg</td>
+      <td>Dolasetron mesylate</td>
+    </tr>
+    <tr>
+      <td>J1265</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, dopamine hcl, 40 mg</td>
+      <td>Dopamine injection</td>
+    </tr>
+    <tr>
+      <td>J1267</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, doripenem, 10 mg</td>
+      <td>Doripenem injection</td>
+    </tr>
+    <tr>
+      <td>J1270</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, doxercalciferol, 1 mcg</td>
+      <td>Injection, doxercalciferol</td>
+    </tr>
+    <tr>
+      <td>J1290</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ecallantide, 1 mg</td>
+      <td>Ecallantide injection</td>
+    </tr>
+    <tr>
+      <td>J1300</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, eculizumab, 10 mg</td>
+      <td>Eculizumab injection</td>
+    </tr>
+    <tr>
+      <td>J1301</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, edaravone, 1 mg</td>
+      <td>Injection, edaravone, 1 mg</td>
+    </tr>
+    <tr>
+      <td>J1303</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ravulizumab-cwvz, 10 mg</td>
+      <td>Inj., ravulizumab-cwvz 10 mg</td>
+    </tr>
+    <tr>
+      <td>J1320</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, amitriptyline hcl, up to 20 mg</td>
+      <td>Amitriptyline injection</td>
+    </tr>
+    <tr>
+      <td>J1322</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, elosulfase alfa, 1 mg</td>
+      <td>Elosulfase alfa, injection</td>
+    </tr>
+    <tr>
+      <td>J1324</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, enfuvirtide, 1 mg</td>
+      <td>Enfuvirtide injection</td>
+    </tr>
+    <tr>
+      <td>J1325</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, epoprostenol, 0.5 mg</td>
+      <td>Epoprostenol injection</td>
+    </tr>
+    <tr>
+      <td>J1327</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, eptifibatide, 5 mg</td>
+      <td>Eptifibatide injection</td>
+    </tr>
+    <tr>
+      <td>J1330</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ergonovine maleate, up to 0.2 mg</td>
+      <td>Ergonovine maleate injection</td>
+    </tr>
+    <tr>
+      <td>J1335</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ertapenem sodium, 500 mg</td>
+      <td>Ertapenem injection</td>
+    </tr>
+    <tr>
+      <td>J1364</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, erythromycin lactobionate, per 500 mg</td>
+      <td>Erythro lactobionate /500 mg</td>
+    </tr>
+    <tr>
+      <td>J1380</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, estradiol valerate, up to 10 mg</td>
+      <td>Estradiol valerate 10 mg inj</td>
+    </tr>
+    <tr>
+      <td>J1410</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, estrogen conjugated, per 25 mg</td>
+      <td>Inj estrogen conjugate 25 mg</td>
+    </tr>
+    <tr>
+      <td>J1428</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, eteplirsen, 10 mg</td>
+      <td>Inj, eteplirsen, 10 mg</td>
+    </tr>
+    <tr>
+      <td>J1430</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ethanolamine oleate, 100 mg</td>
+      <td>Ethanolamine oleate 100 mg</td>
+    </tr>
+    <tr>
+      <td>J1435</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, estrone, per 1 mg</td>
+      <td>Injection estrone per 1 mg</td>
+    </tr>
+    <tr>
+      <td>J1436</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, etidronate disodium, per 300 mg</td>
+      <td>Etidronate disodium inj</td>
+    </tr>
+    <tr>
+      <td>J1438</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, etanercept, 25 mg (code may be used for medicare when drug administered under the direct supervision of a physician, not for use when drug is self administered)</td>
+      <td>Etanercept injection</td>
+    </tr>
+    <tr>
+      <td>J1439</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ferric carboxymaltose, 1 mg</td>
+      <td>Inj ferric carboxymaltos 1mg</td>
+    </tr>
+    <tr>
+      <td>J1442</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, filgrastim (g-csf), excludes biosimilars, 1 microgram</td>
+      <td>Inj filgrastim excl biosimil</td>
+    </tr>
+    <tr>
+      <td>J1443</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ferric pyrophosphate citrate solution, 0.1 mg of iron</td>
+      <td>Inj ferric pyrophosphate cit</td>
+    </tr>
+    <tr>
+      <td>J1444</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ferric pyrophosphate citrate powder, 0.1 mg of iron</td>
+      <td>Fe pyro cit pow 0.1 mg iron</td>
+    </tr>
+    <tr>
+      <td>J1446</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, tbo-filgrastim, 5 micrograms</td>
+      <td>Inj, tbo-filgrastim, 5 mcg</td>
+    </tr>
+    <tr>
+      <td>J1447</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, tbo-filgrastim, 1 microgram</td>
+      <td>Inj tbo filgrastim 1 microg</td>
+    </tr>
+    <tr>
+      <td>J1450</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection fluconazole, 200 mg</td>
+      <td>Fluconazole</td>
+    </tr>
+    <tr>
+      <td>J1451</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, fomepizole, 15 mg</td>
+      <td>Fomepizole, 15 mg</td>
+    </tr>
+    <tr>
+      <td>J1452</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, fomivirsen sodium, intraocular, 1.65 mg</td>
+      <td>Intraocular fomivirsen na</td>
+    </tr>
+    <tr>
+      <td>J1453</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, fosaprepitant, 1 mg</td>
+      <td>Fosaprepitant injection</td>
+    </tr>
+    <tr>
+      <td>J1454</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, fosnetupitant 235 mg and palonosetron 0.25 mg</td>
+      <td>Inj fosnetupitant, palonoset</td>
+    </tr>
+    <tr>
+      <td>J1455</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, foscarnet sodium, per 1000 mg</td>
+      <td>Foscarnet sodium injection</td>
+    </tr>
+    <tr>
+      <td>J1457</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, gallium nitrate, 1 mg</td>
+      <td>Gallium nitrate injection</td>
+    </tr>
+    <tr>
+      <td>J1458</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, galsulfase, 1 mg</td>
+      <td>Galsulfase injection</td>
+    </tr>
+    <tr>
+      <td>J1459</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, immune globulin (privigen), intravenous, non-lyophilized (e.g., liquid), 500 mg</td>
+      <td>Inj ivig privigen 500 mg</td>
+    </tr>
+    <tr>
+      <td>J1460</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, gamma globulin, intramuscular, 1 cc</td>
+      <td>Gamma globulin 1 cc inj</td>
+    </tr>
+    <tr>
+      <td>J1555</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, immune globulin (cuvitru), 100 mg</td>
+      <td>Inj cuvitru, 100 mg</td>
+    </tr>
+    <tr>
+      <td>J1556</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, immune globulin (bivigam), 500 mg</td>
+      <td>Inj, imm glob bivigam, 500mg</td>
+    </tr>
+    <tr>
+      <td>J1557</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, immune globulin, (gammaplex), intravenous, non-lyophilized (e.g., liquid), 500 mg</td>
+      <td>Gammaplex injection</td>
+    </tr>
+    <tr>
+      <td>J1559</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, immune globulin (hizentra), 100 mg</td>
+      <td>Hizentra injection</td>
+    </tr>
+    <tr>
+      <td>J1560</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, gamma globulin, intramuscular, over 10 cc</td>
+      <td>Gamma globulin &gt; 10 cc inj</td>
+    </tr>
+    <tr>
+      <td>J1561</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, immune globulin, (gamunex-c/gammaked), non-lyophilized (e.g., liquid), 500 mg</td>
+      <td>Gamunex-c/gammaked</td>
+    </tr>
+    <tr>
+      <td>J1562</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, immune globulin (vivaglobin), 100 mg</td>
+      <td>Vivaglobin, inj</td>
+    </tr>
+    <tr>
+      <td>J1566</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, immune globulin, intravenous, lyophilized (e.g., powder), not otherwise specified, 500 mg</td>
+      <td>Immune globulin, powder</td>
+    </tr>
+    <tr>
+      <td>J1568</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, immune globulin, (octagam), intravenous, non-lyophilized (e.g., liquid), 500 mg</td>
+      <td>Octagam injection</td>
+    </tr>
+    <tr>
+      <td>J1569</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, immune globulin, (gammagard liquid), non-lyophilized, (e.g., liquid), 500 mg</td>
+      <td>Gammagard liquid injection</td>
+    </tr>
+    <tr>
+      <td>J1570</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ganciclovir sodium, 500 mg</td>
+      <td>Ganciclovir sodium injection</td>
+    </tr>
+    <tr>
+      <td>J1571</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, hepatitis b immune globulin (hepagam b), intramuscular, 0.5 ml</td>
+      <td>Hepagam b im injection</td>
+    </tr>
+    <tr>
+      <td>J1572</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, immune globulin, (flebogamma/flebogamma dif), intravenous, non-lyophilized (e.g., liquid), 500 mg</td>
+      <td>Flebogamma injection</td>
+    </tr>
+    <tr>
+      <td>J1573</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, hepatitis b immune globulin (hepagam b), intravenous, 0.5 ml</td>
+      <td>Hepagam b intravenous, inj</td>
+    </tr>
+    <tr>
+      <td>J1575</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, immune globulin/hyaluronidase, (hyqvia), 100 mg immuneglobulin</td>
+      <td>Hyqvia 100mg immuneglobulin</td>
+    </tr>
+    <tr>
+      <td>J1580</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, garamycin, gentamicin, up to 80 mg</td>
+      <td>Garamycin gentamicin inj</td>
+    </tr>
+    <tr>
+      <td>J1590</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, gatifloxacin, 10 mg</td>
+      <td>Gatifloxacin injection</td>
+    </tr>
+    <tr>
+      <td>J1595</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, glatiramer acetate, 20 mg</td>
+      <td>Injection glatiramer acetate</td>
+    </tr>
+    <tr>
+      <td>J1599</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, immune globulin, intravenous, non-lyophilized (e.g., liquid), not otherwise specified, 500 mg</td>
+      <td>Ivig non-lyophilized, nos</td>
+    </tr>
+    <tr>
+      <td>J1600</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, gold sodium thiomalate, up to 50 mg</td>
+      <td>Gold sodium thiomaleate inj</td>
+    </tr>
+    <tr>
+      <td>J1602</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, golimumab, 1 mg, for intravenous use</td>
+      <td>Golimumab for iv use 1mg</td>
+    </tr>
+    <tr>
+      <td>J1610</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, glucagon hydrochloride, per 1 mg</td>
+      <td>Glucagon hydrochloride/1 mg</td>
+    </tr>
+    <tr>
+      <td>J1620</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, gonadorelin hydrochloride, per 100 mcg</td>
+      <td>Gonadorelin hydroch/ 100 mcg</td>
+    </tr>
+    <tr>
+      <td>J1626</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, granisetron hydrochloride, 100 mcg</td>
+      <td>Granisetron hcl injection</td>
+    </tr>
+    <tr>
+      <td>J1627</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, granisetron, extended-release, 0.1 mg</td>
+      <td>Inj, granisetron, xr, 0.1 mg</td>
+    </tr>
+    <tr>
+      <td>J1628</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, guselkumab, 1 mg</td>
+      <td>Inj., guselkumab, 1 mg</td>
+    </tr>
+    <tr>
+      <td>J1630</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, haloperidol, up to 5 mg</td>
+      <td>Haloperidol injection</td>
+    </tr>
+    <tr>
+      <td>J1631</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, haloperidol decanoate, per 50 mg</td>
+      <td>Haloperidol decanoate inj</td>
+    </tr>
+    <tr>
+      <td>J1640</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, hemin, 1 mg</td>
+      <td>Hemin, 1 mg</td>
+    </tr>
+    <tr>
+      <td>J1642</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, heparin sodium, (heparin lock flush), per 10 units</td>
+      <td>Inj heparin sodium per 10 u</td>
+    </tr>
+    <tr>
+      <td>J1644</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, heparin sodium, per 1000 units</td>
+      <td>Inj heparin sodium per 1000u</td>
+    </tr>
+    <tr>
+      <td>J1645</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, dalteparin sodium, per 2500 iu</td>
+      <td>Dalteparin sodium</td>
+    </tr>
+    <tr>
+      <td>J1650</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, enoxaparin sodium, 10 mg</td>
+      <td>Inj enoxaparin sodium</td>
+    </tr>
+    <tr>
+      <td>J1652</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, fondaparinux sodium, 0.5 mg</td>
+      <td>Fondaparinux sodium</td>
+    </tr>
+    <tr>
+      <td>J1655</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, tinzaparin sodium, 1000 iu</td>
+      <td>Tinzaparin sodium injection</td>
+    </tr>
+    <tr>
+      <td>J1670</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, tetanus immune globulin, human, up to 250 units</td>
+      <td>Tetanus immune globulin inj</td>
+    </tr>
+    <tr>
+      <td>J1675</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, histrelin acetate, 10 micrograms</td>
+      <td>Histrelin acetate</td>
+    </tr>
+    <tr>
+      <td>J1700</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, hydrocortisone acetate, up to 25 mg</td>
+      <td>Hydrocortisone acetate inj</td>
+    </tr>
+    <tr>
+      <td>J1710</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, hydrocortisone sodium phosphate, up to 50 mg</td>
+      <td>Hydrocortisone sodium ph inj</td>
+    </tr>
+    <tr>
+      <td>J1720</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, hydrocortisone sodium succinate, up to 100 mg</td>
+      <td>Hydrocortisone sodium succ i</td>
+    </tr>
+    <tr>
+      <td>J1725</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, hydroxyprogesterone caproate, 1 mg</td>
+      <td>Hydroxyprogesterone caproate</td>
+    </tr>
+    <tr>
+      <td>J1726</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, hydroxyprogesterone caproate, (makena), 10 mg</td>
+      <td>Makena, 10 mg</td>
+    </tr>
+    <tr>
+      <td>J1729</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, hydroxyprogesterone caproate, not otherwise specified, 10 mg</td>
+      <td>Inj hydroxyprogst capoat nos</td>
+    </tr>
+    <tr>
+      <td>J1730</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, diazoxide, up to 300 mg</td>
+      <td>Diazoxide injection</td>
+    </tr>
+    <tr>
+      <td>J1740</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ibandronate sodium, 1 mg</td>
+      <td>Ibandronate sodium injection</td>
+    </tr>
+    <tr>
+      <td>J1741</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ibuprofen, 100 mg</td>
+      <td>Ibuprofen injection</td>
+    </tr>
+    <tr>
+      <td>J1742</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ibutilide fumarate, 1 mg</td>
+      <td>Ibutilide fumarate injection</td>
+    </tr>
+    <tr>
+      <td>J1743</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, idursulfase, 1 mg</td>
+      <td>Idursulfase injection</td>
+    </tr>
+    <tr>
+      <td>J1744</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, icatibant, 1 mg</td>
+      <td>Icatibant injection</td>
+    </tr>
+    <tr>
+      <td>J1745</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, infliximab, excludes biosimilar, 10 mg</td>
+      <td>Infliximab not biosimil 10mg</td>
+    </tr>
+    <tr>
+      <td>J1746</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ibalizumab-uiyk, 10 mg</td>
+      <td>Inj., ibalizumab-uiyk, 10 mg</td>
+    </tr>
+    <tr>
+      <td>J1750</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, iron dextran, 50 mg</td>
+      <td>Inj iron dextran</td>
+    </tr>
+    <tr>
+      <td>J1756</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, iron sucrose, 1 mg</td>
+      <td>Iron sucrose injection</td>
+    </tr>
+    <tr>
+      <td>J1786</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, imiglucerase, 10 units</td>
+      <td>Imuglucerase injection</td>
+    </tr>
+    <tr>
+      <td>J1790</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, droperidol, up to 5 mg</td>
+      <td>Droperidol injection</td>
+    </tr>
+    <tr>
+      <td>J1800</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, propranolol hcl, up to 1 mg</td>
+      <td>Propranolol injection</td>
+    </tr>
+    <tr>
+      <td>J1810</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, droperidol and fentanyl citrate, up to 2 ml ampule</td>
+      <td>Droperidol/fentanyl inj</td>
+    </tr>
+    <tr>
+      <td>J1815</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, insulin, per 5 units</td>
+      <td>Insulin injection</td>
+    </tr>
+    <tr>
+      <td>J1817</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Insulin for administration through dme (i.e., insulin pump) per 50 units</td>
+      <td>Insulin for insulin pump use</td>
+    </tr>
+    <tr>
+      <td>J1826</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, interferon beta-1a, 30 mcg</td>
+      <td>Interferon beta-1a inj</td>
+    </tr>
+    <tr>
+      <td>J1830</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, interferon beta-1b, 0.25 mg (code may be used for medicare when drug administered under the direct supervision of a physician, not for use when drug is self administered)</td>
+      <td>Interferon beta-1b / .25 mg</td>
+    </tr>
+    <tr>
+      <td>J1833</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, isavuconazonium, 1 mg</td>
+      <td>Injection, isavuconazonium</td>
+    </tr>
+    <tr>
+      <td>J1835</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, itraconazole, 50 mg</td>
+      <td>Itraconazole injection</td>
+    </tr>
+    <tr>
+      <td>J1840</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, kanamycin sulfate, up to 500 mg</td>
+      <td>Kanamycin sulfate 500 mg inj</td>
+    </tr>
+    <tr>
+      <td>J1850</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, kanamycin sulfate, up to 75 mg</td>
+      <td>Kanamycin sulfate 75 mg inj</td>
+    </tr>
+    <tr>
+      <td>J1885</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ketorolac tromethamine, per 15 mg</td>
+      <td>Ketorolac tromethamine inj</td>
+    </tr>
+    <tr>
+      <td>J1890</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, cephalothin sodium, up to 1 gram</td>
+      <td>Cephalothin sodium injection</td>
+    </tr>
+    <tr>
+      <td>J1930</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, lanreotide, 1 mg</td>
+      <td>Lanreotide injection</td>
+    </tr>
+    <tr>
+      <td>J1931</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, laronidase, 0.1 mg</td>
+      <td>Laronidase injection</td>
+    </tr>
+    <tr>
+      <td>J1940</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, furosemide, up to 20 mg</td>
+      <td>Furosemide injection</td>
+    </tr>
+    <tr>
+      <td>J1942</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, aripiprazole lauroxil, 1 mg</td>
+      <td>Aripiprazole lauroxil 1mg</td>
+    </tr>
+    <tr>
+      <td>J1943</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, aripiprazole lauroxil, (aristada initio), 1 mg</td>
+      <td>Inj., aristada initio, 1 mg</td>
+    </tr>
+    <tr>
+      <td>J1944</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, aripiprazole lauroxil, (aristada), 1 mg</td>
+      <td>Aripirazole lauroxil 1 mg</td>
+    </tr>
+    <tr>
+      <td>J1945</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, lepirudin, 50 mg</td>
+      <td>Lepirudin</td>
+    </tr>
+    <tr>
+      <td>J1950</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, leuprolide acetate (for depot suspension), per 3.75 mg</td>
+      <td>Leuprolide acetate /3.75 mg</td>
+    </tr>
+    <tr>
+      <td>J1953</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, levetiracetam, 10 mg</td>
+      <td>Levetiracetam injection</td>
+    </tr>
+    <tr>
+      <td>J1955</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, levocarnitine, per 1 gm</td>
+      <td>Inj levocarnitine per 1 gm</td>
+    </tr>
+    <tr>
+      <td>J1956</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, levofloxacin, 250 mg</td>
+      <td>Levofloxacin injection</td>
+    </tr>
+    <tr>
+      <td>J1960</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, levorphanol tartrate, up to 2 mg</td>
+      <td>Levorphanol tartrate inj</td>
+    </tr>
+    <tr>
+      <td>J1980</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, hyoscyamine sulfate, up to 0.25 mg</td>
+      <td>Hyoscyamine sulfate inj</td>
+    </tr>
+    <tr>
+      <td>J1990</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, chlordiazepoxide hcl, up to 100 mg</td>
+      <td>Chlordiazepoxide injection</td>
+    </tr>
+    <tr>
+      <td>J2001</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, lidocaine hcl for intravenous infusion, 10 mg</td>
+      <td>Lidocaine injection</td>
+    </tr>
+    <tr>
+      <td>J2010</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, lincomycin hcl, up to 300 mg</td>
+      <td>Lincomycin injection</td>
+    </tr>
+    <tr>
+      <td>J2020</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, linezolid, 200 mg</td>
+      <td>Linezolid injection</td>
+    </tr>
+    <tr>
+      <td>J2060</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, lorazepam, 2 mg</td>
+      <td>Lorazepam injection</td>
+    </tr>
+    <tr>
+      <td>J2062</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Loxapine for inhalation, 1 mg</td>
+      <td>Loxapine for inhalation 1 mg</td>
+    </tr>
+    <tr>
+      <td>J2150</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, mannitol, 25% in 50 ml</td>
+      <td>Mannitol injection</td>
+    </tr>
+    <tr>
+      <td>J2170</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, mecasermin, 1 mg</td>
+      <td>Mecasermin injection</td>
+    </tr>
+    <tr>
+      <td>J2175</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, meperidine hydrochloride, per 100 mg</td>
+      <td>Meperidine hydrochl /100 mg</td>
+    </tr>
+    <tr>
+      <td>J2180</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, meperidine and promethazine hcl, up to 50 mg</td>
+      <td>Meperidine/promethazine inj</td>
+    </tr>
+    <tr>
+      <td>J2182</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, mepolizumab, 1 mg</td>
+      <td>Injection, mepolizumab, 1mg</td>
+    </tr>
+    <tr>
+      <td>J2185</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, meropenem, 100 mg</td>
+      <td>Meropenem</td>
+    </tr>
+    <tr>
+      <td>J2186</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, meropenem and vaborbactam, 10mg/10mg (20mg)</td>
+      <td>Inj., meropenem, vaborbactam</td>
+    </tr>
+    <tr>
+      <td>J2210</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, methylergonovine maleate, up to 0.2 mg</td>
+      <td>Methylergonovin maleate inj</td>
+    </tr>
+    <tr>
+      <td>J2212</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, methylnaltrexone, 0.1 mg</td>
+      <td>Methylnaltrexone injection</td>
+    </tr>
+    <tr>
+      <td>J2248</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, micafungin sodium, 1 mg</td>
+      <td>Micafungin sodium injection</td>
+    </tr>
+    <tr>
+      <td>J2250</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, midazolam hydrochloride, per 1 mg</td>
+      <td>Inj midazolam hydrochloride</td>
+    </tr>
+    <tr>
+      <td>J2260</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, milrinone lactate, 5 mg</td>
+      <td>Inj milrinone lactate / 5 mg</td>
+    </tr>
+    <tr>
+      <td>J2265</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, minocycline hydrochloride, 1 mg</td>
+      <td>Minocycline hydrochloride</td>
+    </tr>
+    <tr>
+      <td>J2270</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, morphine sulfate, up to 10 mg</td>
+      <td>Morphine sulfate injection</td>
+    </tr>
+    <tr>
+      <td>J2271</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, morphine sulfate, 100mg</td>
+      <td>Morphine so4 injection 100mg</td>
+    </tr>
+    <tr>
+      <td>J2274</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, morphine sulfate, preservative-free for epidural or intrathecal use, 10 mg</td>
+      <td>Inj morphine pf epid ithc</td>
+    </tr>
+    <tr>
+      <td>J2275</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, morphine sulfate (preservative-free sterile solution), per 10 mg</td>
+      <td>Morphine sulfate injection</td>
+    </tr>
+    <tr>
+      <td>J2278</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ziconotide, 1 microgram</td>
+      <td>Ziconotide injection</td>
+    </tr>
+    <tr>
+      <td>J2280</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, moxifloxacin, 100 mg</td>
+      <td>Inj, moxifloxacin 100 mg</td>
+    </tr>
+    <tr>
+      <td>J2300</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, nalbuphine hydrochloride, per 10 mg</td>
+      <td>Inj nalbuphine hydrochloride</td>
+    </tr>
+    <tr>
+      <td>J2310</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, naloxone hydrochloride, per 1 mg</td>
+      <td>Inj naloxone hydrochloride</td>
+    </tr>
+    <tr>
+      <td>J2315</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, naltrexone, depot form, 1 mg</td>
+      <td>Naltrexone, depot form</td>
+    </tr>
+    <tr>
+      <td>J2320</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, nandrolone decanoate, up to 50 mg</td>
+      <td>Nandrolone decanoate 50 mg</td>
+    </tr>
+    <tr>
+      <td>J2323</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, natalizumab, 1 mg</td>
+      <td>Natalizumab injection</td>
+    </tr>
+    <tr>
+      <td>J2325</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, nesiritide, 0.1 mg</td>
+      <td>Nesiritide injection</td>
+    </tr>
+    <tr>
+      <td>J2326</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, nusinersen, 0.1 mg</td>
+      <td>Inj, nusinersen, 0.1mg</td>
+    </tr>
+    <tr>
+      <td>J2350</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ocrelizumab, 1 mg</td>
+      <td>Injection, ocrelizumab, 1 mg</td>
+    </tr>
+    <tr>
+      <td>J2353</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, octreotide, depot form for intramuscular injection, 1 mg</td>
+      <td>Octreotide injection, depot</td>
+    </tr>
+    <tr>
+      <td>J2354</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, octreotide, non-depot form for subcutaneous or intravenous injection, 25 mcg</td>
+      <td>Octreotide inj, non-depot</td>
+    </tr>
+    <tr>
+      <td>J2355</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, oprelvekin, 5 mg</td>
+      <td>Oprelvekin injection</td>
+    </tr>
+    <tr>
+      <td>J2357</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, omalizumab, 5 mg</td>
+      <td>Omalizumab injection</td>
+    </tr>
+    <tr>
+      <td>J2358</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, olanzapine, long-acting, 1 mg</td>
+      <td>Olanzapine long-acting inj</td>
+    </tr>
+    <tr>
+      <td>J2360</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, orphenadrine citrate, up to 60 mg</td>
+      <td>Orphenadrine injection</td>
+    </tr>
+    <tr>
+      <td>J2370</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, phenylephrine hcl, up to 1 ml</td>
+      <td>Phenylephrine hcl injection</td>
+    </tr>
+    <tr>
+      <td>J2400</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, chloroprocaine hydrochloride, per 30 ml</td>
+      <td>Chloroprocaine hcl injection</td>
+    </tr>
+    <tr>
+      <td>J2405</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ondansetron hydrochloride, per 1 mg</td>
+      <td>Ondansetron hcl injection</td>
+    </tr>
+    <tr>
+      <td>J2407</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, oritavancin, 10 mg</td>
+      <td>Injection, oritavancin</td>
+    </tr>
+    <tr>
+      <td>J2410</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, oxymorphone hcl, up to 1 mg</td>
+      <td>Oxymorphone hcl injection</td>
+    </tr>
+    <tr>
+      <td>J2425</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, palifermin, 50 micrograms</td>
+      <td>Palifermin injection</td>
+    </tr>
+    <tr>
+      <td>J2426</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, paliperidone palmitate extended release, 1 mg</td>
+      <td>Paliperidone palmitate inj</td>
+    </tr>
+    <tr>
+      <td>J2430</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, pamidronate disodium, per 30 mg</td>
+      <td>Pamidronate disodium /30 mg</td>
+    </tr>
+    <tr>
+      <td>J2440</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, papaverine hcl, up to 60 mg</td>
+      <td>Papaverin hcl injection</td>
+    </tr>
+    <tr>
+      <td>J2460</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, oxytetracycline hcl, up to 50 mg</td>
+      <td>Oxytetracycline injection</td>
+    </tr>
+    <tr>
+      <td>J2469</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, palonosetron hcl, 25 mcg</td>
+      <td>Palonosetron hcl</td>
+    </tr>
+    <tr>
+      <td>J2501</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, paricalcitol, 1 mcg</td>
+      <td>Paricalcitol</td>
+    </tr>
+    <tr>
+      <td>J2502</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, pasireotide long acting, 1 mg</td>
+      <td>Inj, pasireotide long acting</td>
+    </tr>
+    <tr>
+      <td>J2503</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, pegaptanib sodium, 0.3 mg</td>
+      <td>Pegaptanib sodium injection</td>
+    </tr>
+    <tr>
+      <td>J2504</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, pegademase bovine, 25 iu</td>
+      <td>Pegademase bovine, 25 iu</td>
+    </tr>
+    <tr>
+      <td>J2505</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, pegfilgrastim, 6 mg</td>
+      <td>Injection, pegfilgrastim 6mg</td>
+    </tr>
+    <tr>
+      <td>J2507</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, pegloticase, 1 mg</td>
+      <td>Pegloticase injection</td>
+    </tr>
+    <tr>
+      <td>J2510</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, penicillin g procaine, aqueous, up to 600,000 units</td>
+      <td>Penicillin g procaine inj</td>
+    </tr>
+    <tr>
+      <td>J2513</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, pentastarch, 10% solution, 100 ml</td>
+      <td>Pentastarch 10% solution</td>
+    </tr>
+    <tr>
+      <td>J2515</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, pentobarbital sodium, per 50 mg</td>
+      <td>Pentobarbital sodium inj</td>
+    </tr>
+    <tr>
+      <td>J2540</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, penicillin g potassium, up to 600,000 units</td>
+      <td>Penicillin g potassium inj</td>
+    </tr>
+    <tr>
+      <td>J2543</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, piperacillin sodium/tazobactam sodium, 1 gram/0.125 grams (1.125 grams)</td>
+      <td>Piperacillin/tazobactam</td>
+    </tr>
+    <tr>
+      <td>J2545</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Pentamidine isethionate, inhalation solution, fda-approved final product, non-compounded, administered through dme, unit dose form, per 300 mg</td>
+      <td>Pentamidine non-comp unit</td>
+    </tr>
+    <tr>
+      <td>J2547</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, peramivir, 1 mg</td>
+      <td>Injection, peramivir</td>
+    </tr>
+    <tr>
+      <td>J2550</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, promethazine hcl, up to 50 mg</td>
+      <td>Promethazine hcl injection</td>
+    </tr>
+    <tr>
+      <td>J2560</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, phenobarbital sodium, up to 120 mg</td>
+      <td>Phenobarbital sodium inj</td>
+    </tr>
+    <tr>
+      <td>J2562</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, plerixafor, 1 mg</td>
+      <td>Plerixafor injection</td>
+    </tr>
+    <tr>
+      <td>J2590</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, oxytocin, up to 10 units</td>
+      <td>Oxytocin injection</td>
+    </tr>
+    <tr>
+      <td>J2597</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, desmopressin acetate, per 1 mcg</td>
+      <td>Inj desmopressin acetate</td>
+    </tr>
+    <tr>
+      <td>J2650</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, prednisolone acetate, up to 1 ml</td>
+      <td>Prednisolone acetate inj</td>
+    </tr>
+    <tr>
+      <td>J2670</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, tolazoline hcl, up to 25 mg</td>
+      <td>Totazoline hcl injection</td>
+    </tr>
+    <tr>
+      <td>J2675</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, progesterone, per 50 mg</td>
+      <td>Inj progesterone per 50 mg</td>
+    </tr>
+    <tr>
+      <td>J2680</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, fluphenazine decanoate, up to 25 mg</td>
+      <td>Fluphenazine decanoate 25 mg</td>
+    </tr>
+    <tr>
+      <td>J2690</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, procainamide hcl, up to 1 gm</td>
+      <td>Procainamide hcl injection</td>
+    </tr>
+    <tr>
+      <td>J2700</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, oxacillin sodium, up to 250 mg</td>
+      <td>Oxacillin sodium injeciton</td>
+    </tr>
+    <tr>
+      <td>J2704</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, propofol, 10 mg</td>
+      <td>Inj, propofol, 10 mg</td>
+    </tr>
+    <tr>
+      <td>J2710</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, neostigmine methylsulfate, up to 0.5 mg</td>
+      <td>Neostigmine methylslfte inj</td>
+    </tr>
+    <tr>
+      <td>J2720</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, protamine sulfate, per 10 mg</td>
+      <td>Inj protamine sulfate/10 mg</td>
+    </tr>
+    <tr>
+      <td>J2724</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, protein c concentrate, intravenous, human, 10 iu</td>
+      <td>Protein c concentrate</td>
+    </tr>
+    <tr>
+      <td>J2725</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, protirelin, per 250 mcg</td>
+      <td>Inj protirelin per 250 mcg</td>
+    </tr>
+    <tr>
+      <td>J2730</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, pralidoxime chloride, up to 1 gm</td>
+      <td>Pralidoxime chloride inj</td>
+    </tr>
+    <tr>
+      <td>J2760</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, phentolamine mesylate, up to 5 mg</td>
+      <td>Phentolaine mesylate inj</td>
+    </tr>
+    <tr>
+      <td>J2765</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, metoclopramide hcl, up to 10 mg</td>
+      <td>Metoclopramide hcl injection</td>
+    </tr>
+    <tr>
+      <td>J2770</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, quinupristin/dalfopristin, 500 mg (150/350)</td>
+      <td>Quinupristin/dalfopristin</td>
+    </tr>
+    <tr>
+      <td>J2778</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ranibizumab, 0.1 mg</td>
+      <td>Ranibizumab injection</td>
+    </tr>
+    <tr>
+      <td>J2780</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ranitidine hydrochloride, 25 mg</td>
+      <td>Ranitidine hydrochloride inj</td>
+    </tr>
+    <tr>
+      <td>J2783</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, rasburicase, 0.5 mg</td>
+      <td>Rasburicase</td>
+    </tr>
+    <tr>
+      <td>J2785</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, regadenoson, 0.1 mg</td>
+      <td>Regadenoson injection</td>
+    </tr>
+    <tr>
+      <td>J2786</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, reslizumab, 1 mg</td>
+      <td>Injection, reslizumab, 1mg</td>
+    </tr>
+    <tr>
+      <td>J2787</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Riboflavin 5’-phosphate, ophthalmic solution, up to 3 ml</td>
+      <td>Riboflavin 5’phos opth&lt;=3ml</td>
+    </tr>
+    <tr>
+      <td>J2788</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, rho d immune globulin, human, minidose, 50 micrograms (250 i.u.)</td>
+      <td>Rho d immune globulin 50 mcg</td>
+    </tr>
+    <tr>
+      <td>J2790</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, rho d immune globulin, human, full dose, 300 micrograms (1500 i.u.)</td>
+      <td>Rho d immune globulin inj</td>
+    </tr>
+    <tr>
+      <td>J2791</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, rho(d) immune globulin (human), (rhophylac), intramuscular or intravenous, 100 iu</td>
+      <td>Rhophylac injection</td>
+    </tr>
+    <tr>
+      <td>J2792</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, rho d immune globulin, intravenous, human, solvent detergent, 100 iu</td>
+      <td>Rho(d) immune globulin h, sd</td>
+    </tr>
+    <tr>
+      <td>J2793</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, rilonacept, 1 mg</td>
+      <td>Rilonacept injection</td>
+    </tr>
+    <tr>
+      <td>J2794</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, risperidone (risperdal consta), 0.5 mg</td>
+      <td>Inj risperdal consta, 0.5 mg</td>
+    </tr>
+    <tr>
+      <td>J2795</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ropivacaine hydrochloride, 1 mg</td>
+      <td>Ropivacaine hcl injection</td>
+    </tr>
+    <tr>
+      <td>J2796</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, romiplostim, 10 micrograms</td>
+      <td>Romiplostim injection</td>
+    </tr>
+    <tr>
+      <td>J2797</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, rolapitant, 0.5 mg</td>
+      <td>Inj., rolapitant, 0.5 mg</td>
+    </tr>
+    <tr>
+      <td>J2798</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, risperidone, (perseris), 0.5 mg</td>
+      <td>Inj., perseris, 0.5 mg</td>
+    </tr>
+    <tr>
+      <td>J2800</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, methocarbamol, up to 10 ml</td>
+      <td>Methocarbamol injection</td>
+    </tr>
+    <tr>
+      <td>J2805</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, sincalide, 5 micrograms</td>
+      <td>Sincalide injection</td>
+    </tr>
+    <tr>
+      <td>J2810</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, theophylline, per 40 mg</td>
+      <td>Inj theophylline per 40 mg</td>
+    </tr>
+    <tr>
+      <td>J2820</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, sargramostim (gm-csf), 50 mcg</td>
+      <td>Sargramostim injection</td>
+    </tr>
+    <tr>
+      <td>J2840</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, sebelipase alfa, 1 mg</td>
+      <td>Inj sebelipase alfa 1 mg</td>
+    </tr>
+    <tr>
+      <td>J2850</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, secretin, synthetic, human, 1 microgram</td>
+      <td>Inj secretin synthetic human</td>
+    </tr>
+    <tr>
+      <td>J2860</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, siltuximab, 10 mg</td>
+      <td>Injection, siltuximab</td>
+    </tr>
+    <tr>
+      <td>J2910</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, aurothioglucose, up to 50 mg</td>
+      <td>Aurothioglucose injeciton</td>
+    </tr>
+    <tr>
+      <td>J2916</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, sodium ferric gluconate complex in sucrose injection, 12.5 mg</td>
+      <td>Na ferric gluconate complex</td>
+    </tr>
+    <tr>
+      <td>J2920</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, methylprednisolone sodium succinate, up to 40 mg</td>
+      <td>Methylprednisolone injection</td>
+    </tr>
+    <tr>
+      <td>J2930</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, methylprednisolone sodium succinate, up to 125 mg</td>
+      <td>Methylprednisolone injection</td>
+    </tr>
+    <tr>
+      <td>J2940</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, somatrem, 1 mg</td>
+      <td>Somatrem injection</td>
+    </tr>
+    <tr>
+      <td>J2941</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, somatropin, 1 mg</td>
+      <td>Somatropin injection</td>
+    </tr>
+    <tr>
+      <td>J2950</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, promazine hcl, up to 25 mg</td>
+      <td>Promazine hcl injection</td>
+    </tr>
+    <tr>
+      <td>J2993</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, reteplase, 18.1 mg</td>
+      <td>Reteplase injection</td>
+    </tr>
+    <tr>
+      <td>J2995</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, streptokinase, per 250,000 iu</td>
+      <td>Inj streptokinase /250000 iu</td>
+    </tr>
+    <tr>
+      <td>J2997</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, alteplase recombinant, 1 mg</td>
+      <td>Alteplase recombinant</td>
+    </tr>
+    <tr>
+      <td>J3000</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, streptomycin, up to 1 gm</td>
+      <td>Streptomycin injection</td>
+    </tr>
+    <tr>
+      <td>J3010</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, fentanyl citrate, 0.1 mg</td>
+      <td>Fentanyl citrate injection</td>
+    </tr>
+    <tr>
+      <td>J3030</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, sumatriptan succinate, 6 mg (code may be used for medicare when drug administered under the direct supervision of a physician, not for use when drug is self administered)</td>
+      <td>Sumatriptan succinate / 6 mg</td>
+    </tr>
+    <tr>
+      <td>J3031</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, fremanezumab-vfrm, 1 mg (code may be used for medicare when drug administered under the direct supervision of a physician, not for use when drug is self-administered)</td>
+      <td>Inj., fremanezumab-vfrm 1 mg</td>
+    </tr>
+    <tr>
+      <td>J3060</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, taliglucerase alfa, 10 units</td>
+      <td>Inj, taliglucerase alfa 10 u</td>
+    </tr>
+    <tr>
+      <td>J3070</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, pentazocine, 30 mg</td>
+      <td>Pentazocine injection</td>
+    </tr>
+    <tr>
+      <td>J3090</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, tedizolid phosphate, 1 mg</td>
+      <td>Inj tedizolid phosphate</td>
+    </tr>
+    <tr>
+      <td>J3095</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, telavancin, 10 mg</td>
+      <td>Telavancin injection</td>
+    </tr>
+    <tr>
+      <td>J3101</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, tenecteplase, 1 mg</td>
+      <td>Tenecteplase injection</td>
+    </tr>
+    <tr>
+      <td>J3105</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, terbutaline sulfate, up to 1 mg</td>
+      <td>Terbutaline sulfate inj</td>
+    </tr>
+    <tr>
+      <td>J3110</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, teriparatide, 10 mcg</td>
+      <td>Teriparatide injection</td>
+    </tr>
+    <tr>
+      <td>J3111</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, romosozumab-aqqg, 1 mg</td>
+      <td>Inj. romosozumab-aqqg 1 mg</td>
+    </tr>
+    <tr>
+      <td>J3120</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, testosterone enanthate, up to 100 mg</td>
+      <td>Testosterone enanthate inj</td>
+    </tr>
+    <tr>
+      <td>J3121</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, testosterone enanthate, 1 mg</td>
+      <td>Inj testostero enanthate 1mg</td>
+    </tr>
+    <tr>
+      <td>J3130</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, testosterone enanthate, up to 200 mg</td>
+      <td>Testosterone enanthate inj</td>
+    </tr>
+    <tr>
+      <td>J3140</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, testosterone suspension, up to 50 mg</td>
+      <td>Testosterone suspension inj</td>
+    </tr>
+    <tr>
+      <td>J3145</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, testosterone undecanoate, 1 mg</td>
+      <td>Testosterone undecanoate 1mg</td>
+    </tr>
+    <tr>
+      <td>J3150</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, testosterone propionate, up to 100 mg</td>
+      <td>Testosteron propionate inj</td>
+    </tr>
+    <tr>
+      <td>J3230</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, chlorpromazine hcl, up to 50 mg</td>
+      <td>Chlorpromazine hcl injection</td>
+    </tr>
+    <tr>
+      <td>J3240</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, thyrotropin alpha, 0.9 mg, provided in 1.1 mg vial</td>
+      <td>Thyrotropin injection</td>
+    </tr>
+    <tr>
+      <td>J3243</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, tigecycline, 1 mg</td>
+      <td>Tigecycline injection</td>
+    </tr>
+    <tr>
+      <td>J3245</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, tildrakizumab, 1 mg</td>
+      <td>Inj., tildrakizumab, 1 mg</td>
+    </tr>
+    <tr>
+      <td>J3246</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, tirofiban hcl, 0.25 mg</td>
+      <td>Tirofiban hcl</td>
+    </tr>
+    <tr>
+      <td>J3250</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, trimethobenzamide hcl, up to 200 mg</td>
+      <td>Trimethobenzamide hcl inj</td>
+    </tr>
+    <tr>
+      <td>J3260</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, tobramycin sulfate, up to 80 mg</td>
+      <td>Tobramycin sulfate injection</td>
+    </tr>
+    <tr>
+      <td>J3262</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, tocilizumab, 1 mg</td>
+      <td>Tocilizumab injection</td>
+    </tr>
+    <tr>
+      <td>J3265</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, torsemide, 10 mg/ml</td>
+      <td>Injection torsemide 10 mg/ml</td>
+    </tr>
+    <tr>
+      <td>J3280</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, thiethylperazine maleate, up to 10 mg</td>
+      <td>Thiethylperazine maleate inj</td>
+    </tr>
+    <tr>
+      <td>J3285</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, treprostinil, 1 mg</td>
+      <td>Treprostinil injection</td>
+    </tr>
+    <tr>
+      <td>J3300</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, triamcinolone acetonide, preservative free, 1 mg</td>
+      <td>Triamcinolone a inj prs-free</td>
+    </tr>
+    <tr>
+      <td>J3301</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, triamcinolone acetonide, not otherwise specified, 10 mg</td>
+      <td>Triamcinolone acet inj nos</td>
+    </tr>
+    <tr>
+      <td>J3302</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, triamcinolone diacetate, per 5 mg</td>
+      <td>Triamcinolone diacetate inj</td>
+    </tr>
+    <tr>
+      <td>J3303</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, triamcinolone hexacetonide, per 5 mg</td>
+      <td>Triamcinolone hexacetonl inj</td>
+    </tr>
+    <tr>
+      <td>J3304</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, triamcinolone acetonide, preservative-free, extended-release, microsphere formulation, 1 mg</td>
+      <td>Inj triamcinolone ace xr 1mg</td>
+    </tr>
+    <tr>
+      <td>J3305</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, trimetrexate glucuronate, per 25 mg</td>
+      <td>Inj trimetrexate glucoronate</td>
+    </tr>
+    <tr>
+      <td>J3310</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, perphenazine, up to 5 mg</td>
+      <td>Perphenazine injeciton</td>
+    </tr>
+    <tr>
+      <td>J3315</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, triptorelin pamoate, 3.75 mg</td>
+      <td>Triptorelin pamoate</td>
+    </tr>
+    <tr>
+      <td>J3316</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, triptorelin, extended-release, 3.75 mg</td>
+      <td>Inj., triptorelin xr 3.75 mg</td>
+    </tr>
+    <tr>
+      <td>J3320</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, spectinomycin dihydrochloride, up to 2 gm</td>
+      <td>Spectinomycn di-hcl inj</td>
+    </tr>
+    <tr>
+      <td>J3350</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, urea, up to 40 gm</td>
+      <td>Urea injection</td>
+    </tr>
+    <tr>
+      <td>J3355</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, urofollitropin, 75 iu</td>
+      <td>Urofollitropin, 75 iu</td>
+    </tr>
+    <tr>
+      <td>J3357</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ustekinumab, for subcutaneous injection, 1 mg</td>
+      <td>Ustekinumab sub cu inj, 1 mg</td>
+    </tr>
+    <tr>
+      <td>J3358</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ustekinumab, for intravenous injection, 1 mg</td>
+      <td>Ustekinumab, iv inject, 1 mg</td>
+    </tr>
+    <tr>
+      <td>J3360</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, diazepam, up to 5 mg</td>
+      <td>Diazepam injection</td>
+    </tr>
+    <tr>
+      <td>J3364</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, urokinase, 5000 iu vial</td>
+      <td>Urokinase 5000 iu injection</td>
+    </tr>
+    <tr>
+      <td>J3365</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, iv, urokinase, 250,000 i.u. vial</td>
+      <td>Urokinase 250,000 iu inj</td>
+    </tr>
+    <tr>
+      <td>J3370</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, vancomycin hcl, 500 mg</td>
+      <td>Vancomycin hcl injection</td>
+    </tr>
+    <tr>
+      <td>J3380</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, vedolizumab, 1 mg</td>
+      <td>Injection, vedolizumab</td>
+    </tr>
+    <tr>
+      <td>J3385</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, velaglucerase alfa, 100 units</td>
+      <td>Velaglucerase alfa</td>
+    </tr>
+    <tr>
+      <td>J3396</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, verteporfin, 0.1 mg</td>
+      <td>Verteporfin injection</td>
+    </tr>
+    <tr>
+      <td>J3397</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, vestronidase alfa-vjbk, 1 mg</td>
+      <td>Inj., vestronidase alfa-vjbk</td>
+    </tr>
+    <tr>
+      <td>J3398</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, voretigene neparvovec-rzyl, 1 billion vector genomes</td>
+      <td>Inj luxturna 1 billion vec g</td>
+    </tr>
+    <tr>
+      <td>J3400</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, triflupromazine hcl, up to 20 mg</td>
+      <td>Triflupromazine hcl inj</td>
+    </tr>
+    <tr>
+      <td>J3410</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, hydroxyzine hcl, up to 25 mg</td>
+      <td>Hydroxyzine hcl injection</td>
+    </tr>
+    <tr>
+      <td>J3411</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, thiamine hcl, 100 mg</td>
+      <td>Thiamine hcl 100 mg</td>
+    </tr>
+    <tr>
+      <td>J3415</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, pyridoxine hcl, 100 mg</td>
+      <td>Pyridoxine hcl 100 mg</td>
+    </tr>
+    <tr>
+      <td>J3420</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, vitamin b-12 cyanocobalamin, up to 1000 mcg</td>
+      <td>Vitamin b12 injection</td>
+    </tr>
+    <tr>
+      <td>J3430</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, phytonadione (vitamin k), per 1 mg</td>
+      <td>Vitamin k phytonadione inj</td>
+    </tr>
+    <tr>
+      <td>J3465</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, voriconazole, 10 mg</td>
+      <td>Injection, voriconazole</td>
+    </tr>
+    <tr>
+      <td>J3470</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, hyaluronidase, up to 150 units</td>
+      <td>Hyaluronidase injection</td>
+    </tr>
+    <tr>
+      <td>J3471</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, hyaluronidase, ovine, preservative free, per 1 usp unit (up to 999 usp units)</td>
+      <td>Ovine, up to 999 usp units</td>
+    </tr>
+    <tr>
+      <td>J3472</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, hyaluronidase, ovine, preservative free, per 1000 usp units</td>
+      <td>Ovine, 1000 usp units</td>
+    </tr>
+    <tr>
+      <td>J3473</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, hyaluronidase, recombinant, 1 usp unit</td>
+      <td>Hyaluronidase recombinant</td>
+    </tr>
+    <tr>
+      <td>J3475</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, magnesium sulfate, per 500 mg</td>
+      <td>Inj magnesium sulfate</td>
+    </tr>
+    <tr>
+      <td>J3480</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, potassium chloride, per 2 meq</td>
+      <td>Inj potassium chloride</td>
+    </tr>
+    <tr>
+      <td>J3485</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, zidovudine, 10 mg</td>
+      <td>Zidovudine</td>
+    </tr>
+    <tr>
+      <td>J3486</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ziprasidone mesylate, 10 mg</td>
+      <td>Ziprasidone mesylate</td>
+    </tr>
+    <tr>
+      <td>J3489</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, zoledronic acid, 1 mg</td>
+      <td>Zoledronic acid 1mg</td>
+    </tr>
+    <tr>
+      <td>J3490</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Unclassified drugs</td>
+      <td>Drugs unclassified injection</td>
+    </tr>
+    <tr>
+      <td>J3520</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Edetate disodium, per 150 mg</td>
+      <td>Edetate disodium per 150 mg</td>
+    </tr>
+    <tr>
+      <td>J3530</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Nasal vaccine inhalation</td>
+      <td>Nasal vaccine inhalation</td>
+    </tr>
+    <tr>
+      <td>J3535</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Drug administered through a metered dose inhaler</td>
+      <td>Metered dose inhaler drug</td>
+    </tr>
+    <tr>
+      <td>J3570</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Laetrile, amygdalin, vitamin b17</td>
+      <td>Laetrile amygdalin vit b17</td>
+    </tr>
+    <tr>
+      <td>J3590</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Unclassified biologics</td>
+      <td>Unclassified biologics</td>
+    </tr>
+    <tr>
+      <td>J3591</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Unclassified drug or biological used for esrd on dialysis</td>
+      <td>Esrd on dialysi drug/bio noc</td>
+    </tr>
+    <tr>
+      <td>J7030</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Infusion, normal saline solution , 1000 cc</td>
+      <td>Normal saline solution infus</td>
+    </tr>
+    <tr>
+      <td>J7040</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Infusion, normal saline solution, sterile (500 ml = 1 unit)</td>
+      <td>Normal saline solution infus</td>
+    </tr>
+    <tr>
+      <td>J7042</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>5% dextrose/normal saline (500 ml = 1 unit)</td>
+      <td>5% dextrose/normal saline</td>
+    </tr>
+    <tr>
+      <td>J7050</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Infusion, normal saline solution, 250 cc</td>
+      <td>Normal saline solution infus</td>
+    </tr>
+    <tr>
+      <td>J7060</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>5% dextrose/water (500 ml = 1 unit)</td>
+      <td>5% dextrose/water</td>
+    </tr>
+    <tr>
+      <td>J7070</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Infusion, d5w, 1000 cc</td>
+      <td>D5w infusion</td>
+    </tr>
+    <tr>
+      <td>J7100</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Infusion, dextran 40, 500 ml</td>
+      <td>Dextran 40 infusion</td>
+    </tr>
+    <tr>
+      <td>J7110</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Infusion, dextran 75, 500 ml</td>
+      <td>Dextran 75 infusion</td>
+    </tr>
+    <tr>
+      <td>J7120</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ringers lactate infusion, up to 1000 cc</td>
+      <td>Ringers lactate infusion</td>
+    </tr>
+    <tr>
+      <td>J7121</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>5% dextrose in lactated ringers infusion, up to 1000 cc</td>
+      <td>5% dextrose in lac ringers</td>
+    </tr>
+    <tr>
+      <td>J7131</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hypertonic saline solution, 1 ml</td>
+      <td>Hypertonic saline sol</td>
+    </tr>
+    <tr>
+      <td>J7170</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, emicizumab-kxwh, 0.5 mg</td>
+      <td>Inj., emicizumab-kxwh 0.5 mg</td>
+    </tr>
+    <tr>
+      <td>J7175</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, factor x, (human), 1 i.u.</td>
+      <td>Inj, factor x, (human), 1iu</td>
+    </tr>
+    <tr>
+      <td>J7177</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, human fibrinogen concentrate (fibryga), 1 mg</td>
+      <td>Inj., fibryga, 1 mg</td>
+    </tr>
+    <tr>
+      <td>J7178</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, human fibrinogen concentrate, not otherwise specified, 1 mg</td>
+      <td>Inj human fibrinogen con nos</td>
+    </tr>
+    <tr>
+      <td>J7179</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, von willebrand factor (recombinant), (vonvendi), 1 i.u. vwf:rco</td>
+      <td>Vonvendi inj 1 iu vwf:rco</td>
+    </tr>
+    <tr>
+      <td>J7180</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, factor xiii (antihemophilic factor, human), 1 i.u.</td>
+      <td>Factor xiii anti-hem factor</td>
+    </tr>
+    <tr>
+      <td>J7181</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, factor xiii a-subunit, (recombinant), per iu</td>
+      <td>Factor xiii recomb a-subunit</td>
+    </tr>
+    <tr>
+      <td>J7182</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, factor viii, (antihemophilic factor, recombinant), (novoeight), per iu</td>
+      <td>Factor viii recomb novoeight</td>
+    </tr>
+    <tr>
+      <td>J7183</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, von willebrand factor complex (human), wilate, 1 i.u. vwf:rco</td>
+      <td>Wilate injection</td>
+    </tr>
+    <tr>
+      <td>J7185</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, factor viii (antihemophilic factor, recombinant) (xyntha), per i.u.</td>
+      <td>Xyntha inj</td>
+    </tr>
+    <tr>
+      <td>J7186</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, antihemophilic factor viii/von willebrand factor complex (human), per factor viii i.u.</td>
+      <td>Antihemophilic viii/vwf comp</td>
+    </tr>
+    <tr>
+      <td>J7187</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, von willebrand factor complex (humate-p), per iu vwf:rco</td>
+      <td>Humate-p, inj</td>
+    </tr>
+    <tr>
+      <td>J7188</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, factor viii (antihemophilic factor, recombinant), (obizur), per i.u.</td>
+      <td>Factor viii recomb obizur</td>
+    </tr>
+    <tr>
+      <td>J7189</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Factor viia (antihemophilic factor, recombinant), per 1 microgram</td>
+      <td>Factor viia</td>
+    </tr>
+    <tr>
+      <td>J7190</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Factor viii (antihemophilic factor, human) per i.u.</td>
+      <td>Factor viii</td>
+    </tr>
+    <tr>
+      <td>J7191</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Factor viii (antihemophilic factor (porcine)), per i.u.</td>
+      <td>Factor viii (porcine)</td>
+    </tr>
+    <tr>
+      <td>J7192</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Factor viii (antihemophilic factor, recombinant) per i.u., not otherwise specified</td>
+      <td>Factor viii recombinant nos</td>
+    </tr>
+    <tr>
+      <td>J7193</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Factor ix (antihemophilic factor, purified, non-recombinant) per i.u.</td>
+      <td>Factor ix non-recombinant</td>
+    </tr>
+    <tr>
+      <td>J7194</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Factor ix, complex, per i.u.</td>
+      <td>Factor ix complex</td>
+    </tr>
+    <tr>
+      <td>J7195</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, factor ix (antihemophilic factor, recombinant) per iu, not otherwise specified</td>
+      <td>Factor ix recombinant nos</td>
+    </tr>
+    <tr>
+      <td>J7196</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, antithrombin recombinant, 50 i.u.</td>
+      <td>Antithrombin recombinant</td>
+    </tr>
+    <tr>
+      <td>J7197</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Antithrombin iii (human), per i.u.</td>
+      <td>Antithrombin iii injection</td>
+    </tr>
+    <tr>
+      <td>J7198</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Anti-inhibitor, per i.u.</td>
+      <td>Anti-inhibitor</td>
+    </tr>
+    <tr>
+      <td>J7199</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hemophilia clotting factor, not otherwise classified</td>
+      <td>Hemophilia clot factor noc</td>
+    </tr>
+    <tr>
+      <td>J7200</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, factor ix, (antihemophilic factor, recombinant), rixubis, per iu</td>
+      <td>Factor ix recombinan rixubis</td>
+    </tr>
+    <tr>
+      <td>J7201</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, factor ix, fc fusion protein, (recombinant), alprolix, 1 i.u.</td>
+      <td>Factor ix alprolix recomb</td>
+    </tr>
+    <tr>
+      <td>J7202</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, factor ix, albumin fusion protein, (recombinant), idelvion, 1 i.u.</td>
+      <td>Factor ix idelvion inj</td>
+    </tr>
+    <tr>
+      <td>J7203</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection factor ix, (antihemophilic factor, recombinant), glycopegylated, (rebinyn), 1 iu</td>
+      <td>Factor ix recomb gly rebinyn</td>
+    </tr>
+    <tr>
+      <td>J7205</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, factor viii fc fusion protein (recombinant), per iu</td>
+      <td>Factor viii fc fusion recomb</td>
+    </tr>
+    <tr>
+      <td>J7207</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, factor viii, (antihemophilic factor, recombinant), pegylated, 1 i.u.</td>
+      <td>Factor viii pegylated recomb</td>
+    </tr>
+    <tr>
+      <td>J7208</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, factor viii, (antihemophilic factor, recombinant), pegylated-aucl, (jivi), 1 i.u.</td>
+      <td>Inj. jivi 1 iu</td>
+    </tr>
+    <tr>
+      <td>J7209</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, factor viii, (antihemophilic factor, recombinant), (nuwiq), 1 i.u.</td>
+      <td>Factor viii nuwiq recomb 1iu</td>
+    </tr>
+    <tr>
+      <td>J7210</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, factor viii, (antihemophilic factor, recombinant), (afstyla), 1 i.u.</td>
+      <td>Inj, afstyla, 1 i.u.</td>
+    </tr>
+    <tr>
+      <td>J7211</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, factor viii, (antihemophilic factor, recombinant), (kovaltry), 1 i.u.</td>
+      <td>Inj, kovaltry, 1 i.u.</td>
+    </tr>
+    <tr>
+      <td>J7296</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Levonorgestrel-releasing intrauterine contraceptive system, (kyleena), 19.5 mg</td>
+      <td>Kyleena, 19.5 mg</td>
+    </tr>
+    <tr>
+      <td>J7297</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Levonorgestrel-releasing intrauterine contraceptive system (liletta), 52 mg</td>
+      <td>Liletta, 52 mg</td>
+    </tr>
+    <tr>
+      <td>J7298</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Levonorgestrel-releasing intrauterine contraceptive system (mirena), 52 mg</td>
+      <td>Mirena, 52 mg</td>
+    </tr>
+    <tr>
+      <td>J7300</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Intrauterine copper contraceptive</td>
+      <td>Intraut copper contraceptive</td>
+    </tr>
+    <tr>
+      <td>J7301</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Levonorgestrel-releasing intrauterine contraceptive system (skyla), 13.5 mg</td>
+      <td>Skyla, 13.5 mg</td>
+    </tr>
+    <tr>
+      <td>J7302</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Levonorgestrel-releasing intrauterine contraceptive system, 52 mg</td>
+      <td>Levonorgestrel iu 52 mg</td>
+    </tr>
+    <tr>
+      <td>J7303</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Contraceptive supply, hormone containing vaginal ring, each</td>
+      <td>Contraceptive vaginal ring</td>
+    </tr>
+    <tr>
+      <td>J7304</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Contraceptive supply, hormone containing patch, each</td>
+      <td>Contraceptive hormone patch</td>
+    </tr>
+    <tr>
+      <td>J7306</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Levonorgestrel (contraceptive) implant system, including implants and supplies</td>
+      <td>Levonorgestrel implant sys</td>
+    </tr>
+    <tr>
+      <td>J7307</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Etonogestrel (contraceptive) implant system, including implant and supplies</td>
+      <td>Etonogestrel implant system</td>
+    </tr>
+    <tr>
+      <td>J7308</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Aminolevulinic acid hcl for topical administration, 20%, single unit dosage form (354 mg)</td>
+      <td>Aminolevulinic acid hcl top</td>
+    </tr>
+    <tr>
+      <td>J7309</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Methyl aminolevulinate (mal) for topical administration, 16.8%, 1 gram</td>
+      <td>Methyl aminolevulinate, top</td>
+    </tr>
+    <tr>
+      <td>J7310</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ganciclovir, 4.5 mg, long-acting implant</td>
+      <td>Ganciclovir long act implant</td>
+    </tr>
+    <tr>
+      <td>J7311</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, fluocinolone acetonide, intravitreal implant (retisert), 0.01 mg</td>
+      <td>Inj., retisert, 0.01 mg</td>
+    </tr>
+    <tr>
+      <td>J7312</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, dexamethasone, intravitreal implant, 0.1 mg</td>
+      <td>Dexamethasone intra implant</td>
+    </tr>
+    <tr>
+      <td>J7313</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, fluocinolone acetonide, intravitreal implant (iluvien), 0.01 mg</td>
+      <td>Inj., iluvien, 0.01 mg</td>
+    </tr>
+    <tr>
+      <td>J7314</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, fluocinolone acetonide, intravitreal implant (yutiq), 0.01 mg</td>
+      <td>Inj., yutiq, 0.01 mg</td>
+    </tr>
+    <tr>
+      <td>J7315</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Mitomycin, ophthalmic, 0.2 mg</td>
+      <td>Ophthalmic mitomycin</td>
+    </tr>
+    <tr>
+      <td>J7316</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ocriplasmin, 0.125 mg</td>
+      <td>Inj, ocriplasmin, 0.125 mg</td>
+    </tr>
+    <tr>
+      <td>J7318</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hyaluronan or derivative, durolane, for intra-articular injection, 1 mg</td>
+      <td>Inj, durolane 1 mg</td>
+    </tr>
+    <tr>
+      <td>J7320</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hyaluronan or derivitive, genvisc 850, for intra-articular injection, 1 mg</td>
+      <td>Genvisc 850, inj, 1mg</td>
+    </tr>
+    <tr>
+      <td>J7321</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hyaluronan or derivative, hyalgan, supartz or visco-3, for intra-articular injection, per dose</td>
+      <td>Hyalgan supartz visco-3 dose</td>
+    </tr>
+    <tr>
+      <td>J7322</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hyaluronan or derivative, hymovis, for intra-articular injection, 1 mg</td>
+      <td>Hymovis injection 1 mg</td>
+    </tr>
+    <tr>
+      <td>J7323</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hyaluronan or derivative, euflexxa, for intra-articular injection, per dose</td>
+      <td>Euflexxa inj per dose</td>
+    </tr>
+    <tr>
+      <td>J7324</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hyaluronan or derivative, orthovisc, for intra-articular injection, per dose</td>
+      <td>Orthovisc inj per dose</td>
+    </tr>
+    <tr>
+      <td>J7325</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hyaluronan or derivative, synvisc or synvisc-one, for intra-articular injection, 1 mg</td>
+      <td>Synvisc or synvisc-one</td>
+    </tr>
+    <tr>
+      <td>J7326</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hyaluronan or derivative, gel-one, for intra-articular injection, per dose</td>
+      <td>Gel-one</td>
+    </tr>
+    <tr>
+      <td>J7327</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hyaluronan or derivative, monovisc, for intra-articular injection, per dose</td>
+      <td>Monovisc inj per dose</td>
+    </tr>
+    <tr>
+      <td>J7328</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hyaluronan or derivative, gelsyn-3, for intra-articular injection, 0.1 mg</td>
+      <td>Gelsyn-3 injection 0.1 mg</td>
+    </tr>
+    <tr>
+      <td>J7329</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hyaluronan or derivative, trivisc, for intra-articular injection, 1 mg</td>
+      <td>Inj, trivisc 1 mg</td>
+    </tr>
+    <tr>
+      <td>J7330</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Autologous cultured chondrocytes, implant</td>
+      <td>Cultured chondrocytes implnt</td>
+    </tr>
+    <tr>
+      <td>J7331</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hyaluronan or derivative, synojoynt, for intra-articular injection, 1 mg</td>
+      <td>Synojoynt, inj., 1 mg</td>
+    </tr>
+    <tr>
+      <td>J7332</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Hyaluronan or derivative, triluron, for intra-articular injection, 1 mg</td>
+      <td>Inj., triluron, 1 mg</td>
+    </tr>
+    <tr>
+      <td>J7335</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Capsaicin 8% patch, per 10 square centimeters</td>
+      <td>Capsaicin 8% patch</td>
+    </tr>
+    <tr>
+      <td>J7336</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Capsaicin 8% patch, per square centimeter</td>
+      <td>Capsaicin 8% patch</td>
+    </tr>
+    <tr>
+      <td>J7340</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Carbidopa 5 mg/levodopa 20 mg enteral suspension, 100 ml</td>
+      <td>Carbidopa levodopa ent 100ml</td>
+    </tr>
+    <tr>
+      <td>J7342</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Instillation, ciprofloxacin otic suspension, 6 mg</td>
+      <td>Ciprofloxacin otic susp 6 mg</td>
+    </tr>
+    <tr>
+      <td>J7345</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Aminolevulinic acid hcl for topical administration, 10% gel, 10 mg</td>
+      <td>Aminolevulinic acid, 10% gel</td>
+    </tr>
+    <tr>
+      <td>J7401</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Mometasone furoate sinus implant, 10 micrograms</td>
+      <td>Mometasone furoate sinus imp</td>
+    </tr>
+    <tr>
+      <td>J7500</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Azathioprine, oral, 50 mg</td>
+      <td>Azathioprine oral 50mg</td>
+    </tr>
+    <tr>
+      <td>J7501</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Azathioprine, parenteral, 100 mg</td>
+      <td>Azathioprine parenteral</td>
+    </tr>
+    <tr>
+      <td>J7502</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Cyclosporine, oral, 100 mg</td>
+      <td>Cyclosporine oral 100 mg</td>
+    </tr>
+    <tr>
+      <td>J7503</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tacrolimus, extended release, (envarsus xr), oral, 0.25 mg</td>
+      <td>Tacrol envarsus ex rel oral</td>
+    </tr>
+    <tr>
+      <td>J7504</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Lymphocyte immune globulin, antithymocyte globulin, equine, parenteral, 250 mg</td>
+      <td>Lymphocyte immune globulin</td>
+    </tr>
+    <tr>
+      <td>J7505</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Muromonab-cd3, parenteral, 5 mg</td>
+      <td>Monoclonal antibodies</td>
+    </tr>
+    <tr>
+      <td>J7506</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Prednisone, oral, per 5 mg</td>
+      <td>Prednisone oral</td>
+    </tr>
+    <tr>
+      <td>J7507</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tacrolimus, immediate release, oral, 1 mg</td>
+      <td>Tacrolimus imme rel oral 1mg</td>
+    </tr>
+    <tr>
+      <td>J7508</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tacrolimus, extended release, (astagraf xl), oral, 0.1 mg</td>
+      <td>Tacrol astagraf ex rel oral</td>
+    </tr>
+    <tr>
+      <td>J7509</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Methylprednisolone oral, per 4 mg</td>
+      <td>Methylprednisolone oral</td>
+    </tr>
+    <tr>
+      <td>J7510</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Prednisolone oral, per 5 mg</td>
+      <td>Prednisolone oral per 5 mg</td>
+    </tr>
+    <tr>
+      <td>J7511</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Lymphocyte immune globulin, antithymocyte globulin, rabbit, parenteral, 25 mg</td>
+      <td>Antithymocyte globuln rabbit</td>
+    </tr>
+    <tr>
+      <td>J7512</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Prednisone, immediate release or delayed release, oral, 1 mg</td>
+      <td>Prednisone ir or dr oral 1mg</td>
+    </tr>
+    <tr>
+      <td>J7513</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Daclizumab, parenteral, 25 mg</td>
+      <td>Daclizumab, parenteral</td>
+    </tr>
+    <tr>
+      <td>J7515</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Cyclosporine, oral, 25 mg</td>
+      <td>Cyclosporine oral 25 mg</td>
+    </tr>
+    <tr>
+      <td>J7516</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Cyclosporin, parenteral, 250 mg</td>
+      <td>Cyclosporin parenteral 250mg</td>
+    </tr>
+    <tr>
+      <td>J7517</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Mycophenolate mofetil, oral, 250 mg</td>
+      <td>Mycophenolate mofetil oral</td>
+    </tr>
+    <tr>
+      <td>J7518</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Mycophenolic acid, oral, 180 mg</td>
+      <td>Mycophenolic acid</td>
+    </tr>
+    <tr>
+      <td>J7520</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Sirolimus, oral, 1 mg</td>
+      <td>Sirolimus, oral</td>
+    </tr>
+    <tr>
+      <td>J7525</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tacrolimus, parenteral, 5 mg</td>
+      <td>Tacrolimus injection</td>
+    </tr>
+    <tr>
+      <td>J7527</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Everolimus, oral, 0.25 mg</td>
+      <td>Oral everolimus</td>
+    </tr>
+    <tr>
+      <td>J7599</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Immunosuppressive drug, not otherwise classified</td>
+      <td>Immunosuppressive drug noc</td>
+    </tr>
+    <tr>
+      <td>J7604</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Acetylcysteine, inhalation solution, compounded product, administered through dme, unit dose form, per gram</td>
+      <td>Acetylcysteine comp unit</td>
+    </tr>
+    <tr>
+      <td>J7605</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Arformoterol, inhalation solution, fda approved final product, non-compounded, administered through dme, unit dose form, 15 micrograms</td>
+      <td>Arformoterol non-comp unit</td>
+    </tr>
+    <tr>
+      <td>J7606</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Formoterol fumarate, inhalation solution, fda approved final product, non-compounded, administered through dme, unit dose form, 20 micrograms</td>
+      <td>Formoterol fumarate, inh</td>
+    </tr>
+    <tr>
+      <td>J7607</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Levalbuterol, inhalation solution, compounded product, administered through dme, concentrated form, 0.5 mg</td>
+      <td>Levalbuterol comp con</td>
+    </tr>
+    <tr>
+      <td>J7608</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Acetylcysteine, inhalation solution, fda-approved final product, non-compounded, administered through dme, unit dose form, per gram</td>
+      <td>Acetylcysteine non-comp unit</td>
+    </tr>
+    <tr>
+      <td>J7609</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Albuterol, inhalation solution, compounded product, administered through dme, unit dose, 1 mg</td>
+      <td>Albuterol comp unit</td>
+    </tr>
+    <tr>
+      <td>J7610</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Albuterol, inhalation solution, compounded product, administered through dme, concentrated form, 1 mg</td>
+      <td>Albuterol comp con</td>
+    </tr>
+    <tr>
+      <td>J7611</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Albuterol, inhalation solution, fda-approved final product, non-compounded, administered through dme, concentrated form, 1 mg</td>
+      <td>Albuterol non-comp con</td>
+    </tr>
+    <tr>
+      <td>J7612</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Levalbuterol, inhalation solution, fda-approved final product, non-compounded, administered through dme, concentrated form, 0.5 mg</td>
+      <td>Levalbuterol non-comp con</td>
+    </tr>
+    <tr>
+      <td>J7613</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Albuterol, inhalation solution, fda-approved final product, non-compounded, administered through dme, unit dose, 1 mg</td>
+      <td>Albuterol non-comp unit</td>
+    </tr>
+    <tr>
+      <td>J7614</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Levalbuterol, inhalation solution, fda-approved final product, non-compounded, administered through dme, unit dose, 0.5 mg</td>
+      <td>Levalbuterol non-comp unit</td>
+    </tr>
+    <tr>
+      <td>J7615</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Levalbuterol, inhalation solution, compounded product, administered through dme, unit dose, 0.5 mg</td>
+      <td>Levalbuterol comp unit</td>
+    </tr>
+    <tr>
+      <td>J7620</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Albuterol, up to 2.5 mg and ipratropium bromide, up to 0.5 mg, fda-approved final product, non-compounded, administered through dme</td>
+      <td>Albuterol ipratrop non-comp</td>
+    </tr>
+    <tr>
+      <td>J7622</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Beclomethasone, inhalation solution, compounded product, administered through dme, unit dose form, per milligram</td>
+      <td>Beclomethasone comp unit</td>
+    </tr>
+    <tr>
+      <td>J7624</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Betamethasone, inhalation solution, compounded product, administered through dme, unit dose form, per milligram</td>
+      <td>Betamethasone comp unit</td>
+    </tr>
+    <tr>
+      <td>J7626</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Budesonide, inhalation solution, fda-approved final product, non-compounded, administered through dme, unit dose form, up to 0.5 mg</td>
+      <td>Budesonide non-comp unit</td>
+    </tr>
+    <tr>
+      <td>J7627</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Budesonide, inhalation solution, compounded product, administered through dme, unit dose form, up to 0.5 mg</td>
+      <td>Budesonide comp unit</td>
+    </tr>
+    <tr>
+      <td>J7628</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Bitolterol mesylate, inhalation solution, compounded product, administered through dme, concentrated form, per milligram</td>
+      <td>Bitolterol mesylate comp con</td>
+    </tr>
+    <tr>
+      <td>J7629</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Bitolterol mesylate, inhalation solution, compounded product, administered through dme, unit dose form, per milligram</td>
+      <td>Bitolterol mesylate comp unt</td>
+    </tr>
+    <tr>
+      <td>J7631</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Cromolyn sodium, inhalation solution, fda-approved final product, non-compounded, administered through dme, unit dose form, per 10 milligrams</td>
+      <td>Cromolyn sodium noncomp unit</td>
+    </tr>
+    <tr>
+      <td>J7632</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Cromolyn sodium, inhalation solution, compounded product, administered through dme, unit dose form, per 10 milligrams</td>
+      <td>Cromolyn sodium comp unit</td>
+    </tr>
+    <tr>
+      <td>J7633</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Budesonide, inhalation solution, fda-approved final product, non-compounded, administered through dme, concentrated form, per 0.25 milligram</td>
+      <td>Budesonide non-comp con</td>
+    </tr>
+    <tr>
+      <td>J7634</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Budesonide, inhalation solution, compounded product, administered through dme, concentrated form, per 0.25 milligram</td>
+      <td>Budesonide comp con</td>
+    </tr>
+    <tr>
+      <td>J7635</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Atropine, inhalation solution, compounded product, administered through dme, concentrated form, per milligram</td>
+      <td>Atropine comp con</td>
+    </tr>
+    <tr>
+      <td>J7636</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Atropine, inhalation solution, compounded product, administered through dme, unit dose form, per milligram</td>
+      <td>Atropine comp unit</td>
+    </tr>
+    <tr>
+      <td>J7637</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Dexamethasone, inhalation solution, compounded product, administered through dme, concentrated form, per milligram</td>
+      <td>Dexamethasone comp con</td>
+    </tr>
+    <tr>
+      <td>J7638</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Dexamethasone, inhalation solution, compounded product, administered through dme, unit dose form, per milligram</td>
+      <td>Dexamethasone comp unit</td>
+    </tr>
+    <tr>
+      <td>J7639</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Dornase alfa, inhalation solution, fda-approved final product, non-compounded, administered through dme, unit dose form, per milligram</td>
+      <td>Dornase alfa non-comp unit</td>
+    </tr>
+    <tr>
+      <td>J7640</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Formoterol, inhalation solution, compounded product, administered through dme, unit dose form, 12 micrograms</td>
+      <td>Formoterol comp unit</td>
+    </tr>
+    <tr>
+      <td>J7641</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Flunisolide, inhalation solution, compounded product, administered through dme, unit dose, per milligram</td>
+      <td>Flunisolide comp unit</td>
+    </tr>
+    <tr>
+      <td>J7642</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Glycopyrrolate, inhalation solution, compounded product, administered through dme, concentrated form, per milligram</td>
+      <td>Glycopyrrolate comp con</td>
+    </tr>
+    <tr>
+      <td>J7643</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Glycopyrrolate, inhalation solution, compounded product, administered through dme, unit dose form, per milligram</td>
+      <td>Glycopyrrolate comp unit</td>
+    </tr>
+    <tr>
+      <td>J7644</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ipratropium bromide, inhalation solution, fda-approved final product, non-compounded, administered through dme, unit dose form, per milligram</td>
+      <td>Ipratropium bromide non-comp</td>
+    </tr>
+    <tr>
+      <td>J7645</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Ipratropium bromide, inhalation solution, compounded product, administered through dme, unit dose form, per milligram</td>
+      <td>Ipratropium bromide comp</td>
+    </tr>
+    <tr>
+      <td>J7647</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Isoetharine hcl, inhalation solution, compounded product, administered through dme, concentrated form, per milligram</td>
+      <td>Isoetharine comp con</td>
+    </tr>
+    <tr>
+      <td>J7648</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Isoetharine hcl, inhalation solution, fda-approved final product, non-compounded, administered through dme, concentrated form, per milligram</td>
+      <td>Isoetharine non-comp con</td>
+    </tr>
+    <tr>
+      <td>J7649</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Isoetharine hcl, inhalation solution, fda-approved final product, non-compounded, administered through dme, unit dose form, per milligram</td>
+      <td>Isoetharine non-comp unit</td>
+    </tr>
+    <tr>
+      <td>J7650</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Isoetharine hcl, inhalation solution, compounded product, administered through dme, unit dose form, per milligram</td>
+      <td>Isoetharine comp unit</td>
+    </tr>
+    <tr>
+      <td>J7657</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Isoproterenol hcl, inhalation solution, compounded product, administered through dme, concentrated form, per milligram</td>
+      <td>Isoproterenol comp con</td>
+    </tr>
+    <tr>
+      <td>J7658</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Isoproterenol hcl, inhalation solution, fda-approved final product, non-compounded, administered through dme, concentrated form, per milligram</td>
+      <td>Isoproterenol non-comp con</td>
+    </tr>
+    <tr>
+      <td>J7659</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Isoproterenol hcl, inhalation solution, fda-approved final product, non-compounded, administered through dme, unit dose form, per milligram</td>
+      <td>Isoproterenol non-comp unit</td>
+    </tr>
+    <tr>
+      <td>J7660</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Isoproterenol hcl, inhalation solution, compounded product, administered through dme, unit dose form, per milligram</td>
+      <td>Isoproterenol comp unit</td>
+    </tr>
+    <tr>
+      <td>J7665</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Mannitol, administered through an inhaler, 5 mg</td>
+      <td>Mannitol for inhaler</td>
+    </tr>
+    <tr>
+      <td>J7667</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Metaproterenol sulfate, inhalation solution, compounded product, concentrated form, per 10 milligrams</td>
+      <td>Metaproterenol comp con</td>
+    </tr>
+    <tr>
+      <td>J7668</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Metaproterenol sulfate, inhalation solution, fda-approved final product, non-compounded, administered through dme, concentrated form, per 10 milligrams</td>
+      <td>Metaproterenol non-comp con</td>
+    </tr>
+    <tr>
+      <td>J7669</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Metaproterenol sulfate, inhalation solution, fda-approved final product, non-compounded, administered through dme, unit dose form, per 10 milligrams</td>
+      <td>Metaproterenol non-comp unit</td>
+    </tr>
+    <tr>
+      <td>J7670</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Metaproterenol sulfate, inhalation solution, compounded product, administered through dme, unit dose form, per 10 milligrams</td>
+      <td>Metaproterenol comp unit</td>
+    </tr>
+    <tr>
+      <td>J7674</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Methacholine chloride administered as inhalation solution through a nebulizer, per 1 mg</td>
+      <td>Methacholine chloride, neb</td>
+    </tr>
+    <tr>
+      <td>J7676</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Pentamidine isethionate, inhalation solution, compounded product, administered through dme, unit dose form, per 300 mg</td>
+      <td>Pentamidine comp unit dose</td>
+    </tr>
+    <tr>
+      <td>J7677</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Revefenacin inhalation solution, fda-approved final product, non-compounded, administered through dme, 1 microgram</td>
+      <td>Revefenacin inh non-com 1mcg</td>
+    </tr>
+    <tr>
+      <td>J7680</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Terbutaline sulfate, inhalation solution, compounded product, administered through dme, concentrated form, per milligram</td>
+      <td>Terbutaline sulf comp con</td>
+    </tr>
+    <tr>
+      <td>J7681</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Terbutaline sulfate, inhalation solution, compounded product, administered through dme, unit dose form, per milligram</td>
+      <td>Terbutaline sulf comp unit</td>
+    </tr>
+    <tr>
+      <td>J7682</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tobramycin, inhalation solution, fda-approved final product, non-compounded, unit dose form, administered through dme, per 300 milligrams</td>
+      <td>Tobramycin non-comp unit</td>
+    </tr>
+    <tr>
+      <td>J7683</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Triamcinolone, inhalation solution, compounded product, administered through dme, concentrated form, per milligram</td>
+      <td>Triamcinolone comp con</td>
+    </tr>
+    <tr>
+      <td>J7684</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Triamcinolone, inhalation solution, compounded product, administered through dme, unit dose form, per milligram</td>
+      <td>Triamcinolone comp unit</td>
+    </tr>
+    <tr>
+      <td>J7685</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Tobramycin, inhalation solution, compounded product, administered through dme, unit dose form, per 300 milligrams</td>
+      <td>Tobramycin comp unit</td>
+    </tr>
+    <tr>
+      <td>J7686</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Treprostinil, inhalation solution, fda-approved final product, non-compounded, administered through dme, unit dose form, 1.74 mg</td>
+      <td>Treprostinil, non-comp unit</td>
+    </tr>
+    <tr>
+      <td>J7699</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Noc drugs, inhalation solution administered through dme</td>
+      <td>Inhalation solution for dme</td>
+    </tr>
+    <tr>
+      <td>J7799</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Noc drugs, other than inhalation drugs, administered through dme</td>
+      <td>Non-inhalation drug for dme</td>
+    </tr>
+    <tr>
+      <td>J7999</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Compounded drug, not otherwise classified</td>
+      <td>Compounded drug, noc</td>
+    </tr>
+    <tr>
+      <td>J8498</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Antiemetic drug, rectal/suppository, not otherwise specified</td>
+      <td>Antiemetic rectal/supp nos</td>
+    </tr>
+    <tr>
+      <td>J8499</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Prescription drug, oral, non chemotherapeutic, nos</td>
+      <td>Oral prescrip drug non chemo</td>
+    </tr>
+    <tr>
+      <td>J8501</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Aprepitant, oral, 5 mg</td>
+      <td>Oral aprepitant</td>
+    </tr>
+    <tr>
+      <td>J8510</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Busulfan; oral, 2 mg</td>
+      <td>Oral busulfan</td>
+    </tr>
+    <tr>
+      <td>J8515</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Cabergoline, oral, 0.25 mg</td>
+      <td>Cabergoline, oral 0.25mg</td>
+    </tr>
+    <tr>
+      <td>J8520</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Capecitabine, oral, 150 mg</td>
+      <td>Capecitabine, oral, 150 mg</td>
+    </tr>
+    <tr>
+      <td>J8521</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Capecitabine, oral, 500 mg</td>
+      <td>Capecitabine, oral, 500 mg</td>
+    </tr>
+    <tr>
+      <td>J8530</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Cyclophosphamide; oral, 25 mg</td>
+      <td>Cyclophosphamide oral 25 mg</td>
+    </tr>
+    <tr>
+      <td>J8540</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Dexamethasone, oral, 0.25 mg</td>
+      <td>Oral dexamethasone</td>
+    </tr>
+    <tr>
+      <td>J8560</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Etoposide; oral, 50 mg</td>
+      <td>Etoposide oral 50 mg</td>
+    </tr>
+    <tr>
+      <td>J8562</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Fludarabine phosphate, oral, 10 mg</td>
+      <td>Oral fludarabine phosphate</td>
+    </tr>
+    <tr>
+      <td>J8565</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Gefitinib, oral, 250 mg</td>
+      <td>Gefitinib oral</td>
+    </tr>
+    <tr>
+      <td>J8597</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Antiemetic drug, oral, not otherwise specified</td>
+      <td>Antiemetic drug oral nos</td>
+    </tr>
+    <tr>
+      <td>J8600</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Melphalan; oral, 2 mg</td>
+      <td>Melphalan oral 2 mg</td>
+    </tr>
+    <tr>
+      <td>J8610</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Methotrexate; oral, 2.5 mg</td>
+      <td>Methotrexate oral 2.5 mg</td>
+    </tr>
+    <tr>
+      <td>J8650</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Nabilone, oral, 1 mg</td>
+      <td>Nabilone oral</td>
+    </tr>
+    <tr>
+      <td>J8655</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Netupitant 300 mg and palonosetron 0.5 mg, oral</td>
+      <td>Oral netupitant, palonosetro</td>
+    </tr>
+    <tr>
+      <td>J8670</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Rolapitant, oral, 1 mg</td>
+      <td>Rolapitant, oral, 1mg</td>
+    </tr>
+    <tr>
+      <td>J8700</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Temozolomide, oral, 5 mg</td>
+      <td>Temozolomide</td>
+    </tr>
+    <tr>
+      <td>J8705</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Topotecan, oral, 0.25 mg</td>
+      <td>Topotecan oral</td>
+    </tr>
+    <tr>
+      <td>J8999</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Prescription drug, oral, chemotherapeutic, nos</td>
+      <td>Oral prescription drug chemo</td>
+    </tr>
+    <tr>
+      <td>J9000</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, doxorubicin hydrochloride, 10 mg</td>
+      <td>Doxorubicin hcl injection</td>
+    </tr>
+    <tr>
+      <td>J9010</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, alemtuzumab, 10 mg</td>
+      <td>Alemtuzumab injection</td>
+    </tr>
+    <tr>
+      <td>J9015</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, aldesleukin, per single use vial</td>
+      <td>Aldesleukin injection</td>
+    </tr>
+    <tr>
+      <td>J9017</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, arsenic trioxide, 1 mg</td>
+      <td>Arsenic trioxide injection</td>
+    </tr>
+    <tr>
+      <td>J9019</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, asparaginase (erwinaze), 1,000 iu</td>
+      <td>Erwinaze injection</td>
+    </tr>
+    <tr>
+      <td>J9020</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, asparaginase, not otherwise specified, 10,000 units</td>
+      <td>Asparaginase, nos</td>
+    </tr>
+    <tr>
+      <td>J9022</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, atezolizumab, 10 mg</td>
+      <td>Inj, atezolizumab,10 mg</td>
+    </tr>
+    <tr>
+      <td>J9023</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, avelumab, 10 mg</td>
+      <td>Injection, avelumab, 10 mg</td>
+    </tr>
+    <tr>
+      <td>J9025</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, azacitidine, 1 mg</td>
+      <td>Azacitidine injection</td>
+    </tr>
+    <tr>
+      <td>J9027</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, clofarabine, 1 mg</td>
+      <td>Clofarabine injection</td>
+    </tr>
+    <tr>
+      <td>J9030</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Bcg live intravesical instillation, 1 mg</td>
+      <td>Bcg live intravesical 1mg</td>
+    </tr>
+    <tr>
+      <td>J9031</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Bcg (intravesical) per instillation</td>
+      <td>Bcg live intravesical vac</td>
+    </tr>
+    <tr>
+      <td>J9032</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, belinostat, 10 mg</td>
+      <td>Injection, belinostat, 10mg</td>
+    </tr>
+    <tr>
+      <td>J9033</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, bendamustine hcl (treanda), 1 mg</td>
+      <td>Inj., treanda 1 mg</td>
+    </tr>
+    <tr>
+      <td>J9034</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, bendamustine hcl (bendeka), 1 mg</td>
+      <td>Inj., bendeka 1 mg</td>
+    </tr>
+    <tr>
+      <td>J9035</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, bevacizumab, 10 mg</td>
+      <td>Bevacizumab injection</td>
+    </tr>
+    <tr>
+      <td>J9036</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, bendamustine hydrochloride, (belrapzo/bendamustine), 1 mg</td>
+      <td>Inj. belrapzo/bendamustine</td>
+    </tr>
+    <tr>
+      <td>J9039</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, blinatumomab, 1 microgram</td>
+      <td>Injection, blinatumomab</td>
+    </tr>
+    <tr>
+      <td>J9040</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, bleomycin sulfate, 15 units</td>
+      <td>Bleomycin sulfate injection</td>
+    </tr>
+    <tr>
+      <td>J9041</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, bortezomib (velcade), 0.1 mg</td>
+      <td>Inj., velcade 0.1 mg</td>
+    </tr>
+    <tr>
+      <td>J9042</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, brentuximab vedotin, 1 mg</td>
+      <td>Brentuximab vedotin inj</td>
+    </tr>
+    <tr>
+      <td>J9043</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, cabazitaxel, 1 mg</td>
+      <td>Cabazitaxel injection</td>
+    </tr>
+    <tr>
+      <td>J9044</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, bortezomib, not otherwise specified, 0.1 mg</td>
+      <td>Inj, bortezomib, nos, 0.1 mg</td>
+    </tr>
+    <tr>
+      <td>J9045</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, carboplatin, 50 mg</td>
+      <td>Carboplatin injection</td>
+    </tr>
+    <tr>
+      <td>J9047</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, carfilzomib, 1 mg</td>
+      <td>Injection, carfilzomib, 1 mg</td>
+    </tr>
+    <tr>
+      <td>J9050</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, carmustine, 100 mg</td>
+      <td>Carmustine injection</td>
+    </tr>
+    <tr>
+      <td>J9055</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, cetuximab, 10 mg</td>
+      <td>Cetuximab injection</td>
+    </tr>
+    <tr>
+      <td>J9057</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, copanlisib, 1 mg</td>
+      <td>Inj., copanlisib, 1 mg</td>
+    </tr>
+    <tr>
+      <td>J9060</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, cisplatin, powder or solution, 10 mg</td>
+      <td>Cisplatin 10 mg injection</td>
+    </tr>
+    <tr>
+      <td>J9065</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, cladribine, per 1 mg</td>
+      <td>Inj cladribine per 1 mg</td>
+    </tr>
+    <tr>
+      <td>J9070</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Cyclophosphamide, 100 mg</td>
+      <td>Cyclophosphamide 100 mg inj</td>
+    </tr>
+    <tr>
+      <td>J9098</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, cytarabine liposome, 10 mg</td>
+      <td>Cytarabine liposome inj</td>
+    </tr>
+    <tr>
+      <td>J9100</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, cytarabine, 100 mg</td>
+      <td>Cytarabine hcl 100 mg inj</td>
+    </tr>
+    <tr>
+      <td>J9118</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, calaspargase pegol-mknl, 10 units</td>
+      <td>Inj. calaspargase pegol-mknl</td>
+    </tr>
+    <tr>
+      <td>J9119</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, cemiplimab-rwlc, 1 mg</td>
+      <td>Inj., cemiplimab-rwlc, 1 mg</td>
+    </tr>
+    <tr>
+      <td>J9120</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, dactinomycin, 0.5 mg</td>
+      <td>Dactinomycin injection</td>
+    </tr>
+    <tr>
+      <td>J9130</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Dacarbazine, 100 mg</td>
+      <td>Dacarbazine 100 mg inj</td>
+    </tr>
+    <tr>
+      <td>J9145</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, daratumumab, 10 mg</td>
+      <td>Injection, daratumumab 10 mg</td>
+    </tr>
+    <tr>
+      <td>J9150</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, daunorubicin, 10 mg</td>
+      <td>Daunorubicin injection</td>
+    </tr>
+    <tr>
+      <td>J9151</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, daunorubicin citrate, liposomal formulation, 10 mg</td>
+      <td>Daunorubicin citrate inj</td>
+    </tr>
+    <tr>
+      <td>J9153</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, liposomal, 1 mg daunorubicin and 2.27 mg cytarabine</td>
+      <td>Inj daunorubicin, cytarabine</td>
+    </tr>
+    <tr>
+      <td>J9155</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, degarelix, 1 mg</td>
+      <td>Degarelix injection</td>
+    </tr>
+    <tr>
+      <td>J9160</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, denileukin diftitox, 300 micrograms</td>
+      <td>Denileukin diftitox inj</td>
+    </tr>
+    <tr>
+      <td>J9165</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, diethylstilbestrol diphosphate, 250 mg</td>
+      <td>Diethylstilbestrol injection</td>
+    </tr>
+    <tr>
+      <td>J9171</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, docetaxel, 1 mg</td>
+      <td>Docetaxel injection</td>
+    </tr>
+    <tr>
+      <td>J9173</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, durvalumab, 10 mg</td>
+      <td>Inj., durvalumab, 10 mg</td>
+    </tr>
+    <tr>
+      <td>J9175</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, elliotts’ b solution, 1 ml</td>
+      <td>Elliotts b solution per ml</td>
+    </tr>
+    <tr>
+      <td>J9176</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, elotuzumab, 1 mg</td>
+      <td>Injection, elotuzumab, 1mg</td>
+    </tr>
+    <tr>
+      <td>J9178</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, epirubicin hcl, 2 mg</td>
+      <td>Inj, epirubicin hcl, 2 mg</td>
+    </tr>
+    <tr>
+      <td>J9179</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, eribulin mesylate, 0.1 mg</td>
+      <td>Eribulin mesylate injection</td>
+    </tr>
+    <tr>
+      <td>J9181</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, etoposide, 10 mg</td>
+      <td>Etoposide injection</td>
+    </tr>
+    <tr>
+      <td>J9185</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, fludarabine phosphate, 50 mg</td>
+      <td>Fludarabine phosphate inj</td>
+    </tr>
+    <tr>
+      <td>J9190</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, fluorouracil, 500 mg</td>
+      <td>Fluorouracil injection</td>
+    </tr>
+    <tr>
+      <td>J9199</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, gemcitabine hydrochloride (infugem), 200 mg</td>
+      <td>Injection, infugem, 200 mg</td>
+    </tr>
+    <tr>
+      <td>J9200</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, floxuridine, 500 mg</td>
+      <td>Floxuridine injection</td>
+    </tr>
+    <tr>
+      <td>J9201</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, gemcitabine hydrochloride, not otherwise specified, 200 mg</td>
+      <td>In gemcitabine hcl nos 200mg</td>
+    </tr>
+    <tr>
+      <td>J9202</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Goserelin acetate implant, per 3.6 mg</td>
+      <td>Goserelin acetate implant</td>
+    </tr>
+    <tr>
+      <td>J9203</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, gemtuzumab ozogamicin, 0.1 mg</td>
+      <td>Gemtuzumab ozogamicin 0.1 mg</td>
+    </tr>
+    <tr>
+      <td>J9204</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, mogamulizumab-kpkc, 1 mg</td>
+      <td>Inj mogamulizumab-kpkc, 1 mg</td>
+    </tr>
+    <tr>
+      <td>J9205</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, irinotecan liposome, 1 mg</td>
+      <td>Inj irinotecan liposome 1 mg</td>
+    </tr>
+    <tr>
+      <td>J9206</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, irinotecan, 20 mg</td>
+      <td>Irinotecan injection</td>
+    </tr>
+    <tr>
+      <td>J9207</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ixabepilone, 1 mg</td>
+      <td>Ixabepilone injection</td>
+    </tr>
+    <tr>
+      <td>J9208</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ifosfamide, 1 gram</td>
+      <td>Ifosfamide injection</td>
+    </tr>
+    <tr>
+      <td>J9209</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, mesna, 200 mg</td>
+      <td>Mesna injection</td>
+    </tr>
+    <tr>
+      <td>J9210</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, emapalumab-lzsg, 1 mg</td>
+      <td>Inj., emapalumab-lzsg, 1 mg</td>
+    </tr>
+    <tr>
+      <td>J9211</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, idarubicin hydrochloride, 5 mg</td>
+      <td>Idarubicin hcl injection</td>
+    </tr>
+    <tr>
+      <td>J9212</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, interferon alfacon-1, recombinant, 1 microgram</td>
+      <td>Interferon alfacon-1 inj</td>
+    </tr>
+    <tr>
+      <td>J9213</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, interferon, alfa-2a, recombinant, 3 million units</td>
+      <td>Interferon alfa-2a inj</td>
+    </tr>
+    <tr>
+      <td>J9214</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, interferon, alfa-2b, recombinant, 1 million units</td>
+      <td>Interferon alfa-2b inj</td>
+    </tr>
+    <tr>
+      <td>J9215</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, interferon, alfa-n3, (human leukocyte derived), 250,000 iu</td>
+      <td>Interferon alfa-n3 inj</td>
+    </tr>
+    <tr>
+      <td>J9216</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, interferon, gamma 1-b, 3 million units</td>
+      <td>Interferon gamma 1-b inj</td>
+    </tr>
+    <tr>
+      <td>J9217</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Leuprolide acetate (for depot suspension), 7.5 mg</td>
+      <td>Leuprolide acetate suspnsion</td>
+    </tr>
+    <tr>
+      <td>J9218</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Leuprolide acetate, per 1 mg</td>
+      <td>Leuprolide acetate injeciton</td>
+    </tr>
+    <tr>
+      <td>J9219</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Leuprolide acetate implant, 65 mg</td>
+      <td>Leuprolide acetate implant</td>
+    </tr>
+    <tr>
+      <td>J9225</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Histrelin implant (vantas), 50 mg</td>
+      <td>Vantas implant</td>
+    </tr>
+    <tr>
+      <td>J9226</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Histrelin implant (supprelin la), 50 mg</td>
+      <td>Supprelin la implant</td>
+    </tr>
+    <tr>
+      <td>J9228</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ipilimumab, 1 mg</td>
+      <td>Ipilimumab injection</td>
+    </tr>
+    <tr>
+      <td>J9229</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, inotuzumab ozogamicin, 0.1 mg</td>
+      <td>Inj inotuzumab ozogam 0.1 mg</td>
+    </tr>
+    <tr>
+      <td>J9230</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, mechlorethamine hydrochloride, (nitrogen mustard), 10 mg</td>
+      <td>Mechlorethamine hcl inj</td>
+    </tr>
+    <tr>
+      <td>J9245</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, melphalan hydrochloride, 50 mg</td>
+      <td>Inj melphalan hydrochl 50 mg</td>
+    </tr>
+    <tr>
+      <td>J9250</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Methotrexate sodium, 5 mg</td>
+      <td>Methotrexate sodium inj</td>
+    </tr>
+    <tr>
+      <td>J9260</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Methotrexate sodium, 50 mg</td>
+      <td>Methotrexate sodium inj</td>
+    </tr>
+    <tr>
+      <td>J9261</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, nelarabine, 50 mg</td>
+      <td>Nelarabine injection</td>
+    </tr>
+    <tr>
+      <td>J9262</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, omacetaxine mepesuccinate, 0.01 mg</td>
+      <td>Inj, omacetaxine mep, 0.01mg</td>
+    </tr>
+    <tr>
+      <td>J9263</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, oxaliplatin, 0.5 mg</td>
+      <td>Oxaliplatin</td>
+    </tr>
+    <tr>
+      <td>J9264</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, paclitaxel protein-bound particles, 1 mg</td>
+      <td>Paclitaxel protein bound</td>
+    </tr>
+    <tr>
+      <td>J9265</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, paclitaxel, 30 mg</td>
+      <td>Paclitaxel injection</td>
+    </tr>
+    <tr>
+      <td>J9266</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, pegaspargase, per single dose vial</td>
+      <td>Pegaspargase injection</td>
+    </tr>
+    <tr>
+      <td>J9267</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, paclitaxel, 1 mg</td>
+      <td>Paclitaxel injection</td>
+    </tr>
+    <tr>
+      <td>J9268</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, pentostatin, 10 mg</td>
+      <td>Pentostatin injection</td>
+    </tr>
+    <tr>
+      <td>J9269</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, tagraxofusp-erzs, 10 micrograms</td>
+      <td>Inj. tagraxofusp-erzs 10 mcg</td>
+    </tr>
+    <tr>
+      <td>J9270</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, plicamycin, 2.5 mg</td>
+      <td>Plicamycin (mithramycin) inj</td>
+    </tr>
+    <tr>
+      <td>J9271</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, pembrolizumab, 1 mg</td>
+      <td>Inj pembrolizumab</td>
+    </tr>
+    <tr>
+      <td>J9280</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, mitomycin, 5 mg</td>
+      <td>Mitomycin injection</td>
+    </tr>
+    <tr>
+      <td>J9285</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, olaratumab, 10 mg</td>
+      <td>Inj, olaratumab, 10 mg</td>
+    </tr>
+    <tr>
+      <td>J9293</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, mitoxantrone hydrochloride, per 5 mg</td>
+      <td>Mitoxantrone hydrochl / 5 mg</td>
+    </tr>
+    <tr>
+      <td>J9295</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, necitumumab, 1 mg</td>
+      <td>Injection, necitumumab, 1 mg</td>
+    </tr>
+    <tr>
+      <td>J9299</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, nivolumab, 1 mg</td>
+      <td>Injection, nivolumab</td>
+    </tr>
+    <tr>
+      <td>J9300</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, gemtuzumab ozogamicin, 5 mg</td>
+      <td>Gemtuzumab ozogamicin inj</td>
+    </tr>
+    <tr>
+      <td>J9301</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, obinutuzumab, 10 mg</td>
+      <td>Obinutuzumab inj</td>
+    </tr>
+    <tr>
+      <td>J9302</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ofatumumab, 10 mg</td>
+      <td>Ofatumumab injection</td>
+    </tr>
+    <tr>
+      <td>J9303</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, panitumumab, 10 mg</td>
+      <td>Panitumumab injection</td>
+    </tr>
+    <tr>
+      <td>J9305</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, pemetrexed, 10 mg</td>
+      <td>Pemetrexed injection</td>
+    </tr>
+    <tr>
+      <td>J9306</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, pertuzumab, 1 mg</td>
+      <td>Injection, pertuzumab, 1 mg</td>
+    </tr>
+    <tr>
+      <td>J9307</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, pralatrexate, 1 mg</td>
+      <td>Pralatrexate injection</td>
+    </tr>
+    <tr>
+      <td>J9308</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ramucirumab, 5 mg</td>
+      <td>Injection, ramucirumab</td>
+    </tr>
+    <tr>
+      <td>J9309</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, polatuzumab vedotin-piiq, 1 mg</td>
+      <td>Inj, polatuzumab vedotin 1mg</td>
+    </tr>
+    <tr>
+      <td>J9310</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, rituximab, 100 mg</td>
+      <td>Rituximab injection</td>
+    </tr>
+    <tr>
+      <td>J9311</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, rituximab 10 mg and hyaluronidase</td>
+      <td>Inj rituximab, hyaluronidase</td>
+    </tr>
+    <tr>
+      <td>J9312</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, rituximab, 10 mg</td>
+      <td>Inj., rituximab, 10 mg</td>
+    </tr>
+    <tr>
+      <td>J9313</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, moxetumomab pasudotox-tdfk, 0.01 mg</td>
+      <td>Inj., lumoxiti, 0.01 mg</td>
+    </tr>
+    <tr>
+      <td>J9315</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, romidepsin, 1 mg</td>
+      <td>Romidepsin injection</td>
+    </tr>
+    <tr>
+      <td>J9320</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, streptozocin, 1 gram</td>
+      <td>Streptozocin injection</td>
+    </tr>
+    <tr>
+      <td>J9325</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, talimogene laherparepvec, per 1 million plaque forming units</td>
+      <td>Inj talimogene laherparepvec</td>
+    </tr>
+    <tr>
+      <td>J9328</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, temozolomide, 1 mg</td>
+      <td>Temozolomide injection</td>
+    </tr>
+    <tr>
+      <td>J9330</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, temsirolimus, 1 mg</td>
+      <td>Temsirolimus injection</td>
+    </tr>
+    <tr>
+      <td>J9340</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, thiotepa, 15 mg</td>
+      <td>Thiotepa injection</td>
+    </tr>
+    <tr>
+      <td>J9351</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, topotecan, 0.1 mg</td>
+      <td>Topotecan injection</td>
+    </tr>
+    <tr>
+      <td>J9352</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, trabectedin, 0.1 mg</td>
+      <td>Injection trabectedin 0.1mg</td>
+    </tr>
+    <tr>
+      <td>J9354</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ado-trastuzumab emtansine, 1 mg</td>
+      <td>Inj, ado-trastuzumab emt 1mg</td>
+    </tr>
+    <tr>
+      <td>J9355</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, trastuzumab, excludes biosimilar, 10 mg</td>
+      <td>Inj trastuzumab excl biosimi</td>
+    </tr>
+    <tr>
+      <td>J9356</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, trastuzumab, 10 mg and hyaluronidase-oysk</td>
+      <td>Inj. herceptin hylecta, 10mg</td>
+    </tr>
+    <tr>
+      <td>J9357</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, valrubicin, intravesical, 200 mg</td>
+      <td>Valrubicin injection</td>
+    </tr>
+    <tr>
+      <td>J9360</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, vinblastine sulfate, 1 mg</td>
+      <td>Vinblastine sulfate inj</td>
+    </tr>
+    <tr>
+      <td>J9370</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Vincristine sulfate, 1 mg</td>
+      <td>Vincristine sulfate 1 mg inj</td>
+    </tr>
+    <tr>
+      <td>J9371</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, vincristine sulfate liposome, 1 mg</td>
+      <td>Inj, vincristine sul lip 1mg</td>
+    </tr>
+    <tr>
+      <td>J9390</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, vinorelbine tartrate, 10 mg</td>
+      <td>Vinorelbine tartrate inj</td>
+    </tr>
+    <tr>
+      <td>J9395</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, fulvestrant, 25 mg</td>
+      <td>Injection, fulvestrant</td>
+    </tr>
+    <tr>
+      <td>J9400</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, ziv-aflibercept, 1 mg</td>
+      <td>Inj, ziv-aflibercept, 1mg</td>
+    </tr>
+    <tr>
+      <td>J9600</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Injection, porfimer sodium, 75 mg</td>
+      <td>Porfimer sodium injection</td>
+    </tr>
+    <tr>
+      <td>J9999</td>
+      <td>0010</td>
+      <td>3</td>
+      <td>Not otherwise classified, antineoplastic drugs</td>
+      <td>Chemotherapy drug</td>
+    </tr>
+  </tbody>
+</table>
+:ET

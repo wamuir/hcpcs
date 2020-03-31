@@ -3,7 +3,7 @@ title: HCPCS Selection Tool
 email: william.muir@nps.edu
 description: Health Care Procedure Coding System (HCPCS) Selection Tool for Government Acquisition Professionals
 baseurl: "/hcpcs"
-url: ""
+url: "https://wamuir.github.io"
 author: William Muir
 street_address:
 city: 
@@ -15,7 +15,7 @@ phone:
 # Social settings
 500px_url:
 facebook_url:
-github_url:
+github_url: "https://github.com/wamuir/hcpcs"
 gitlab_url: 
 googleplus_url: 
 instagram_url: 
