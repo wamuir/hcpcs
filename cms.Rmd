@@ -1,11 +1,14 @@
 ---
 title: Health Care Procedure Coding System
 author: William Muir
-date: March 30, 2020
+date: March 31st, 2020
 output:
   rmarkdown::html_document:
+    self_contained: true
+    css: ["style.css"]
+    highlight: null
+    mathjax: null
     theme: yeti
-    highlight: pygments
     toc: true
     toc_float: true
     collapsed: false
@@ -16,10 +19,13 @@ output:
 
 # About the 2020 Health Care Procedure Coding System (HCPCS)
 
+Each year, in the United States, health care insurers process over 5 billion claims for payment. For Medicare and other health insurance programs to ensure that these claims are processed in an orderly and consistent manner, standardized coding systems are essential. The HCPCS Level II Code Set is one of the standard code sets used for this purpose. The HCPCS is divided into two principal subsystems, referred to as level I and level II of the HCPCS. Level I of the HCPCS is comprised of CPT (Current Procedural Terminology), a numeric coding system maintained by the American Medical Association (AMA). The CPT is a uniform coding system consisting of descriptive terms and identifying codes that are used primarily to identify medical services and procedures furnished by physicians and other health care professionals. These health care professionals use the CPT to identify services and procedures for which they bill public or private health insurance programs. Decisions regarding the addition, deletion, or revision of CPT codes are made by the AMA. The CPT codes are republished and updated annually by the AMA. Level I of the HCPCS, the CPT codes, does not include codes needed to separately report medical items or services that are regularly billed by suppliers other than physicians.
+
+Level II of the HCPCS is a standardized coding system that is used primarily to identify products, supplies, and services not included in the CPT codes, such as ambulance services and durable medical equipment, prosthetics, orthotics, and supplies (DMEPOS) when used outside a physician's office. Because Medicare and other insurers cover a variety of services, supplies, and equipment that are not identified by CPT codes, the level II HCPCS codes were established for submitting claims for these items. The development and use of level II of the HCPCS began in the 1980's. Level II codes are also referred to as alpha-numeric codes because they consist of a single alphabetical letter followed by 4 numeric digits, while CPT codes are identified using 5 numeric digits.
+
 - The source for these data is [The Centers for Medicare & Medicaid Services](https://www.cms.gov)
 
-- In some instances, brand names may appear in HCPCS descriptions.  These names have been included for indexing purposes only; their inclusion does not convey endorsement
-  of any particular brand.
+- In some instances, brand names may appear in HCPCS descriptions.  These names have been included for indexing purposes only; their inclusion does not convey endorsement of any particular brand.
 
 # HCPCS Codes
 
@@ -397,7 +403,7 @@ output:
 |    ZB | 0010 | 7 | Pfizer/hospira | Pfizer/hospira |
 |    ZC | 0010 | 7 | Merck/samsung bioepis | Merck/samsung bioepis |
 
-## A Series: Transportation Services, Including Ambulance Medical and Surgical Supplies (A0000-A9999)
+## A0000--A9999: Transportation Services, Including Ambulance Medical and Surgical Supplies
 
 | HCPC | SEQNUM | RECID | LONG DESCRIPTION | SHORT DESCRIPTION |
 |------|--------|-------|------------------|-------------------|
@@ -1080,7 +1086,7 @@ output:
 | A9901 | 0010 | 3 | Dme delivery, set up, and/or dispensing service component of another hcpcs code | Delivery/set up/dispensing |
 | A9999 | 0010 | 3 | Miscellaneous dme supply or accessory, not otherwise specified | Dme supply or accessory, nos |
 
-## B Series: Enteral and Perenteral Therapy (B4000-B9999)
+## B4000--B9999: Enteral and Perenteral Therapy
 
 | HCPC | SEQNUM | RECID | LONG DESCRIPTION | SHORT DESCRIPTION |
 |------|--------|-------|------------------|-------------------|
@@ -1135,7 +1141,7 @@ output:
 | B9998 | 0010 | 3 | Noc for enteral supplies | Enteral supp not otherwise c |
 | B9999 | 0010 | 3 | Noc for parenteral supplies | Parenteral supp not othrws c |
 
-## C Series: Outpatient Prospective Payment System (C1000-C9999)
+## C1000--C9999: Outpatient Prospective Payment System
 
 | HCPC | SEQNUM | RECID | LONG DESCRIPTION | SHORT DESCRIPTION |
 |------|--------|-------|------------------|-------------------|
@@ -1490,13 +1496,13 @@ output:
 | C9898 | 0010 | 3 | Radiolabeled product provided during a hospital inpatient stay | Inpnt stay radiolabeled item |
 | C9899 | 0010 | 3 | Implanted prosthetic device, payable only for inpatients who do not have inpatient coverage | Inpt implant pros dev,no cov |
 
-## D Series: Dental Procedures (D0000-D9999)
+## D0000--D9999: Dental Procedures
 
 | HCPC | SEQNUM | RECID | LONG DESCRIPTION | SHORT DESCRIPTION |
 |------|--------|-------|------------------|-------------------|
 
 
-## E Series: Durable Medical Equipment (E0100-E9999)
+## E0100--E9999: Durable Medical Equipment
 
 | HCPC | SEQNUM | RECID | LONG DESCRIPTION | SHORT DESCRIPTION |
 |------|--------|-------|------------------|-------------------|
@@ -2109,7 +2115,7 @@ output:
 | E8001 | 0010 | 3 | Gait trainer, pediatric size, upright support, includes all accessories and components | Upright gait trainer |
 | E8002 | 0010 | 3 | Gait trainer, pediatric size, anterior support, includes all accessories and components | Anterior gait trainer |
 
-## G Series: Procedures/Professional Services (G0000-G9999)
+## G0000--G9999: Procedures/Professional Services
 
 | HCPC | SEQNUM | RECID | LONG DESCRIPTION | SHORT DESCRIPTION |
 |------|--------|-------|------------------|-------------------|
@@ -3837,7 +3843,7 @@ output:
 | G9986 | 0010 | 3 | Remote in-home visit for the evaluation and management of an established patient for use only in a medicare-approved bundled payments for care improvement advanced (bpci advanced) model episode of care, which requires at least 2 of the following 3 key components: a comprehensive history; a comprehensive examination; medical decision making of high complexity, furnished in real time using interactive audio and video technology.  counseling and coordination of care with other physicians, other qualified health care professionals or agencies are provided consistent with the nature of the problem(s) and the needs of the patient or the family or both. usually, the presenting problem(s) are of moderate to high severity. typically, 40 minutes are spent with the patient or family or both via real time, audio and video intercommunications technology | Remote e/m est. pt 40mins |
 | G9987 | 0010 | 3 | Bundled payments for care improvement advanced (bpci advanced) model home visit for patient assessment performed by clinical staff for an individual not considered homebound, including, but not necessarily limited to patient assessment of clinical status, safety/fall prevention, functional status/ambulation, medication reconciliation/management, compliance with orders/plan of care, performance of activities of daily living, and ensuring beneficiary  connections to community and other services; for use only for a bpci advanced model episode of care; may not be billed for a 30-day period covered by a transitional care management code | Bpci advanced in home visit |
 
-## H Series: Alcohol and Drug Abuse Treatment/Rehabilitative Services (H0001-H2037)
+## H0001--H2037: Alcohol and Drug Abuse Treatment/Rehabilitative Services
 
 | HCPC | SEQNUM | RECID | LONG DESCRIPTION | SHORT DESCRIPTION |
 |------|--------|-------|------------------|-------------------|
@@ -3930,7 +3936,7 @@ output:
 | H2036 | 0010 | 3 | Alcohol and/or other drug treatment program, per diem | A/d tx program, per diem |
 | H2037 | 0010 | 3 | Developmental delay prevention activities, dependent child of client, per 15 minutes | Dev delay prev dp ch, 15 min |
 
-## J Series: Drugs Administered Other Than Oral Method (J0000-J9999)
+## J0000--J9999: Drugs Administered Other Than Oral Method
 
 | HCPC | SEQNUM | RECID | LONG DESCRIPTION | SHORT DESCRIPTION |
 |------|--------|-------|------------------|-------------------|
@@ -4745,7 +4751,7 @@ output:
 | J9600 | 0010 | 3 | Injection, porfimer sodium, 75 mg | Porfimer sodium injection |
 | J9999 | 0010 | 3 | Not otherwise classified, antineoplastic drugs | Chemotherapy drug |
 
-## K Series: Durable Medical Equipment for Medicare Administrative Contractors (K0000-K9999)
+## K0000--K9999: Durable Medical Equipment for Medicare Administrative Contractors
 
 | HCPC | SEQNUM | RECID | LONG DESCRIPTION | SHORT DESCRIPTION |
 |------|--------|-------|------------------|-------------------|
@@ -4894,7 +4900,7 @@ output:
 | K1004 | 0010 | 3 | Low frequency ultrasonic diathermy treatment device for home use, includes all components and accessories | Lo freq us diathermy device |
 | K1005 | 0010 | 3 | Disposable collection and storage bag for breast milk, any size, any type, each | Disp col sto bag breast milk |
 
-## L Series: Orhotic and Prosthetic Procedures, Devices (L0000-L9999)
+## L0000--L9999: Orthotic and Prosthetic Procedures, Devices
 
 | HCPC | SEQNUM | RECID | LONG DESCRIPTION | SHORT DESCRIPTION |
 |------|--------|-------|------------------|-------------------|
@@ -5803,7 +5809,7 @@ output:
 | L8702 | 0010 | 3 | Powered upper extremity range of motion assist device, elbow, wrist, hand, finger, single or double upright(s), includes microprocessor, sensors, all components and accessories, custom fabricated | Pow ue rom dev ewhf uprt cus |
 | L9900 | 0010 | 3 | Orthotic and prosthetic supply, accessory, and/or service component of another hcpcs "l" code | O&p supply/accessory/service |
 
-## M Series: Medical Services (M0000-M9999)
+## M0000--M9999: Medical Services
 
 | HCPC | SEQNUM | RECID | LONG DESCRIPTION | SHORT DESCRIPTION |
 |------|--------|-------|------------------|-------------------|
@@ -5925,7 +5931,7 @@ output:
 | M1143 | 0010 | 3 | Initiated episode of rehabilitation therapy, medical, or chiropractic care for neck impairment | Ni rehab med chiro |
 | M1144 | 0010 | 3 | Ongoing care not indicated, patient seen only 1-2 visits (e.g., home program only, referred to another provider or facility, consultation only | Oc no ind pt 1-2 vis |
 
-## P Series: Pathology and Laboratory Services (P0000-P9999)
+## P0000--P9999: Pathology and Laboratory Services
 
 | HCPC | SEQNUM | RECID | LONG DESCRIPTION | SHORT DESCRIPTION |
 |------|--------|-------|------------------|-------------------|
@@ -5986,7 +5992,7 @@ output:
 | P9612 | 0010 | 3 | Catheterization for collection of specimen, single patient, all places of service | Catheterize for urine spec |
 | P9615 | 0010 | 3 | Catheterization for collection of specimen(s) (multiple patients) | Urine specimen collect mult |
 
-## Q Series: Miscellaneous Services (Q0000-Q9999)
+## Q0000--Q9999: Miscellaneous Services
 
 | HCPC | SEQNUM | RECID | LONG DESCRIPTION | SHORT DESCRIPTION |
 |------|--------|-------|------------------|-------------------|
@@ -6327,7 +6333,7 @@ output:
 | Q9994 | 0010 | 3 | In-line cartridge containing digestive enzyme(s) for enteral feeding, each | Enzyme cartridge enteral nut |
 | Q9995 | 0010 | 3 | Injection, emicizumab-kxwh, 0.5 mg | Inj., emicizumab-kxwh 0.5 mg |
 
-## R Series: Diagnostic Radiology Services (R0000-R9999)
+## R0000--R9999: Diagnostic Radiology Services
 
 | HCPC | SEQNUM | RECID | LONG DESCRIPTION | SHORT DESCRIPTION |
 |------|--------|-------|------------------|-------------------|
@@ -6335,7 +6341,7 @@ output:
 | R0075 | 0010 | 3 | Transportation of portable x-ray equipment and personnel to home or nursing home, per trip to facility or location, more than one patient seen | Transport port x-ray multipl |
 | R0076 | 0010 | 3 | Transportation of portable ekg to facility or location, per patient | Transport portable ekg |
 
-## S Series: Commercial Payers (S0000-S9999)
+## S0000-S9999: Commercial Payers
 
 | HCPC | SEQNUM | RECID | LONG DESCRIPTION | SHORT DESCRIPTION |
 |------|--------|-------|------------------|-------------------|
@@ -6866,7 +6872,7 @@ output:
 | S9996 | 0010 | 3 | Meals for clinical trial participant and one caregiver/companion | Meals for clinical trial par |
 | S9999 | 0010 | 3 | Sales tax | Sales tax |
 
-## T Series: Established for State Medical Agencies (T0000-T9999)
+## T0000--T9999: Established for State Medical Agencies
 
 | HCPC | SEQNUM | RECID | LONG DESCRIPTION | SHORT DESCRIPTION |
 |------|--------|-------|------------------|-------------------|
@@ -6980,7 +6986,7 @@ output:
 | T5001 | 0010 | 3 | Positioning seat for persons with special orthopedic needs | Position seat spec orth need |
 | T5999 | 0010 | 3 | Supply, not otherwise specified | Supply, nos |
 
-## V Series: Vision, Hearing and Speech-Language Pathology Services (V0000-V9999)
+## V0000--V9999: Vision, Hearing and Speech-Language Pathology Services
 
 | HCPC | SEQNUM | RECID | LONG DESCRIPTION | SHORT DESCRIPTION |
 |------|--------|-------|------------------|-------------------|
@@ -7193,3 +7199,5 @@ output:
 | V5362 | 0010 | 3 | Speech screening | Speech screening |
 | V5363 | 0010 | 3 | Language screening | Language screening |
 | V5364 | 0010 | 3 | Dysphagia screening | Dysphagia screening |
+
+<div class="tocify-extend-page" data-unique="tocify-extend-page" style="height: 0;"></div>
