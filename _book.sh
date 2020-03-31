@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# Need to parse title from yaml header as first-level header/h1 in output md
+
 book='---
 title: Health Care Procedure Coding System
 author: William Muir
